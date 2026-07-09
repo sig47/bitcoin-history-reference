@@ -1,0 +1,1 @@
+I am collecting references to people and projects that have been involved in the history of bitcoin. This is an ongoing project that is AI generated, so I can't guaranty accuracy. This is really a tool for my own research. I did limit the editorializing in my prompts, so hopefully the slop is kept to a minimum.
