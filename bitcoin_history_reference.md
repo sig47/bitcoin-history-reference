@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**255 entries — last updated 2026-07-08**
+**344 entries — last updated 2026-07-10**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -257,6 +257,8 @@ American cypherpunk and cryptographer who maintained the Mixmaster anonymous rem
 
 ---
 
+### Pre-Launch Correspondents
+
 ## James A. Donald (dates unknown)
 **Tier:** 2
 **Role:** Cryptography Mailing List Member / First Public Critic
@@ -283,6 +285,8 @@ Developer and cryptography mailing list participant who reviewed Satoshi's Bitco
 - Dillinger's later Bitcointalk posts reflecting on the pre-launch review
 
 ---
+
+### Early Bitcoin Community (2009–2012)
 
 ## NewLibertyStandard (identity unknown)
 **Tier:** 2
@@ -409,6 +413,8 @@ British developer and former Google engineer who contributed to Bitcoin from 201
 - Bitcoin Core GitHub contribution history
 
 ---
+
+### Protocol Developers, Infrastructure & Advocacy
 
 ## Pieter Wuille (1988–present)
 **Tier:** 2
@@ -639,6 +645,8 @@ Bitcoin Core developer and cryptographer who has been active since 2011 and serv
 
 ---
 
+### Developer Funding Organizations
+
 ## Chaincode Labs (founded 2014)
 **Tier:** 2
 **Role:** Bitcoin Developer Research & Education Organization
@@ -698,6 +706,8 @@ Bitcoin-focused developer funding and product organization within Block (Jack Do
 - Stephan Livera Podcast SLP278 — Matt Odell & Ben Price on OpenSats
 
 ---
+
+### Bitcoin Core — Contributors
 
 ## Matt Corallo (dates unknown)
 **Tier:** 2
@@ -936,6 +946,8 @@ A Bitcoin Core developer specializing in wallet optimization, coin selection, an
 
 ---
 
+### Early Forum & Network Infrastructure
+
 ## Dustin Trammell (dates unknown)
 **Tier:** 2
 **Role:** Early Node Operator / Satoshi Correspondent
@@ -1002,6 +1014,8 @@ The Bitcoin-OTC Web of Trust (bitcoin-otc.com), built by nanotube around the #bi
 - Bitcoin-OTC web-of-trust data archive
 
 ---
+
+### Lightning Network — Infrastructure & Routing
 
 ## Rusty Russell (dates unknown)
 **Tier:** 2
@@ -1118,6 +1132,8 @@ German Lightning Network researcher who co-authored "Optimally Reliable & Cheap 
 
 ---
 
+### Wallets & Early Tools
+
 ## Thomas Voegtlin (1979–present)
 **Tier:** 2
 **Role:** Developer / Electrum Wallet Creator
@@ -1158,6 +1174,8 @@ American developer who created Casascius physical Bitcoin coins in 2011 — bras
 - Bitcoin Wiki: Casascius physical bitcoins
 
 ---
+
+### Lightning Network — Protocol & Teams
 
 ## Joseph Poon & Thaddeus Dryja (dates unknown)
 **Tier:** 2
@@ -1218,6 +1236,8 @@ A developer associated with Bitmatrix who, on October 9, 2022, broadcast a valid
 
 ---
 
+### Nostr, Privacy & Communities
+
 ## fiatjaf (pseudonym, identity known)
 **Tier:** 2
 **Role:** Creator of Nostr Protocol
@@ -1260,6 +1280,8 @@ American developer who built Stacker News (stacker.news), a Lightning-native lin
 - Lightning Network integration documentation
 
 ---
+
+### Lightning Wallets & Applications
 
 ## Evan Kaloudis (dates unknown)
 **Tier:** 2
@@ -1375,6 +1397,8 @@ Pseudonymous self-taught developer who created LNbits, a free and open-source Li
 
 ---
 
+### Cryptographic Protocols
+
 ## Rivest, Shamir & Adleman — RSA (1977)
 **Tier:** 2
 **Role:** Cryptographers
@@ -1393,6 +1417,8 @@ Ron Rivest, Adi Shamir, and Leonard Adleman published RSA public-key cryptograph
 *People who accelerated, stressed-tested, or threatened Bitcoin — for better or worse.*
 
 ---
+
+### Silk Road & Dark Web
 
 ## Ross Ulbricht (1984–present)
 **Tier:** 3
@@ -1465,6 +1491,8 @@ DEA agent Carl Force IV and Secret Service agent Shaun Bridges, both assigned to
 
 ---
 
+### Mt. Gox & Early Exchange Failures
+
 ## Mark Karpelès (1985–present)
 **Tier:** 3
 **Role:** CEO, Mt. Gox
@@ -1493,6 +1521,8 @@ Founded Mt. Gox in 2010 as a Magic: The Gathering card trading site, repurposed 
 - Ripple and Stellar founding records
 
 ---
+
+### Antagonists & Controversies
 
 ## Roger Ver (1979–present)
 **Tier:** 3
@@ -1595,6 +1625,8 @@ Co-created DarkWallet with Amir Taaki and founded Defense Distributed, which pro
 
 ---
 
+### Thinkers & Advocates
+
 ## Lyn Alden (1984–present)
 **Tier:** 3
 **Role:** Macroeconomic Analyst / Author / Bitcoin Thinker
@@ -1622,6 +1654,8 @@ Hosts the *What is Money?* podcast, known for long-form philosophical exploratio
 - Breedlove / Saylor interview series (2020–present)
 
 ---
+
+### Protocol Upgrades & Debates
 
 ## SegWit — The Upgrade That Split Bitcoin (activated August 2017)
 **Tier:** 2
@@ -1756,6 +1790,8 @@ Jonas Nick (Blockstream researcher) co-authored BIP340 (Schnorr signatures), BIP
 - Bitcoin Core GitHub contribution history
 
 ---
+
+### Infrastructure, Hardware & Self-Custody
 
 ## Blockstream — Adam Back, Greg Maxwell, Pieter Wuille, Mark Friedenbach, Jorge Timón & team (founded 2014)
 **Tier:** 2
@@ -2013,6 +2049,8 @@ Authored *The Bitcoin Standard* (2018), a widely read book making the economic c
 
 ---
 
+### Corporate Adoption & Public Markets
+
 ## Michael Saylor (1969–present)
 **Tier:** 3
 **Role:** Corporate Bitcoin Advocate / Investor
@@ -2055,6 +2093,8 @@ Engineer and infrastructure architect who joined Coinbase in 2014 and served as 
 - Crunchbase — Rob Witoff / Unit 410
 
 ---
+
+### Mining Hardware & Manufacturers
 
 ## Jihan Wu & Bitmain (Wu: 1986–present)
 **Tier:** 3
@@ -2114,6 +2154,8 @@ Jiang Xinyu, operating under the pseudonym Friedcat, designed the first commerci
 
 ---
 
+### Mining Pools
+
 ## AntPool — Bitmain (founded 2014)
 **Tier:** 2
 **Role:** Bitcoin Mining Pool
@@ -2157,6 +2199,8 @@ Mao Shihang (known online as Discus Fish) and Chun Wang co-founded F2Pool in May
 - CoinDesk coverage
 
 ---
+
+### Exchanges & Brokerages
 
 ## Jered Kenna — Tradehill (dates unknown)
 **Tier:** 3
@@ -2300,6 +2344,8 @@ Created Litecoin (October 2011), the first significant Bitcoin-derived altcoin t
 
 ---
 
+### Block Inc. & Jack Dorsey
+
 ## Cash App Bitcoin — Block Inc. (launched 2018)
 **Tier:** 3
 **Role:** Bitcoin Retail Onramp / Payment Platform
@@ -2355,6 +2401,8 @@ Former Twitter/X CEO who founded Block Inc. (formerly Square) with a stated Bitc
 - Dorsey's congressional testimony and public statements on Bitcoin
 
 ---
+
+### Media, Educators & Commentators
 
 ## Matt Odell (dates unknown)
 **Tier:** 3
@@ -2781,6 +2829,8 @@ Adjunct professor of finance and economics at USC Marshall School of Business an
 
 ---
 
+### Macro Analysts
+
 ## Luke Gromen (dates unknown)
 **Tier:** 3
 **Role:** Macro Analyst / Bitcoin Thinker
@@ -2856,6 +2906,8 @@ Robert Toru Kiyosaki was born April 8, 1947, in Hilo, Hawaii, to a Japanese-Amer
 
 ---
 
+### Podcasters
+
 ## Guy Swann (dates unknown)
 **Tier:** 3
 **Role:** Podcaster / Bitcoin Literature Curator
@@ -2925,6 +2977,8 @@ Founded What Bitcoin Did podcast (2017), a widely listened Bitcoin interview sho
 
 ---
 
+### Cultural Moments
+
 ## Christian Langalis — Bitcoin Sign Guy (dates unknown)
 **Tier:** 3
 **Role:** Cultural Moment / Accidental Bitcoin Ambassador
@@ -2952,6 +3006,8 @@ A cloistered Benedictine order of nuns founded by Sister Mary Wilhelmina Lancast
 - Bitcoin News — Benedictines of Mary Bitcoin adoption story
 
 ---
+
+### Payment Processors & Crowdfunding
 
 ## BitPay — Tony Gallippi & Stephen Pair (dates unknown)
 **Tier:** 3
@@ -2994,6 +3050,8 @@ Bitcoin-native crowdfunding platform co-founded by Mick Morucci (known as MetaMi
 - Crunchbase — Geyser company profile
 
 ---
+
+### Circular Economy & Bitcoin Adoption
 
 ## Steak 'n Shake / Sardar Biglari (dates unknown)
 **Tier:** 3
@@ -3177,6 +3235,8 @@ A surf town and resort city on France's Atlantic Basque coast that developed one
 - Coverage: French Bitcoin media, Bitcoin Magazine, Nostr
 
 ---
+
+### Emerging Markets & Global Adoption by Region
 
 ## Bitcoin in Africa — Senegal & the CFA Franc Context (ongoing)
 **Tier:** 3
@@ -3370,6 +3430,8 @@ Paraguay became one of Latin America's most attractive Bitcoin mining destinatio
 
 ---
 
+### Community, Events & BitDevs
+
 ## BitDevs NYC (founded 2013)
 **Tier:** 3
 **Role:** Bitcoin Developer Meetup / Originator of the BitDevs Socratic Seminar Format
@@ -3483,6 +3545,8 @@ British Bitcoin podcaster and educator who hosts *Once Bitten! A Bitcoin Podcast
 - BTC Prague speaker profile
 
 ---
+
+### Political Figures & Regulators
 
 ## Donald Trump (1946–present)
 **Tier:** 3
@@ -3623,6 +3687,8 @@ Davidson introduced the "Keep Your Coins Act" protecting the right to self-custo
 
 ---
 
+### Mining Companies
+
 ## Riot Platforms — Jason Les (dates unknown)
 **Tier:** 3
 **Role:** Public Bitcoin Mining Company
@@ -3735,6 +3801,8 @@ Founded by Jihan Wu following his departure from Bitmain; operates Bitcoin minin
 - Bitdeer Nasdaq listing via SPAC documentation
 
 ---
+
+### Institutional Investors & Venture Capital
 
 ## Ross Stevens — NYDIG (dates unknown)
 **Tier:** 3
@@ -3853,6 +3921,8 @@ Bitcoin-only venture fund founded by Mike Jarmuz and headquartered in Buenos Air
 
 ---
 
+### Bitcoin ETF & Asset Managers
+
 ## Larry Fink (1952–present)
 **Tier:** 3
 **Role:** CEO, BlackRock / Bitcoin ETF Catalyst
@@ -3913,6 +3983,8 @@ Filed for a spot Bitcoin ETF through ARK Invest's partnership with 21Shares more
 - ARKB approval and launch (January 2024)
 
 ---
+
+### 2022 Contagion & Exchange Collapses
 
 ## Stephen Ehrlich — Voyager Digital (dates unknown)
 **Tier:** 3
@@ -4050,6 +4122,8 @@ Founded Binance (2017), which became the world's largest crypto exchange by volu
 
 ---
 
+### El Salvador
+
 ## Bitcoin Beach / El Zonte — Mike Peterson & Community (dates unknown)
 **Tier:** 2
 **Role:** Circular Economy Pioneers / Bitcoin Legal Tender Catalyst
@@ -4124,6 +4198,8 @@ Among the earliest and most sustained mainstream media Bitcoin advocates — Kei
 
 ---
 
+### Human Rights & Global Freedom
+
 ## Julian Assange (1971–present)
 **Tier:** 3
 **Role:** WikiLeaks Founder / Bitcoin's First Censorship-Resistance Test
@@ -4187,6 +4263,8 @@ Togolese activist, pan-Africanist, and writer born in 1990 in Lomé, Togo, into 
 
 ---
 
+### Altcoin Figures & Tangential History
+
 ## Vitalik Buterin (1994–present)
 **Tier:** 3
 **Role:** Ethereum Founder / Bitcoin Alumnus
@@ -4244,6 +4322,8 @@ Former Citi executive who served as CEO of Genesis Global Trading, a DCG subsidi
 - Coalition Greenwich — Michael Moro CEO profile
 
 ---
+
+### Global Advocates & Online Communities
 
 ## Anita Posch (dates unknown)
 **Tier:** 3
@@ -4304,6 +4384,8 @@ Ran MPEX, one of Bitcoin's earliest Bitcoin-denominated securities exchanges, an
 
 ---
 
+### Protocol Conflicts & Ordinals
+
 ## Casey Rodarmor & Ordinals (Rodarmor: dates unknown)
 **Tier:** 3
 **Role:** Developer / Ordinals Protocol Creator
@@ -4345,6 +4427,8 @@ Built e-gold, the first widely-used digital currency backed by gold, which reach
 
 ---
 
+### Canadian Bitcoin & Other Exchange History
+
 ## Francis Pouliot (dates unknown)
 **Tier:** 2
 **Role:** Bitcoin Entrepreneur / Bull Bitcoin CEO
@@ -4359,6 +4443,8 @@ A Quebec-based Bitcoin entrepreneur and one of Canada's earliest full-time Bitco
 - Public writings and conference appearances (2013–present)
 
 ---
+
+### Content Creators & Investors
 
 ## Arthur Hayes (1985–present)
 **Tier:** 3
@@ -4609,6 +4695,8 @@ A New York-based entrepreneur and Bitcoin advocate who founded Bitcoin Center NY
 
 ---
 
+### Journalists, Authors & Documentarians
+
 ## Paul Vigna (dates unknown)
 **Tier:** 3
 **Role:** Journalist / Author
@@ -4770,6 +4858,8 @@ A documentary filmmaker whose *Banking on Bitcoin* (2016) was among the earliest
 - cannucciari.com
 
 ---
+
+### Investors, Analysts & Mining Figures
 
 ## Brian Estes (dates unknown)
 **Tier:** 3
