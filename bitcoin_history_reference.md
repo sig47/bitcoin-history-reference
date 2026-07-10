@@ -683,6 +683,22 @@ Bitcoin-focused developer funding and product organization within Block (Jack Do
 
 ---
 
+## OpenSats (founded 2021)
+**Tier:** 2
+**Role:** Bitcoin & Open Source Developer Funding Organization
+**Active:** 2021–present
+
+501(c)(3) nonprofit co-founded in 2021 by Matt Odell and Ben Price to fund contributors to Bitcoin, Nostr, and related free and open-source projects. OpenSats operates with a nine-person board and does not take a cut from donations to fund its own operations. Its treasury is Bitcoin-first — all donations, whether received in bitcoin or fiat, are held in bitcoin, with fiat donations promptly converted. Grant recipients have included Bitcoin Core contributors, hardware wallet developers, privacy researchers, ecash projects, Lightning developers, educators, and translators across more than 32 countries. As of mid-2025, OpenSats had allocated over $21 million to 252 grantees and distributed approximately $1 million per month. Jack Dorsey's StartSmall foundation contributed $21 million to OpenSats in May 2024, following earlier donations. Board members have included Odell, Price, Lisa Neigut, and Elaine Ou. OpenSats expanded its scope to include Nostr development grants, reflecting the overlap between the Bitcoin and Nostr developer communities.
+
+**Sources:**
+- opensats.org — grant announcements and fund documentation
+- OpenSats About page (opensats.org/about)
+- Bitcoin Nonprofit Directory — OpenSats case study
+- Philanthropy News Digest — Jack Dorsey / OpenSats $21M donation (2024)
+- Stephan Livera Podcast SLP278 — Matt Odell & Ben Price on OpenSats
+
+---
+
 ## Matt Corallo (dates unknown)
 **Tier:** 2
 **Role:** Bitcoin Core Developer / Infrastructure Builder
@@ -1057,6 +1073,21 @@ A peer-to-peer Bitcoin/fiat exchange built on the Lightning Network, created by 
 
 ---
 
+## lnp2pBot — Francisco Calderón (founded 2021)
+**Tier:** 2
+**Role:** Peer-to-Peer Lightning Bitcoin Exchange / Telegram Bot
+**Active:** 2021–present
+
+Francisco Calderón, a Venezuelan software developer and former free software movement activist known online as Negruch, began developing lnp2pBot in mid-2020 at the suggestion of Javier Bastardo, founder of the Satoshi en Venezuela (SEV) community group. The bot launched publicly in August 2021 as an open-source Telegram bot enabling peer-to-peer Bitcoin trading over the Lightning Network without KYC or identity verification. The system uses Lightning hold invoices for escrow, connecting buyers and sellers directly in local currencies. Within five months of launch, users from Argentina, Venezuela, Spain, the United States, Colombia, Peru, El Salvador, Mexico, Cuba, and Brazil were trading through the bot. Calderón received a grant from the Human Rights Foundation (HRF) for the project. lnp2pBot became a significant tool for Bitcoin adoption in Latin America, particularly in countries with currency controls and limited access to formal exchanges.
+
+**Sources:**
+- lnp2pbot.com
+- GitHub — lnp2pBot/bot
+- BitFinance News — lnp2pBot growth coverage (2022)
+- HRF grant announcement
+
+---
+
 ## Kilian Rausch & Boltz (founded 2019)
 **Tier:** 2
 **Role:** Non-Custodial Bitcoin Swap Service / Lightning Infrastructure
@@ -1147,12 +1178,15 @@ Co-authors of "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payment
 **Role:** Co-Founders, Lightning Labs / LND Developers
 **Active:** 2016–present
 
-Co-founders of Lightning Labs (2016) and developers of LND (Lightning Network Daemon), one of three major Lightning Network implementations and the basis for a large share of Lightning nodes and wallets. Stark serves as CEO and public spokesperson for Lightning Labs; Osuntokun (known as roasbeef) leads technical development of LND and has contributed extensively to the BOLTs specification and to taproot channel work. Lightning Labs also developed Loop, Pool, and Taproot Assets — additional products built on the Lightning infrastructure.
+Co-founders of Lightning Labs, incorporated in 2016, which develops LND (Lightning Network Daemon), one of three major Lightning Network implementations and the basis for a large share of Lightning nodes and wallets. Stark holds degrees from Harvard and Stanford Law School and taught courses on internet architecture and peer-to-peer technology at Stanford and Yale before entering the Bitcoin space; she has served as CEO and public spokesperson for Lightning Labs since its founding. Osuntokun (known as roasbeef) leads technical development of LND and has contributed extensively to the BOLTs (Basis of Lightning Technology) specification and to taproot channel work. In addition to LND, Lightning Labs developed Loop (a service for managing Lightning channel liquidity via submarine swaps), Pool (a marketplace for acquiring inbound Lightning channel liquidity), and Taproot Assets (formerly Taro, a protocol for issuing assets on the Bitcoin and Lightning Network using Taproot). Lightning Labs raised a $2.5 million seed round in March 2018, a $10 million Series A in February 2020, and a $70 million Series B in April 2022 led by Valor Equity Partners with participation from Baillie Gifford, NYDIG, Stillmark, and others; Jack Dorsey was an early investor.
 
 **Sources:**
 - Lightning Labs documentation (lightning.engineering)
 - LND GitHub (github.com/lightningnetwork/lnd)
 - BOLTs (Basis of Lightning Technology) specification
+- Forbes — Lightning Labs $70M Series B (April 2022)
+- Bitcoin Magazine — Lightning Labs Series B announcement (2022)
+- CoinDesk — Elizabeth Stark profile (2018)
 
 ---
 
@@ -1267,6 +1301,36 @@ Israeli entrepreneur who founded Breez, a non-custodial Lightning wallet that ac
 
 ---
 
+## Podcasting 2.0 — Adam Curry & Dave Jones (founded 2020)
+**Tier:** 2
+**Role:** Open Podcast Protocol Movement / Bitcoin Lightning Integration
+**Active:** 2020–present
+
+Open podcasting initiative co-founded by Adam Curry and Dave Jones, launched in August 2020. Curry, known as "the Podfather" for his role in creating podcasting in the early 2000s alongside Dave Winer, and Jones, a developer, co-created the Podcast Index — a free, open podcast directory launched as an alternative to Apple's privately controlled directory — and began the Podcasting 2.0 movement to extend the RSS-based podcast standard with new open features. Central among these was the Value4Value (V4V) model, which uses Lightning Network streaming payments to allow listeners to send satoshis to podcast creators per minute of listening, without intermediaries or platform fees. Podcasting 2.0 defined a set of new RSS namespace tags enabling apps to implement these features interoperably. The initiative attracted a community of podcast app developers building compatible clients, including Fountain, Breez, and others. The Podcast Index has grown to index more podcasts than Apple's directory.
+
+**Sources:**
+- podcastindex.org
+- Podcasting 2.0 podcast — Curry & Jones (2020–present)
+- Podnews — Podcast Index launch coverage (2020)
+- Castopod — "The Podfather 2.0" (2021)
+
+---
+
+## Fountain — Nick Malster & Oscar Merry (founded 2021)
+**Tier:** 2
+**Role:** Bitcoin Podcast App / Value4Value Platform
+**Active:** 2021–present
+
+Bitcoin-native podcast application co-founded by Nick Malster and Oscar Merry in 2021, built on the Podcasting 2.0 protocol and the Lightning Network's Value4Value model. Malster and Merry were inspired by Adam Curry's Podcasting 2.0 initiative and concluded that Bitcoin and Lightning made global creator-to-listener payments practical without platforms taking a cut. Fountain allows listeners to stream satoshis directly to podcast creators per minute of listening, tip episodes, and earn satoshis for listening. Pre-seed funding included participation from Anthony Pompliano. Fountain became one of the most widely used Podcasting 2.0-compatible apps and a documented distribution channel for Bitcoin-adjacent podcast content.
+
+**Sources:**
+- fountain.fm
+- Yahoo Finance — Fountain Lightning listen-to-earn upgrade coverage
+- Castos — "Podcast 2.0 App Fountain.fm with Oscar Merry"
+- Podnews — Fountain Bitcoin rewards coverage
+
+---
+
 ## Phoenix Wallet — ACINQ (launched 2019)
 **Tier:** 2
 **Role:** Non-Custodial Lightning Wallet / Privacy-First Design
@@ -1302,11 +1366,12 @@ Developers who built Mutiny Wallet, the first browser-based non-custodial Lightn
 **Role:** Developer, LNbits / ShockWallet
 **Active:** 2019–present
 
-Pseudonymous developer who created LNbits, a free and open-source Lightning accounts system that allows anyone to run a multi-user Lightning wallet server with extensible plugins. LNbits provides the underlying wallet infrastructure for point-of-sale systems, tipping bots, paywalls, and other Lightning-powered tools built by the developer community. It has been widely deployed in hackathons, community Bitcoin projects, and small businesses as a platform for Lightning application development.
+Pseudonymous self-taught developer who created LNbits, a free and open-source Lightning wallet and accounts system first developed in 2019. Arc's path to Lightning development began with hardware projects including a modified point-of-sale device piloted at Room77, Berlin's Bitcoin-accepting bar, where it was tested in a live payment environment. LNbits is a lightweight Python application that sits on top of any Lightning funding source and provides isolated wallet accounts, a full REST API, and an extension system for building custom Lightning-powered tools without modifying the core software. The extension architecture attracted contributions from notable developers including Calle (creator of Cashu) and fiatjaf (creator of Nostr). LNbits has been deployed in hackathons, community Bitcoin projects, point-of-sale systems, tipping bots, and paywalls, and accumulated over 60 extensions and support for 20+ backend funding sources. After learning that IBEX was using LNbits in banking products, Arc formalized LNbits as a company in 2022 to ensure software stability and continued development.
 
 **Sources:**
 - LNbits GitHub (github.com/lnbits/lnbits)
 - LNbits documentation (lnbits.com)
+- Bitcoin Magazine — "Building LNbits: The WordPress for Your Bitcoin Lightning Node" (2024)
 
 ---
 
@@ -1976,6 +2041,21 @@ Co-founded Coinbase (2012), which became the largest and most regulated U.S. Bit
 
 ---
 
+## Rob Witoff (dates unknown)
+**Tier:** 2
+**Role:** Bitcoin Infrastructure Engineer / Coinbase Chief Architect / Cold Storage Pioneer
+**Active:** 2014–present
+
+Engineer and infrastructure architect who joined Coinbase in 2014 and served as Chief Architect, leading security and infrastructure development during a formative period of Coinbase's growth. Before entering the Bitcoin space, Witoff held engineering roles at NASA's Jet Propulsion Laboratory, where he served as lead engineer on the International Space Station's laser communication system (OPALS), and contributed to SpaceX's launch capabilities and Space Station systems engineering. He holds a degree in aerospace engineering from the University of Colorado Boulder. After his first stint at Coinbase, he co-founded Unit 410, which became an industry-leading provider of institutional self-custody wallets and staking infrastructure; Coinbase acquired Unit 410 in 2021. Following the acquisition, Witoff rejoined Coinbase as Head of Platform. He also served as CTO of Polychain Capital. His work at Coinbase on cold storage and security infrastructure in the 2014–2017 period coincided with an era when exchange hacks — including Mt. Gox — made custodial security a central concern for the industry.
+
+**Sources:**
+- Coinbase blog — "Welcome Rob Witoff to the Coinbase Exec Team"
+- QCon New York 2017 — Rob Witoff speaker profile
+- FX News Group — Rob Witoff rejoins Coinbase as Head of Platform
+- Crunchbase — Rob Witoff / Unit 410
+
+---
+
 ## Jihan Wu & Bitmain (Wu: 1986–present)
 **Tier:** 3
 **Role:** ASIC Manufacturer / Mining Industrialist
@@ -2131,6 +2211,22 @@ Founded Swan Bitcoin (2019), a Bitcoin-only recurring purchase platform focused 
 - Swan Bitcoin company history (swanbitcoin.com)
 - Klippsten's public writing and podcast appearances
 - Unchained Capital / Swan partnership documentation
+
+---
+
+## River Financial — Alex Leishman (founded 2019)
+**Tier:** 3
+**Role:** Bitcoin-Only Brokerage / Custody / Financial Services
+**Active:** 2019–present
+
+Bitcoin-only financial services company founded in 2019 by Alex Leishman, who holds degrees in aerospace engineering and computer science from Stanford. Leishman's background includes early work at MaiCoin, a Taiwanese Bitcoin exchange, followed by graduate research at Stanford where he assisted with Dan Boneh's Bitcoin and cryptography courses, and subsequent work building custody infrastructure at Polychain Capital. River is built exclusively around Bitcoin and offers brokerage with zero-fee recurring purchases, full-reserve custody with Proof of Reserves, Lightning Network wallets, and Bitcoin mining services. The company raised $35 million in a Series B round in May 2023 led by Kingsway Capital, with participation from Peter Thiel, Valor Equity Partners, Goldcrest, and others, bringing total funding to approximately $70 million. River publishes an annual Bitcoin adoption report tracking corporate and institutional Bitcoin accumulation trends.
+
+**Sources:**
+- river.com
+- Bitcoin Magazine — "River: A Bitcoin Brokerage Built From The Ground Up"
+- CoinDesk — "Peter Thiel Backs Bitcoin Startup River in $35M Round" (May 2023)
+- PR Newswire — River Series B announcement (2023)
+- River Business Bitcoin Adoption Report (2024)
 
 ---
 
@@ -2713,6 +2809,53 @@ Co-founder of The Investor's Podcast Network and host of *We Study Billionaires*
 
 ---
 
+## Lawrence Lepard (dates unknown)
+**Tier:** 3
+**Role:** Investment Manager / Sound Money Advocate / Author
+**Active:** 2006–present
+
+Investment manager and founder of Equity Management Associates (EMA), established in 2006, which positions itself as providing "Monetary Debasement Insurance" through investments in gold, silver, precious metals mining companies, and Bitcoin. Lepard holds an MBA from Harvard Business School and has over four decades of investment experience. An advocate of Austrian School economics and sound money principles, he adopted Bitcoin as a complement to gold as a hedge against central bank monetary expansion and high global debt-to-GDP ratios. Lepard is active on social media and has appeared frequently on podcasts including What Bitcoin Did and Coin Stories with Natalie Brunell discussing monetary policy, Federal Reserve history, and the case for hard assets. In 2025 he published *The Big Print: What Happened to America and How Sound Money Will Fix It*, which traces U.S. monetary history from the Federal Reserve's founding through contemporary inflation and argues for a return to sound money via gold and Bitcoin.
+
+**Sources:**
+- ema2.com — EMA fund documentation
+- *The Big Print* (2025) — Lawrence Lepard
+- Forbes — "Lawrence Lepard Predicts 'The Big Print'" (May 2025)
+- Palisades Gold Radio — Lepard interview
+- thebigprintbook.com
+
+---
+
+## James Lavish (dates unknown)
+**Tier:** 3
+**Role:** Investment Manager / Macro Analyst / Author
+**Active:** 2021–present
+
+Institutional investment professional with over 25 years of experience who became a prominent Bitcoin macro analyst and educator. Lavish graduated from Yale University in 1993, holds a CFA designation, and earned an Executive Certificate in FinTech from Cornell University in 2021. His career included positions as an international ADR arbitrage trader on the floor of the New York Stock Exchange for SG Warburg, risk arbitrage trader at Tribeca Investments, head arbitrage trader and compliance officer at Carlson Capital, co-founder and managing partner of Ranger Arbitrage, and Chief Operating Officer of Alternative Investments at LKCM, a $26 billion Texas-based asset management firm. He co-founded the Bitcoin Opportunity Fund, a partnership making public and private investments in the Bitcoin ecosystem, after concluding that traditional inflation hedges including gold and Treasury Inflation-Protected Securities were insufficient against the scale of monetary expansion he anticipated. Lavish authors The Informationist, a Substack newsletter with over 40,000 subscribers that explains one complex financial concept per issue in accessible terms. He co-founded Looking Glass Education, a Bitcoin financial education platform.
+
+**Sources:**
+- jameslavish.com — The Informationist
+- lookingglasseducation.com
+- BTC Prague speaker profile
+- Bitcoin Magazine author archive — James Lavish
+- Stacker News AMA — @jameslavish (2024)
+
+---
+
+## Robert Kiyosaki (1947–present)
+**Tier:** 3
+**Role:** Author / Financial Educator / Bitcoin and Hard Asset Advocate
+**Active:** 1997–present (Bitcoin advocacy c. 2018–present)
+
+Robert Toru Kiyosaki was born April 8, 1947, in Hilo, Hawaii, to a Japanese-American family. He attended the U.S. Merchant Marine Academy, graduated in 1969, and served as a helicopter gunship pilot in the U.S. Marine Corps during the Vietnam War. His 1997 book *Rich Dad Poor Dad*, written with Sharon Lechter, challenged conventional personal finance advice by arguing that financial education, asset acquisition, and entrepreneurship — not job security or credentials — are the foundations of wealth. The book became one of the best-selling personal finance titles in history, translated into dozens of languages. Kiyosaki subsequently built a financial education company and media brand around the Rich Dad framework. Beginning around 2018 he became a public advocate for Bitcoin, gold, and silver as protection against central bank monetary expansion and dollar debasement, framing them as "real assets" versus fiat currency. He has called Bitcoin "insurance against a dying dollar" and made high public price predictions. In 2025 he disclosed selling silver holdings to increase his Bitcoin position, signaling a shift in emphasis within his hard asset framework. His large social media following has directed mainstream audiences toward Bitcoin as a sound money concept.
+
+**Sources:**
+- *Rich Dad Poor Dad* (1997) — Robert Kiyosaki & Sharon Lechter
+- Wikipedia — Robert Kiyosaki
+- richdad.com
+- TheStreet / Yahoo Finance — Kiyosaki Bitcoin commentary (2024–2025)
+
+---
+
 ## Guy Swann (dates unknown)
 **Tier:** 3
 **Role:** Podcaster / Bitcoin Literature Curator
@@ -2723,6 +2866,21 @@ Creator and host of *Bitcoin Audible* (formerly *The Cryptoconomy Podcast*), a l
 **Sources:**
 - *Bitcoin Audible* podcast archive (bitcoinaudible.com)
 - Swann's commentary and curation work across Bitcoin literature
+
+---
+
+## Rabbi Michael Caras (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Educator / Author / "Bitcoin Rabbi"
+**Active:** 2017–present
+
+Rabbi and educator based in Albany, New York, known online as @thebitcoinrabbi, who has built a following bridging the Bitcoin and Jewish communities on social media. Caras is affiliated with the Chabad-Lubavitch movement and teaches Judaism, digital media, and technology at Maimonides Hebrew Day School. He became interested in Bitcoin in 2017 and has drawn connections between the cypherpunk ethos, sound money principles, and Jewish ethics and halacha. In 2019 he published *Bitcoin Money: A Tale of Bitville Discovering Good Money* (illustrated by Marina Yakubivska), a children's book explaining the origins of money and Bitcoin through a fictional town called Bitville; the book has sold over 10,000 copies and became one of the most widely distributed Bitcoin educational books for children. Caras has spoken at synagogues and Jewish youth groups about Bitcoin, describes himself as a two-way ambassador between the Jewish and Bitcoin communities, and has appeared in Jewish media including The Forward, Times of Israel, and the Jewish Telegraphic Agency.
+
+**Sources:**
+- *Bitcoin Money: A Tale of Bitville Discovering Good Money* (2019) — Michael Caras
+- The Forward — "Meet the beloved 'Bitcoin Rabbi' of Twitter" (2021)
+- Times of Israel — Bitcoin Rabbi profile
+- Jewish Telegraphic Agency — "Albany Rabbi Puts His Money On Bitcoin" (2019)
 
 ---
 
@@ -2780,6 +2938,21 @@ Held a handwritten "Buy Bitcoin" sign behind Federal Reserve Chair Janet Yellen 
 
 ---
 
+## Benedictines of Mary, Queen of Apostles — Bitcoin-Funded Church (2017)
+**Tier:** 3
+**Role:** Cultural Moment / Religious Bitcoin Adoption
+**Active:** 2017
+
+A cloistered Benedictine order of nuns founded by Sister Mary Wilhelmina Lancaster in Gower, Missouri, that received Bitcoin donations in 2017 and used the proceeds to fund construction of a new church — completed debt-free. The church features hand-painted murals, Italian marble, vaulted ceilings, and stained-glass windows. The community follows the traditional Rule of Saint Benedict and operates with a self-sufficiency model, drawing financial support from donors worldwide. Father Matthew Bartulica set up the sisters with hardware wallets and taught them to send, receive, and hold Bitcoin in cold storage. The nuns hold Bitcoin on behalf of their monastery and the episode became a widely cited cultural story in Bitcoin media as an example of unexpected Bitcoin adoption — a cloistered religious community using Bitcoin's sound money properties and censorship-resistance to build physical infrastructure without debt or traditional banking intermediaries. The story received coverage in Bitcoin Magazine (2022) and mainstream Catholic and financial media.
+
+**Sources:**
+- Bitcoin Magazine — "Meet The Catholic Nuns Who Are Building A New Church With Bitcoin" (October 2022)
+- benedictinesofmary.org
+- Christianity Daily — Benedictines of Mary Bitcoin coverage (2022)
+- Bitcoin News — Benedictines of Mary Bitcoin adoption story
+
+---
+
 ## BitPay — Tony Gallippi & Stephen Pair (dates unknown)
 **Tier:** 3
 **Role:** Bitcoin Payment Processor / Merchant Adoption Pioneer
@@ -2804,6 +2977,21 @@ Built OpenNode, a Bitcoin-only payment processing platform supporting both on-ch
 **Sources:**
 - OpenNode documentation (opennode.com)
 - OpenNode Lightning Network integration documentation
+
+---
+
+## Geyser Fund — Mick Morucci & Stelios Rammos (founded 2022)
+**Tier:** 2
+**Role:** Bitcoin Crowdfunding Platform
+**Active:** 2022–present
+
+Bitcoin-native crowdfunding platform co-founded by Mick Morucci (known as MetaMick) and Stelios Rammos, launched in January 2022. The founders conceived Geyser during the COVID-19 pandemic after concluding that Bitcoin and the Lightning Network made global crowdfunding more practical than any prior platform but that no Bitcoin-native equivalent existed. Morucci had previously worked in the Ethereum space before reorienting to Bitcoin. Geyser enables creators, projects, and humanitarian causes to raise funds directly via Lightning Network payments, without custodians or geographic restrictions. The platform has facilitated funding for Bitcoin education initiatives, open-source projects, community projects, and humanitarian causes across multiple countries. Geyser later introduced recoverable grants, a mechanism allowing conditional fundraising with refund capability.
+
+**Sources:**
+- geyser.fund
+- Forbes — "Geyser Is Democratising Crowdfunding With Bitcoin's Lightning Network" (March 2024)
+- Area Bitcoin — Geyser Fund profile (2024)
+- Crunchbase — Geyser company profile
 
 ---
 
@@ -2888,6 +3076,21 @@ Patrick Melder led the development of a Bitcoin circular economy around Lake Ati
 - Bitcoin Lake documentation (bitcoinlake.org)
 - Patrick Melder interviews and field documentation
 - Coverage via Bitcoin Magazine, Joe Nakamoto documentary work
+
+---
+
+## BTC Isla — Isabella Santos Giha (founded c. 2022)
+**Tier:** 3
+**Role:** Bitcoin Circular Economy Pioneer / Media Personality / Mexico
+**Active:** 2022–present
+
+Isabella Santos Giha (known online as Isa, @isabellasg3) built a Bitcoin circular economy on Isla Mujeres, a small island off the coast of Cancun, Mexico, relocating there from Miami to pursue the project full-time. BTC Isla grew to approximately 30 merchants accepting Bitcoin via Lightning, including a Bitcoin cafe and a Bitcoin-powered gym. Santos co-founded Get Based, a Bitcoin media company, and co-created Bitcoin Backstage, a show distributed on Bitcoin Magazine platforms. She runs Bitcoin 101 immersive educational courses on the island and has extended her education and circular economy work to Peru and other parts of Latin America. She has a significant social media presence on TikTok and has appeared on multiple Bitcoin podcasts discussing circular economy building and Bitcoin education in the developing world.
+
+**Sources:**
+- @isabellasg3 (X / TikTok)
+- Bitcoin Treasuries Podcast — "Building a Bitcoin Circular Economy w/ Isabella"
+- Efrat Fenigson Podcast Ep. 40 — Isabella Santos
+- Bitcoin Magazine — Bitcoin Backstage
 
 ---
 
@@ -3167,6 +3370,21 @@ Paraguay became one of Latin America's most attractive Bitcoin mining destinatio
 
 ---
 
+## BitDevs NYC (founded 2013)
+**Tier:** 3
+**Role:** Bitcoin Developer Meetup / Originator of the BitDevs Socratic Seminar Format
+**Active:** 2013–present
+
+The original BitDevs chapter, founded in New York City in 2013, and the originator of the Socratic Seminar format that has since been adopted by Bitcoin developer meetup communities worldwide. The first BitDevs NYC Socratic Seminar was held on August 7, 2013, making it one of the earliest recurring technical Bitcoin developer forums. Rather than organizing around presentations and lectures, BitDevs NYC structured its monthly events as open Socratic seminars in which participants collaboratively review recent Bitcoin Core pull requests, research papers, technical blog posts, IRC and mailing list discussions, and network data. The format was designed to foster debate and technical rigor rather than passive consumption. BitDevs NYC became a documented gathering point for Bitcoin Core developers and protocol researchers in New York. The model has been replicated in dozens of cities globally — including Austin, San Francisco, London, and Tampa — with the BitDevs network maintaining a directory of chapters that regularly host Socratic seminars. John Newbery has been among the documented organizers.
+
+**Sources:**
+- bitdevs.org
+- Meetup.com — BitDevs NYC (first event: August 7, 2013)
+- Bitcoin Magazine — "Op Ed: Want To Learn About Bitcoin? Try A Local Socratic Seminar"
+- BitDevs NYC — "Running a Great Socratic Seminar" (bitdevs.org)
+
+---
+
 ## Austin BitDevs & the Texas Bitcoin Community (2014–present)
 **Tier:** 3
 **Role:** Grassroots Developer Meetup / Bitcoin Community Hub
@@ -3196,6 +3414,21 @@ Carlos Gonzalez (known as "Car") is a figure in the Austin Bitcoin community fea
 
 ---
 
+## Tampa BitDevs & Bitcoin Bay Foundation — bennyhodl (founded 2022)
+**Tier:** 3
+**Role:** Bitcoin Developer Meetup / Community Nonprofit
+**Active:** 2022–present
+
+Bitcoin developer meetup and community nonprofit founded in Tampa Bay, Florida by a developer known as bennyhodl, who launched the first Tampa BitDevs session in October 2021 after traveling to Austin BitDevs for eight months and wanting to establish an equivalent technical community locally. The organization formally launched in January 2022 and grew into the Bitcoin Bay Foundation, the largest Bitcoin-focused community in the Tampa Bay area, hosting five or more free events per month with over 100 monthly attendees. Events include Tampa BitDevs Socratic seminars, Bitcoin 101 workshops, business workshops, and the annual Sound Money Soiree charity gala. By end of 2023, Bitcoin Bay Foundation had received 501(c)(3) nonprofit status, documented as the first Bitcoin-only meetup organization to do so. The foundation also developed Bay Wallet, an LDK-based Lightning wallet built by Tampa community members. Wesley Schlemmer has served as president of the foundation.
+
+**Sources:**
+- bitcoinbay.foundation
+- Bitcoin Magazine — "Tampa Bay's Bitcoin Community Builds Circular Economy Momentum" (2023)
+- Bitcoin Magazine — Bitcoin Bay Foundation Gasparilla Parade coverage (2024)
+- GitHub — bitcoinbayfoundation/baywallet
+
+---
+
 ## Thomas Pacchia & Partners — Pubkey (dates unknown)
 **Tier:** 3
 **Role:** Bitcoin Cultural Institution Founders
@@ -3209,6 +3442,21 @@ Founded Pubkey, a Bitcoin bar and gathering space in Greenwich Village, New York
 
 ---
 
+## Club Orange — Matteo Pellegrini (formerly Orange Pill App, founded 2022)
+**Tier:** 2
+**Role:** Bitcoin Community Social Network
+**Active:** 2022–present
+
+Location-based social network for the Bitcoin community, founded by Matteo Pellegrini and launched as Orange Pill App at Pacific Bitcoin in November 2022. Pellegrini built the app after struggling to find local Bitcoiners when he moved to a new area, identifying a gap between online Bitcoin communities and real-world connection. The app enables users to discover nearby Bitcoiners, find meetups and conferences, and locate merchants that accept Bitcoin, with an integrated self-custodial Lightning wallet for sending sats between members. Orange Pill App raised $250,000 in pre-seed funding and grew to over 20,000 members across 71 countries. The app was later rebranded as Club Orange. It has been used as an infrastructure layer for the Bitcoin parallel economy — connecting individuals, events, and businesses in local Bitcoin ecosystems worldwide.
+
+**Sources:**
+- cluborange.org
+- Bitcoin Magazine — "Orange Pill: A New App To Meet Bitcoiners"
+- Bitcoin Magazine — Orange Pill App $250K pre-seed funding (2023)
+- BTC Times — Orange Pill App Merchants feature
+
+---
+
 ## Stephan Livera (dates unknown)
 **Tier:** 3
 **Role:** Podcaster / Educator
@@ -3219,6 +3467,20 @@ Founded the Stephan Livera Podcast (2018), focusing on Austrian economics, Bitco
 **Sources:**
 - Stephan Livera Podcast (stephanlivera.com)
 - Swan Bitcoin association
+
+---
+
+## Daniel Prince (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Podcaster / Educator
+**Active:** 2019–present
+
+British Bitcoin podcaster and educator who hosts *Once Bitten! A Bitcoin Podcast*, launched in 2019, with a focus on personal stories of how Bitcoin has changed individuals' and families' lives and financial trajectories. Prince spent over 17 years in the banking and finance sector at voice brokerage houses in the Foreign Exchange markets before leaving the industry to travel through Asia, Europe, and North America with his wife and four children. He is also the author of *Choose Life*, a book about long-term family travel, world-schooling, and digital nomadism, and has hosted homeschool and alternative education summits. *Once Bitten* is distributed across major podcast platforms and has featured a wide range of guests from across the Bitcoin ecosystem. Prince has spoken at BTC Prague and other Bitcoin conferences.
+
+**Sources:**
+- Once Bitten! A Bitcoin Podcast — Apple Podcasts / Spotify
+- LinkedIn — Daniel Prince
+- BTC Prague speaker profile
 
 ---
 
@@ -3576,6 +3838,21 @@ Founded Ego Death Capital, a Bitcoin-only venture fund focused on the Lightning 
 
 ---
 
+## Lightning Ventures — Mike Jarmuz (founded 2021)
+**Tier:** 3
+**Role:** Bitcoin-Only Venture Fund
+**Active:** 2021–present
+
+Bitcoin-only venture fund founded by Mike Jarmuz and headquartered in Buenos Aires, Argentina, focused exclusively on companies building products and services on Bitcoin. Lightning Ventures deployed a pilot fund investing in approximately 40 Bitcoin-only companies and built what it described as the world's largest Bitcoin-focused investing network, with over 2,000 members who collectively invested $6.8 million in Bitcoin-only startups across two fund vehicles, Node 1 Fund and Node 2 Fund. The team includes CTO Uncle Rockstar Dev, formerly of Strike and a contributor to BTCPay Server, and COO Vivek Patel, previously of PrimeTrust. Lightning Ventures later launched Thunder Funder, a Regulation CF crowdfunding portal enabling retail investors to participate in Bitcoin startup funding; the Thunder Funder pre-seed round drew participation from El Zonte Capital, Max Keiser, and Stacy Herbert. Jarmuz has spoken at Adopting Bitcoin conferences and advocates for Bitcoin-only venture capital as distinct from multi-chain crypto funds.
+
+**Sources:**
+- ltng.ventures
+- Bitcoin Magazine — "The Future of Venture Capital Is Investing in Bitcoin-Only Companies"
+- Bitcoin Magazine — Thunder Funder launch coverage (2024)
+- PRWeb — Thunder Funder announcement (2024)
+
+---
+
 ## Larry Fink (1952–present)
 **Tier:** 3
 **Role:** CEO, BlackRock / Bitcoin ETF Catalyst
@@ -3893,6 +4170,23 @@ As CSO of the Human Rights Foundation, has published documented interviews and e
 
 ---
 
+## Farida Bemba Nabourema (1990–present)
+**Tier:** 3
+**Role:** Human Rights Activist / Bitcoin Advocate / Africa Bitcoin Conference Founder
+**Active:** 2010s–present (Bitcoin advocacy c. 2020–present)
+
+Togolese activist, pan-Africanist, and writer born in 1990 in Lomé, Togo, into a family with a long history of political resistance — her father, Bemba Nabourema, was an active opponent of the military regime that has controlled Togo since 1967. She serves as Executive Director of the Togolese Civil League and has advocated for democracy and human rights in Togo since her teenage years. Nabourema adopted Bitcoin as a tool to fund civic resistance movements after discovering that her country's repressive government was monitoring and blocking money transfers to democracy activists; she has reported sending Bitcoin into Togo to fund civil resistance without government interdiction. She has connected Bitcoin to the CFA franc question — the colonial-era currency imposed on 14 Francophone African nations — framing monetary sovereignty as a human rights issue and Bitcoin as a path toward financial independence from external monetary control. She founded the Africa Bitcoin Conference (ABC), an annual gathering held each December that draws Bitcoiners from over 40 African countries and the African diaspora. She has spoken at the Oslo Freedom Forum, BTC Prague, and other international Bitcoin events, and is a Forbes contributor.
+
+**Sources:**
+- nabourema.info
+- Bitcoin Magazine — "Togolese Activist Farida Nabourema Finds Freedom in Bitcoin"
+- Blockworks — "Why Bitcoin is key for resistance movements in Togo"
+- This Is Africa — "The daughter of Togo and the money they cannot seize"
+- Guardian Nigeria — HRF backs Africa Bitcoin Conference
+- Forbes — Farida Nabourema contributor page
+
+---
+
 ## Vitalik Buterin (1994–present)
 **Tier:** 3
 **Role:** Ethereum Founder / Bitcoin Alumnus
@@ -3933,6 +4227,21 @@ Founded Digital Currency Group (DCG), owning Grayscale (GBTC), Genesis Trading, 
 - Genesis Trading bankruptcy filings (2023)
 - Gemini Earn lawsuit documentation
 - *Coindesk* coverage of DCG collapse
+
+---
+
+## Soichiro "Michael" Moro (dates unknown)
+**Tier:** 3
+**Role:** CEO, Genesis Global Trading (2014–2022)
+**Active:** 2014–2022
+
+Former Citi executive who served as CEO of Genesis Global Trading, a DCG subsidiary and one of the largest institutional crypto OTC trading and lending desks, for nearly a decade beginning in 2014. Genesis launched its institutional OTC desk in 2013 and under Moro's tenure grew into a major counterparty for institutional Bitcoin borrowing and lending, accumulating billions in loan exposure. When Three Arrows Capital defaulted on approximately $2.36 billion owed to Genesis in June 2022, the firm absorbed losses that destabilized its balance sheet; Genesis subsequently froze withdrawals in November 2022 following FTX's collapse, trapping billions in customer funds including deposits from Gemini Earn users. Moro stepped down as CEO in August 2022 as Genesis cut 20% of its workforce. In January 2025, DCG and Moro agreed to pay a combined $38.5 million to settle SEC securities fraud charges; the SEC alleged that Moro made false or misleading public statements on social media characterizing Genesis's balance sheet as strong and falsely claiming the firm had shed risk related to the 3AC default.
+
+**Sources:**
+- CoinDesk — "Crypto Broker Genesis Cutting 20% of Workforce as CEO Michael Moro Exits" (August 2022)
+- SEC press release — SEC v. DCG and Moro (January 2025)
+- Bloomberg — Genesis CEO Steps Down (August 2022)
+- Coalition Greenwich — Michael Moro CEO profile
 
 ---
 
@@ -4095,6 +4404,21 @@ A pseudonymous British Bitcoin investor and educator based in London, with an 18
 
 ---
 
+## Surfer Jim (pseudonym)
+**Tier:** 3
+**Role:** Grassroots Bitcoin Educator / Author / Speaker
+**Active:** c. 2018–present
+
+Pseudonymous Bitcoin educator and entrepreneur who has built and repaired custom homes on Fire Island, New York for over 30 years while pursuing a lifelong passion for surfing. He first encountered Bitcoin around 2015 via a Netflix documentary but dismissed it as too complex; he later came to Bitcoin through algorithmically surfaced YouTube content and became a committed advocate. Known online and in the Bitcoin community as Surfer Jim, he became active on social media, podcasts, and the conference circuit as a grassroots Bitcoin evangelist. He produced *The Superiority of Bitcoin*, available as an audiobook, making the case for Bitcoin from a first-principles, non-technical perspective accessible to tradespeople and small business owners. He has appeared on the BitBlockBoom conference stage and on multiple Bitcoin podcasts including The Bitcoin Matrix. His story — a construction worker and surfer on Long Island becoming a Bitcoin radical and educator — has been profiled by Bitcoin Magazine as representative of grassroots Bitcoin adoption outside the finance and tech industries.
+
+**Sources:**
+- Bitcoin Magazine — "Interview: Surfing, Construction and Bitcoin With Surfer Jim"
+- *The Superiority of Bitcoin* — Surfer Jim (Audible)
+- BitBlockBoom speaker profile
+- The Bitcoin Matrix Podcast #17 — Surfer Jim
+
+---
+
 ## Jeff Berwick (1970–present)
 **Tier:** 3
 **Role:** Anarcho-Capitalist / Bitcoin Advocate / Media Personality
@@ -4121,6 +4445,20 @@ A former Wall Street risk analyst who worked at Bear Stearns and later as Vice P
 - tonevays.com
 - *Magic Money: The Bitcoin Revolution* (2017)
 - Public interviews and conference appearances (2013–present)
+
+---
+
+## Mark Moss (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Investor / Media Personality / Educator
+**Active:** 2015–present
+
+Entrepreneur, venture capitalist, and Bitcoin-focused media personality with over 25 years of investment experience spanning real estate, internet stocks, and digital assets. Moss began investing in foreclosed real estate in 1995, launched his first online business during the dot-com bust in 2001, and lost a significant portion of his capital in the 2008 financial crisis — experiences he has cited as formative in developing his framework for technology cycles and asset allocation. He encountered Bitcoin in the mid-2010s and committed fully to digital assets by 2015, launching Block United, an online crypto asset publication, in 2016. In 2017 he launched the Market Disruptors YouTube channel, later rebranded as The Mark Moss Show, which grew to nearly 20 million views covering Bitcoin, macro investing, monetary policy, and technology cycles. The Mark Moss Show is nationally syndicated as a radio and podcast program. He has appeared frequently at Bitcoin conferences and on other Bitcoin podcasts as an advocate for Bitcoin within a broader macro investment thesis.
+
+**Sources:**
+- markmoss.com / mm.1markmoss.com
+- The Mark Moss Show — Apple Podcasts / iHeart
+- Grokipedia — Mark Moss biography
 
 ---
 
@@ -4183,6 +4521,21 @@ A Bitcoin investor and media personality who co-founded Morgan Creek Digital Ass
 
 ---
 
+## Mark Yusko (dates unknown)
+**Tier:** 3
+**Role:** Investment Manager / Institutional Bitcoin Advocate
+**Active:** 2018–present (Bitcoin-relevant)
+
+Founder, CEO, and Chief Investment Officer of Morgan Creek Capital Management, an investment firm founded in 2004 managing approximately $1.5 billion in assets. Yusko's career prior to Morgan Creek included serving as CIO and founder of the University of North Carolina at Chapel Hill endowment investment office (UNCMC) and as Senior Investment Director at the University of Notre Dame Investment Office, where he was an early adopter of the endowment model of investing in alternative assets. He holds a BA from Notre Dame and an MBA in accounting and finance from the University of Chicago. In 2018, Yusko co-founded Morgan Creek Digital Assets with Anthony Pompliano and Jason Williams — built from an earlier venture fund called Full Tilt Capital — to invest in blockchain technology and digital assets with an institutional endowment-model framework. Morgan Creek Digital was among the earliest U.S. investment firms to pitch pensions and endowments on digital asset exposure. Yusko has been a consistent public voice arguing for Bitcoin as a portfolio allocation and has appeared frequently on financial media.
+
+**Sources:**
+- morgancreekcap.com
+- Morgan Creek Digital documentation
+- The Block — Mark Yusko interview (2019)
+- TechCrunch — Anthony Pompliano / Morgan Creek Digital history (2024)
+
+---
+
 ## Jeff Ross (dates unknown)
 **Tier:** 3
 **Role:** Hedge Fund Manager / Bitcoin Investor
@@ -4209,6 +4562,21 @@ A Bitcoin and macroeconomic analyst who writes on on-chain data, global liquidit
 - The Bitcoin Layer
 - joeconsorti.com
 - Public writings and appearances
+
+---
+
+## Sam Callahan (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Analyst / Writer
+**Active:** 2020s–present
+
+Bitcoin analyst and writer who served as Lead Analyst at Swan Bitcoin, where he wrote the "Running the Numbers" section of the monthly Swan Private Insight Report covering Bitcoin market data, on-chain analytics, macroeconomic context, and industry developments. His academic background is in biology and physics from Indiana University. He has also written for Bitcoin Magazine and contributed research across multiple Bitcoin financial services organizations including a role as Vice President at Battery Finance and Director of Strategy and Research at OranjeBTC. He serves on the advisory boards of MARA Digital Holdings, LQwD Technologies, and Cantilever Advisors, and has appeared on The Investor's Podcast and the Stephan Livera Podcast.
+
+**Sources:**
+- Bitcoin Magazine author archive — Sam Callahan
+- Swan Bitcoin — Running the Numbers / Swan Private Insight Report
+- BTC Prague speaker profile
+- Qwoted — Sam Callahan profile
 
 ---
 
@@ -4403,6 +4771,38 @@ A documentary filmmaker whose *Banking on Bitcoin* (2016) was among the earliest
 
 ---
 
+## Brian Estes (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Fund Manager / Documentary Co-Creator / Educator
+**Active:** 2016–present
+
+Founder, CEO, and Chief Investment Officer of Off the Chain Capital, a Bitcoin and blockchain investment fund founded in 2016. Estes holds a BA in economics from the University of Illinois and an MBA with high honors from Washington University in St. Louis, and studied abroad at the University of Cambridge and the London School of Economics. Prior to founding Off the Chain Capital, he rose to become the youngest senior vice president in the history of A.G. Edwards & Sons in St. Louis, then founded Estes Financial in 2004, where he was ranked in the top one-tenth of one percent of Morningstar asset managers from 2004 to 2014. Off the Chain Capital claimed the top-performing ranking in the HFRI blockchain fund universe over its first five years and raised a $160 million fund. Estes teaches blockchain and digital asset investing at the University of Cambridge, Washington University, and Morgan State University's Center of Blockchain and Financial Technology. He and his wife Kelly Estes co-created *God Bless Bitcoin* (2024), a documentary examining the moral and ethical dimensions of current monetary systems and Bitcoin's potential as an alternative, featuring interviews with Michael Saylor, Anthony Pompliano, and religious leaders from Christianity, Judaism, and Islam.
+
+**Sources:**
+- Off the Chain Capital documentation
+- Blockworks — Off the Chain Capital $160M fund announcement
+- PR Newswire — Off the Chain Capital five-year performance (2022)
+- godblessbitcoin.com
+- IMDB — *God Bless Bitcoin* (tt32881100)
+
+---
+
+## Brian Dixon (dates unknown)
+**Tier:** 3
+**Role:** CEO, Off the Chain Capital / Bitcoin Investor / Author
+**Active:** 2012–present
+
+President and CEO of Off the Chain Capital, a value-oriented Bitcoin and digital asset investment fund founded by Brian Estes. Dixon entered the digital assets space in 2012 as an early Bitcoin adopter and has described his investment approach as Warren Buffett-style value investing applied to Bitcoin — acquiring blockchain assets at a discount to intrinsic value. Prior to Off the Chain Capital, he served as Chief Operating Officer and Managing Director of Capital Innovators, a venture fund manager and accelerator program provider. He attended Washington University in St. Louis School of Law. Dixon has authored four books covering Bitcoin and advanced technology, has performed over 80 national and international speaking engagements, and has written for TheStreet Crypto. He has appeared at Bitcoin MENA 2025 and in CoinDesk video interviews advocating for Bitcoin as significantly undervalued relative to its long-term potential.
+
+**Sources:**
+- Crunchbase — Brian Dixon / Off the Chain Capital
+- CoinDesk — "Bitcoin Is 'Significantly Undervalued Today': Off the Chain Capital CEO"
+- FINTECH.TV — Brian Dixon interview
+- Bitcoin MENA 2025 speaker profile
+- TheStreet Crypto — Brian Dixon author archive
+
+---
+
 ## PlanB (pseudonym, identity unknown)
 **Tier:** 3
 **Role:** On-chain Analyst / Quantitative Modeler
@@ -4508,6 +4908,22 @@ A Wall Street veteran and attorney who became a prominent Bitcoin advocate and f
 - Wyoming blockchain legislation (2018–present)
 - Federal Reserve master account denial (January 2023)
 - Long's public testimony, writing, and conference appearances
+
+---
+
+## Perianne Boring (dates unknown)
+**Tier:** 3
+**Role:** Policy Advocate / Trade Association Founder
+**Active:** 2014–present
+
+Founder and CEO of the Chamber of Digital Commerce, the largest trade association for the digital asset industry in Washington, D.C., established in 2014. Boring graduated from the University of Florida in 2010 with a degree in business administration and economics, served as a White House intern during the Obama administration, and worked as a legislative analyst and constituent relations director for U.S. Representative Dennis Ross (R-FL). She later became host and anchor of *Prime Interest*, an international finance program that aired in over 100 countries to approximately 650 million viewers via RT America, where Bitcoin became a frequent subject of coverage. She founded the Chamber of Digital Commerce in 2014 after concluding the industry lacked formal policy representation in Washington; its membership has included Accenture, Cisco, Microsoft, IBM, Fidelity, Wells Fargo, BitPay, and others. She teaches blockchain as an adjunct professor at Georgetown University's McDonough School of Business and has testified before Congress and regulatory agencies on digital asset policy. CoinDesk named her among its "10 Most Influential People in Blockchain" in 2016.
+
+**Sources:**
+- Chamber of Digital Commerce documentation (digitalchamber.org)
+- Forbes profile — Perianne Boring
+- American Banker — Perianne Boring contributor
+- CNBC — Chamber of Digital Commerce interview (2022)
+- CoinDesk — "10 Most Influential in Blockchain" (2016)
 
 ---
 
