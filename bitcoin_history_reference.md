@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**365 entries — last updated 2026-07-11**
+**366 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -345,6 +345,7 @@ and extends through the present.
 - [Motiv Peru / Rich Swisher & Valentin Popescu](#motiv-peru--rich-swisher--valentin-popescu-founded-2020)
 - [Murch / Mark Erhardt](#murch--mark-erhardt-dates-unknown)
 - [MuSig & MuSig2](#musig--musig2--multi-party-schnorr-signing)
+- [Muun Wallet — Dario Sneidermanis](#muun-wallet--dario-sneidermanis-2019present)
 - [My First Bitcoin / Mi Primer Bitcoin / John Dennehy](#my-first-bitcoin--mi-primer-bitcoin--john-dennehy-founded-2021)
 
 **N**
@@ -2286,6 +2287,21 @@ MuSig (2018) and MuSig2 (2020), developed by Gregory Maxwell, Andrew Poelstra, Y
 - MuSig2 paper (2020) — Nick, Ruffing, Seurin
 - BIP327 (MuSig2 for Bitcoin) — Jonas Nick, Tim Ruffing, Elliott Jin
 - Blockstream MuSig research documentation
+
+---
+
+## Muun Wallet — Dario Sneidermanis (2019–present)
+**Tier:** 3
+**Role:** Non-Custodial Bitcoin & Lightning Wallet / Argentine Bitcoin Company
+**Active:** 2019–present
+
+A non-custodial Bitcoin and Lightning Network wallet founded by Dario Sneidermanis, a software developer from Mar del Plata, Argentina, who previously worked at Google. The company is headquartered in Buenos Aires and emerged from Casa Voltaire, a collaborative tech space that between 2014 and 2016 also incubated Decentraland and OpenZeppelin. The founding team's motivation included Argentina's foreign currency controls, which made receiving international payments difficult from around 2013. The Android and iOS apps launched in October 2019. Muun went fully open source under the MIT license in February 2021. The wallet uses a 2-of-2 multisignature architecture with an Emergency Kit storing encrypted keys under user control. Technically, Muun does not maintain Lightning channels; instead it uses submarine swaps — atomic HTLC-based exchanges — for all Lightning transactions, resulting in a single unified on-chain balance with Lightning compatibility but with an on-chain transaction and fee incurred per Lightning payment. This architecture became the subject of public debate in 2022–2023: Muun routes all incoming Lightning payments through its own node ("magnetron"), which charges high routing fees, causing payment failures on low-fee-limit services and drawing criticism that presenting Muun as a Lightning wallet was misleading. During the May 2023 BRC-20 fee spike, Muun experienced documented incoming Lightning payment outages. The team defended the design on the grounds that non-custodial inbound liquidity management carries real costs. In December 2018, Muun participated in a GiveCrypto pilot distributing Bitcoin in Barrio 31, Buenos Aires. At Bitcoin 2021 in Miami, Jack Dorsey publicly recommended Muun as user-friendly enough for his mother.
+
+**Sources:**
+- blog.muun.com (launch posts, Muun 2.0, open-source announcement)
+- Muun & GiveCrypto pilot — blog.muun.com (2018)
+- No BS Bitcoin — "Muun Wallet Experiencing Issues Due to High Fees" (May 2023)
+- GitHub: github.com/muun
 
 ---
 
