@@ -89,6 +89,7 @@ and extends through the present.
 - [Allen Farrington](#allen-farrington-dates-unknown)
 - [Amboss](#amboss--jesse-shrader--anthony-potdevin-founded-2021)
 - [Amir Taaki](#amir-taaki-1988present)
+- [Atlas21 / Federico Rivi](#atlas21--federico-rivi-dates-unknown)
 - [Andreas Antonopoulos](#andreas-antonopoulos-1972present)
 - [Andrew Chow](#andrew-chow-dates-unknown)
 - [Andrew M. Bailey, Bradley Rettler & Craig Warmke](#andrew-m-bailey-bradley-rettler--craig-warmke--resistance-money-dates-unknown)
@@ -97,6 +98,7 @@ and extends through the present.
 - [Anthony Pompliano](#anthony-pompliano-dates-unknown)
 - [Antoine Poinsot](#antoine-poinsot-dates-unknown)
 - [AntPool](#antpool--bitmain-founded-2014)
+- [Ark Protocol / ARK Labs](#ark-protocol--ark-labs-2023present)
 - [Arnhem](#arnhem--bitcoin-city-netherlands-2014present)
 - [Arthur Hayes](#arthur-hayes-1985present)
 - [Austin BitDevs & the Texas Bitcoin Community](#austin-bitdevs--the-texas-bitcoin-community-2014present)
@@ -114,6 +116,8 @@ and extends through the present.
 - [Bitcoin Beach / El Zonte](#bitcoin-beach--el-zonte--mike-peterson--community-dates-unknown)
 - [Bitcoin Ben](#bitcoin-ben--ben-perrin-dates-unknown)
 - [*Bitcoin Big Bang: L'Improbable Épopée de Mark Karpelès*](#bitcoin-big-bang-limprobable-épopée-de-mark-karpelès-2018--vincent-gonon--xavier-sayanoff)
+- [Bitcoin Curacao / Peter Kroll](#bitcoin-curacao--peter-kroll-dates-unknown)
+- [Bitcoin Cuba / Erich García Cruz](#bitcoin-cuba--erich-garcía-cruz-2020present)
 - [Bitcoin China](#bitcoin-china--the-mining-superpower-that-banned-itself-20122021)
 - [Bitcoin Ekasi](#bitcoin-ekasi--hermann-vivier--community-dates-unknown)
 - [Bitcoin Ethiopia](#bitcoin-ethiopia--grand-renaissance-dam--industrial-mining-2022present)
@@ -121,7 +125,7 @@ and extends through the present.
 - [Bitcoin India](#bitcoin-india--regulatory-suppression--grassroots-adoption-2017present)
 - [Bitcoin Iran](#bitcoin-iran--sanctions-evasion-state-mining--crackdowns-2019present)
 - [Bitcoin Island](#bitcoin-island--roatán-honduras-dates-unknown)
-- [Bitcoin Jungle](#bitcoin-jungle--rich-scotford--community-dates-unknown)
+- [Bitcoin Jungle](#bitcoin-jungle--rich-scotford-francis-pouliot--community-dates-unknown)
 - [Bitcoin Kazakhstan](#bitcoin-kazakhstan--the-hashrate-refuge--power-crisis-20212022)
 - [Bitcoin Lake](#bitcoin-lake--patrick-melder--community-dates-unknown)
 - [Bitcoin Mechanic](#bitcoin-mechanic-pseudonym-identity-unknown)
@@ -148,6 +152,7 @@ and extends through the present.
 - [British HODL](#british-hodl-pseudonym-identity-unknown)
 - [Bryan Bishop / kanzure](#bryan-bishop--kanzure-dates-unknown)
 - [BTC Isla](#btc-isla--isabella-santos-giha-founded-c-2022)
+- [BTC Prague](#btc-prague-2022present)
 - [Burak / @brqgoo](#burak--brqgoo--bitmatrix-dates-unknown)
 - [Butterfly Labs](#butterfly-labs-founded-2012)
 
@@ -170,6 +175,7 @@ and extends through the present.
 - [Christian Decker](#christian-decker-dates-unknown)
 - [Christian Langalis](#christian-langalis--bitcoin-sign-guy-dates-unknown)
 - [Christopher Cannucciari](#christopher-cannucciari-dates-unknown)
+- [Clark Moody](#clark-moody-dates-unknown)
 - [Claus-Peter Schnorr](#claus-peter-schnorr-1943present)
 - [CleanSpark](#cleanspark--zach-bradford-dates-unknown)
 - [Club Orange](#club-orange--matteo-pellegrini-formerly-orange-pill-app-founded-2022)
@@ -191,6 +197,7 @@ and extends through the present.
 - [*Deep Web*](#deep-web-2015--alex-winter)
 - [Dhruv Bansal](#dhruv-bansal-dates-unknown)
 - [Didi Taihuttu & The Bitcoin Family](#didi-taihuttu--the-bitcoin-family-taihuttu-1978present)
+- [Dylan LeClair](#dylan-leclair-dates-unknown)
 - [Discus Fish / Mao Shihang & Chun Wang](#discus-fish--mao-shihang--chun-wang--f2pool-founded-2013)
 - [Donald Trump](#donald-trump-1946present)
 - [Dorian Nakamoto](#dorian-nakamoto-1949present)
@@ -201,6 +208,7 @@ and extends through the present.
 **E**
 - [E-Gold / Douglas Jackson](#e-gold--douglas-jackson-1960spresent)
 - [Edward Snowden](#edward-snowden-1983present)
+- [Erin Redwing](#erin-redwing-dates-unknown)
 - [Ego Death Capital](#ego-death-capital--jeff-booth-nico-lechuga--will-cole-dates-unknown)
 - [Elizabeth Stark & Laolu Osuntokun / roasbeef](#elizabeth-stark--laolu-osuntokun--roasbeef-stark-1983present)
 - [Eric Hughes](#eric-hughes-1958present)
@@ -230,6 +238,7 @@ and extends through the present.
 - [Geyser Fund](#geyser-fund--mick-morucci--stelios-rammos-founded-2022)
 - [Giacomo Zucco](#giacomo-zucco-dates-unknown)
 - [Gigi](#gigi--der-gigi-pseudonym-dates-unknown)
+- [Giovanni Santostasi](#giovanni-santostasi-dates-unknown)
 - [Gloria Zhao](#gloria-zhao-1999present)
 - [Gregory Maxwell](#gregory-maxwell-dates-unknown)
 - [Gridless & Off-Grid Bitcoin Mining in Africa](#gridless--off-grid-bitcoin-mining-in-africa--malawi-kenya--beyond-2022present)
@@ -317,6 +326,7 @@ and extends through the present.
 - [Marty Bent](#marty-bent-dates-unknown)
 - [Matt Corallo](#matt-corallo-dates-unknown)
 - [Matt Odell](#matt-odell-dates-unknown)
+- [Matthew Mezinskis](#matthew-mezinskis-dates-unknown)
 - [Max Keiser & Stacy Herbert](#max-keiser--stacy-herbert-keiser-1960present)
 - [Michael Ford / fanquake](#michael-ford--fanquake-dates-unknown)
 - [Michael J. Casey](#michael-j-casey-dates-unknown)
@@ -327,8 +337,10 @@ and extends through the present.
 - [Mike Hearn](#mike-hearn-1980present)
 - [Mike Novogratz](#mike-novogratz--galaxy-digital-1964present)
 - [Mircea Popescu](#mircea-popescu-19802021)
+- [Motiv Peru / Rich Swisher & Valentin Popescu](#motiv-peru--rich-swisher--valentin-popescu-founded-2020)
 - [Murch / Mark Erhardt](#murch--mark-erhardt-dates-unknown)
 - [MuSig & MuSig2](#musig--musig2--multi-party-schnorr-signing)
+- [My First Bitcoin / Mi Primer Bitcoin / John Dennehy](#my-first-bitcoin--mi-primer-bitcoin--john-dennehy-founded-2021)
 
 **N**
 - [Natalie Brunell](#natalie-brunell-dates-unknown)
@@ -347,10 +359,12 @@ and extends through the present.
 - [OpenSats](#opensats-founded-2021)
 
 **P**
+- [Paco de la India](#paco-de-la-india-dates-unknown)
 - [Parker Lewis](#parker-lewis-dates-unknown)
 - [Paul Vigna](#paul-vigna-dates-unknown)
 - [Perianne Boring](#perianne-boring-dates-unknown)
 - [Pete Rizzo](#pete-rizzo-dates-unknown)
+- [Peter Kroll](#bitcoin-curacao--peter-kroll-dates-unknown)
 - [Peter McCormack](#peter-mccormack-dates-unknown)
 - [Peter Todd](#peter-todd-1988present)
 - [Phil Geiger](#phil-geiger--unchained-inheritance-planning-dates-unknown)
@@ -408,6 +422,7 @@ and extends through the present.
 - [Sergej Kotliar](#sergej-kotliar--bitrefill-dates-unknown)
 - [Shaolinfry](#shaolinfry-pseudonymous)
 - [Shinobi](#shinobi-pseudonym-dates-unknown)
+- [Shockwallet / Shocknet](#shockwallet--shocknet-dates-unknown)
 - [Simon Dixon](#simon-dixon-dates-unknown)
 - [Sjors Provoost](#sjors-provoost-dates-unknown)
 - [Soichiro "Michael" Moro](#soichiro-michael-moro-dates-unknown)
@@ -1685,15 +1700,16 @@ Swiss Bitcoin and Lightning researcher at Blockstream who has been active since 
 
 ## Burak / @brqgoo — Bitmatrix (dates unknown)
 **Tier:** 3
-**Role:** Developer / Lightning Network Exploit Actor
-**Active:** 2022 (Bitcoin-relevant)
+**Role:** Developer / Lightning Network Exploit Actor / Ark Protocol Creator
+**Active:** 2022–present
 
-A developer associated with Bitmatrix who, on October 9, 2022, broadcast a valid but non-standard Bitcoin transaction — a 998-of-999 Tapscript multisig with 998 signatures in the witness field — that caused btcd nodes to reject valid blocks, crashing all Lightning Network Daemon (LND) nodes that depended on btcd. A second transaction followed containing 500,001 pushes exceeding btcd's hardcoded limit. The disruption prevented new Lightning channels from being opened across the network. Burak reportedly paid F2Pool approximately $700 to include the non-standard transaction in a block. The incident exposed a consensus divergence between btcd and Bitcoin Core and prompted urgent patching of LND. Christian Decker and others publicly condemned the action as a harmful stunt rather than responsible disclosure.
+A developer associated with Bitmatrix who, on October 9, 2022, broadcast a valid but non-standard Bitcoin transaction — a 998-of-999 Tapscript multisig with 998 signatures in the witness field — that caused btcd nodes to reject valid blocks, crashing all Lightning Network Daemon (LND) nodes that depended on btcd. A second transaction followed containing 500,001 pushes exceeding btcd's hardcoded limit. The disruption prevented new Lightning channels from being opened across the network. Burak reportedly paid F2Pool approximately $700 to include the non-standard transaction in a block. The incident exposed a consensus divergence between btcd and Bitcoin Core and prompted urgent patching of LND. Christian Decker and others publicly condemned the action as a harmful stunt rather than responsible disclosure. In May 2023, Burak proposed the Ark protocol, a Bitcoin Layer 2 design using a service provider model to enable off-chain payments without requiring receivers to be online — a key limitation of the Lightning Network. See the Ark Protocol entry.
 
 **Sources:**
 - CoinDesk — "Rogue Actor Disrupts Lightning Network With a Single Transaction" (November 2022)
 - Bitcoin Magazine — LND bug analysis (2022)
-- Cross-reference: Christian Decker entry
+- Ark protocol proposal — Burak (May 2023)
+- Cross-reference: Christian Decker entry, Ark Protocol entry
 
 ---
 
@@ -1844,9 +1860,22 @@ Developers who built Mutiny Wallet, the first browser-based non-custodial Lightn
 
 ---
 
+## Shockwallet / Shocknet — Justin (dates unknown)
+**Tier:** 2
+**Role:** Developer / Lightning Wallet with Social Layer
+**Active:** Dates unknown–present
+
+A Bitcoin Lightning wallet built by a developer known as Justin at Shocknet, notable for integrating peer-to-peer social and messaging features directly into a Lightning wallet. Shockwallet represented an early experiment in combining Bitcoin payments with decentralized social networking at the wallet layer, predating the rise of Nostr as the dominant protocol for decentralized social on Bitcoin. The project explored the question of whether a social layer could be built on top of Lightning without relying on centralized infrastructure, making it a documented predecessor to the social/payments convergence that later developed around Nostr and Lightning together.
+
+**Sources:**
+- Shocknet documentation and public writings
+- Public developer commentary and social media
+
+---
+
 ## Ben Arc (pseudonym)
 **Tier:** 2
-**Role:** Developer, LNbits / ShockWallet
+**Role:** Developer, LNbits
 **Active:** 2019–present
 
 Pseudonymous self-taught developer who created LNbits, a free and open-source Lightning wallet and accounts system first developed in 2019. Arc's path to Lightning development began with hardware projects including a modified point-of-sale device piloted at Room77, Berlin's Bitcoin-accepting bar, where it was tested in a live payment environment. LNbits is a lightweight Python application that sits on top of any Lightning funding source and provides isolated wallet accounts, a full REST API, and an extension system for building custom Lightning-powered tools without modifying the core software. The extension architecture attracted contributions from notable developers including Calle (creator of Cashu) and fiatjaf (creator of Nostr). LNbits has been deployed in hackathons, community Bitcoin projects, point-of-sale systems, tipping bots, and paywalls, and accumulated over 60 extensions and support for 20+ backend funding sources. After learning that IBEX was using LNbits in banking products, Arc formalized LNbits as a company in 2022 to ensure software stability and continued development.
@@ -3048,6 +3077,21 @@ Served as editor at CoinDesk during its formative years (2013–2018), producing
 
 ---
 
+## Atlas21 / Federico Rivi (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Media / Italian-Language Bitcoin Journalism
+**Active:** ~2021–present
+
+Atlas21 is the leading Italian Bitcoin media outlet, covering daily news, exclusive interviews, educational guides, and in-depth analysis with both Italian and English-language content. It was co-founded and is directed by Federico Rivi, an Italian Bitcoin journalist and entrepreneur. Rivi also created Bitcoin Train in 2021, the main Italian-language Bitcoin newsletter, and has written for Bitcoin Magazine. He has spoken at BTC Prague and other international Bitcoin conferences. Atlas21 represents the primary dedicated Bitcoin journalism infrastructure for Italian-speaking audiences and has contributed to making Bitcoin research, news, and analysis accessible to one of Europe's major language communities.
+
+**Sources:**
+- atlas21.com — About page and publication archive
+- federicorivi.com
+- Bitcoin Magazine — Federico Rivi author archive
+- BTC Prague — Federico Rivi speaker profile
+
+---
+
 ## Aaron van Wirdum (dates unknown)
 **Tier:** 3
 **Role:** Bitcoin Journalist / Historian / Author
@@ -3570,17 +3614,35 @@ Hermann Vivier led the development of a Bitcoin circular economy in Ekasi, the t
 
 ---
 
-## Bitcoin Jungle — Rich Scotford & Community (dates unknown)
+## Bitcoin Jungle — Rich Scotford, Francis Pouliot & Community (dates unknown)
 **Tier:** 2
 **Role:** Circular Economy Pioneers / Costa Rica
 **Active:** 2021–present
 
-Rich Scotford led the development of a Bitcoin circular economy in the Uvita and Dominical region of Costa Rica's Pacific coast, beginning in 2021, with dozens of local merchants accepting Bitcoin via Lightning. Bitcoin Jungle developed an open-source wallet app for community circular economy use that contributed to the broader Galoy/community wallet ecosystem. The initiative grew organically from local entrepreneurs and expatriates rather than by government mandate.
+Rich Scotford — a British journalist and educator who spent over 20 years in Hong Kong as a teacher and political analyst — led the development of a Bitcoin circular economy in the Uvita and Dominical region of Costa Rica's Pacific coast (the "Triangle of Gold" in Puntarenas province), beginning in late 2021. The idea for Bitcoin Jungle grew directly out of Scotford and his wife's plans to launch a local middle school on the Bitcoin standard — a school that accepts Bitcoin for tuition and was conceived as a catalyst for broader socio-economic change in the community. Scotford co-founded the initiative with Lee Salminen, with the goal of getting Bitcoin into people's hands and making it spendable locally. The project grew to over 600 merchants accepting Bitcoin via Lightning, making it one of the largest merchant-density Bitcoin circular economies documented outside El Salvador. Bitcoin Jungle developed an open-source wallet app for community circular economy use that contributed to the broader Galoy/community wallet ecosystem. The initiative grew organically from local entrepreneurs and expatriates rather than by government mandate. Francis Pouliot, founder of Bull Bitcoin, relocated from Montreal to the Bitcoin Jungle area in 2021 and brought Bull Bitcoin's infrastructure to Costa Rica — integrating it with SINPE Móvil, Costa Rica's national fiat payment system, enabling residents to buy and sell Bitcoin directly through the country's primary domestic payment rail. The Bull Bitcoin / Bitcoin Jungle partnership represented Bull Bitcoin's first international expansion after a decade serving only Canada. Cross-reference: Francis Pouliot entry.
 
 **Sources:**
 - Bitcoin Jungle documentation and wallet (bitcoinjungle.app)
 - Rich Scotford interviews
+- Bull Bitcoin — "Bull Bitcoin Expands to Costa Rica via SINPE Movil in Partnership with Bitcoin Jungle"
+- Bitcoin News — "Richard Scotford's Bitcoin Jungle: A Bitcoin Haven in Costa Rica"
+- Bitcoin Magazine — "Bitcoin Beach Spawns a Fast-Growing Offshoot in Costa Rica — Bitcoin Jungle"
 - Galoy Money / community wallet ecosystem documentation
+
+---
+
+## Motiv Peru / Rich Swisher & Valentin Popescu (founded 2020)
+**Tier:** 2
+**Role:** Bitcoin Circular Economy / Non-Profit / Peru
+**Active:** 2020–present
+
+A U.S.-based non-profit co-founded by Rich Swisher and Valentin Popescu that builds Bitcoin circular economies in impoverished communities across Peru. Motiv began in 2019 as a shoe donation program and pivoted in July 2020 to Bitcoin education and circular economy development. The organization adopted a pragmatic ground-up approach: teaching merchants and residents how to use Bitcoin wallets, building trust by addressing immediate needs around food and supplies, and paying children and entrepreneurs in sats for learning, teaching, and building. Motiv grew to 16 active circular economy zones with hubs in Lima, Cusco, and Huanchaco and satellite programs in Tarapoto and Iquitos, among others, serving over 750 families weekly. Cusco functions as a central hub serving surrounding rural and remote villages, with Bitcoin accepted for everyday goods including bread, haircuts, and tourism services including trips to Machu Picchu. Women in Cusco began selling crafts for Bitcoin and later carried the practice into nearby villages, creating grassroots satellite adoption. In Juan Guerra, a remote agricultural village near Tarapoto in Peru's Amazon jungle neglected by government infrastructure, Motiv constructed a water processing facility that sources water from a river, makes it potable, and delivers it to households — with residents paying for their water in Bitcoin via smartphone, without banks or currency exchange. In nearby Quebrada Verde, Motiv helped a woman named Sandra build a bakery that sold $12,000 USD worth of goods in Bitcoin, and women there subsequently spread Bitcoin adoption to surrounding villages. Many of the communities reached have limited or no access to traditional banking. Motiv Peru is listed in the Bitcoin Economy Confederation and has been documented in Bitcoin Magazine as one of the more operationally dense circular economy networks in Latin America.
+
+**Sources:**
+- Bitcoin Magazine — "Motiv Inc. Launches 16 Circular Bitcoin Economies in Peru"
+- Bitcoin Magazine — "Motiv Builds Bitcoin Circular Economies, Empowering 750+ Peruvian Families Weekly"
+- Bitcoin Economy Confederation — Motiv Peru hub profile
+- Bitcoin Magazine — "Bitcoin Circular Economies and a Bridge Between Las Vegas and Peru"
 
 ---
 
@@ -3595,6 +3657,19 @@ Patrick Melder led the development of a Bitcoin circular economy around Lake Ati
 - Bitcoin Lake documentation (bitcoinlake.org)
 - Patrick Melder interviews and field documentation
 - Coverage via Bitcoin Magazine, Joe Nakamoto documentary work
+
+---
+
+## BTC Prague (2022–present)
+**Tier:** 3
+**Role:** Bitcoin Conference / European Bitcoin Community Hub
+**Active:** 2022–present
+
+An annual Bitcoin-only conference held in Prague, Czech Republic, established as one of the largest Bitcoin-focused events in Europe. BTC Prague attracts speakers and attendees from across the Bitcoin developer, investor, educator, and circular economy communities. The Czech Republic has a longstanding Bitcoin culture — including Parallel Polis, a Prague-based hackerspace and venue that hosted early Bitcoin events and is associated with the cypherpunk tradition — and BTC Prague built on that foundation to establish Prague as a recurring anchor city for European Bitcoin gatherings. The conference covers technical development, monetary theory, circular economy adoption, and Bitcoin culture, and has featured speakers from the Bitcoin Core developer community, Lightning ecosystem, and the broader Bitcoin intellectual space.
+
+**Sources:**
+- btcprague.com
+- Conference speaker archives and coverage (2022–present)
 
 ---
 
@@ -3625,6 +3700,21 @@ Próspera is a semi-autonomous special economic zone on the island of Roatán, H
 - Charter city / ZEDE legal framework documentation (Honduras)
 - Próspera vs. Honduras government dispute coverage
 - Coverage: Bitcoin Magazine, Reason, Nostr
+
+---
+
+## Bitcoin Curacao / Peter Kroll (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Circular Economy / Developer / Community Builder
+**Active:** 2011–present
+
+Peter Kroll is a developer and Bitcoin early adopter who discovered Bitcoin while living in Curaçao, a Dutch Caribbean island, and went on to become one of the more consequential contributors to Bitcoin's early self-custody tooling. In 2011, he launched bitaddress.org — an open-source, client-side Bitcoin paper wallet generator — anonymously, keeping his identity behind the project private until late 2014. Bitaddress.org generates Bitcoin private keys and addresses entirely in the browser without an internet connection after page load, using mouse movement as an entropy source to address the problem that coded systems cannot generate truly random numbers. The result is a printable paper wallet insulated from online attack. The tool became one of the most widely used self-custody methods of the early Bitcoin era. Kroll later became Director of BTC Curaçao, a think tank promoting Bitcoin education and adoption on the island, building a community of Bitcoin-accepting businesses and running educational programming for local residents. He has described a vision of goods priced in gold and paid in Bitcoin.
+
+**Sources:**
+- Bitcoin Magazine — "How Peter Kroll's Paper Wallet Protects Cryptocurrency"
+- The Bitcoin Game #56: Paper Wallet Inventor Peter Kroll (Let's Talk Bitcoin)
+- Curaçao Chronicle — Peter Kroll interview
+- btccuracao.com
 
 ---
 
@@ -3809,6 +3899,22 @@ Iran legalized and licensed Bitcoin mining in 2019, explicitly as a mechanism to
 - U.S. Treasury / OFAC Iran sanctions and crypto documentation
 - Iran electricity subsidy and mining crackdown coverage
 - Coverage: CoinDesk, Bitcoin Magazine, Reuters
+
+---
+
+## Bitcoin Cuba / Erich García Cruz (2020–present)
+**Tier:** 3
+**Role:** Sanctioned State Bitcoin Adoption / Remittances / Community
+**Active:** 2020–present
+
+Cuba's Bitcoin adoption story is driven primarily by U.S. sanctions — in place since 1962 — and the 2020 Trump administration order that shut Western Union's 400+ Cuban locations, severing a primary remittance channel for families with relatives abroad. The closure triggered an immediate surge in Bitcoin and cryptocurrency use for cross-border money transfers. Cubans developed informal Telegram-based trading networks to convert Bitcoin sent from Miami and other diaspora cities into local pesos. Cuba became the second country in the world to legalize Bitcoin, in August 2021, when the Cuban Central Bank issued a resolution recognizing and regulating cryptocurrencies. Estimates put the Bitcoin and crypto user base at 100,000–200,000 Cubans, roughly 1–2% of the population. The key institutional figure is Erich García Cruz, founder of QvaPay — a payment gateway with 40,000+ registered users launched in 2021 — and BitRemesas, a Bitcoin-based remittance service enabling Cubans to pay electricity, mobile phone recharging, and internet access using Bitcoin. García Cruz, who later emigrated to the United States, runs the YouTube channel Bachecubano (100,000+ subscribers) focused on technology and Bitcoin tutorials for Cuban audiences, and has been described as the Ambassador of Bitcoin in Cuba. The local organization Cuba Bitcoin was co-founded by a community figure known as Forte.
+
+**Sources:**
+- Bitcoin Magazine — "Inside Cuba's Bitcoin Revolution"
+- CoinTelegraph Magazine — "The Truth Behind Cuba's Bitcoin Revolution: An On-the-Ground Report"
+- PanAmerican World — "Erich García, the Ambassador of Bitcoin in Cuba"
+- CNBC — "Cuba's Central Bank Now Recognizes Cryptocurrencies Such as Bitcoin" (August 2021)
+- NBC News — "In Cuba, Cryptocurrency Gains Momentum"
 
 ---
 
@@ -4630,6 +4736,22 @@ Founded Strike, a Lightning-native payments application; announced El Salvador's
 
 ---
 
+## My First Bitcoin / Mi Primer Bitcoin / John Dennehy (founded 2021)
+**Tier:** 3
+**Role:** Bitcoin Education Organization / El Salvador
+**Active:** 2021–present
+
+Founded in August 2021 by John Dennehy, an American who relocated to El Salvador following the country's passage of the Bitcoin Law. Dennehy conceived the project during the COVID-19 pandemic and initially traveled to Ecuador to teach friends about Bitcoin before moving to El Salvador to support grassroots education around the new legal tender law. The first class had one attendee, held in a yoga studio; by the end of the first month, five students were attending regularly. The organization developed the Bitcoin Diploma, a ten-lesson curriculum covering monetary systems, Bitcoin fundamentals, wallets, nodes, mining, security, the Lightning Network, and Bitcoin's future — the first Bitcoin diploma program integrated into public schools anywhere in the world. My First Bitcoin partnered with El Salvador's Ministry of Education in 2023 to integrate the curriculum into schools; that partnership concluded in April 2025. Over four years the program taught more than 27,000 students. It subsequently transitioned to a fully remote, globally distributed model, with a Node Network of 50 projects across 27 countries running independent local programs using open-source curricula and educator frameworks developed by the organization.
+
+**Sources:**
+- Bitcoin Magazine — "Bitcoin Education Can Change the World: Mi Primer Bitcoin"
+- Bitcoin Magazine — "My First Bitcoin Goes Global, Empowering Educators Worldwide"
+- CoinTelegraph — "El Salvador's 'My First Bitcoin': How to Teach a Nation About Crypto"
+- The Investor's Podcast — "Educating the World On Bitcoin w/ John Dennehy"
+- Adopting Bitcoin 2023 — John Dennehy speaker profile
+
+---
+
 ## Samson Mow (dates unknown)
 **Tier:** 3
 **Role:** Bitcoin Nation-State Adoption Strategist / Jan3 Founder
@@ -4895,10 +5017,11 @@ Built e-gold, the first widely-used digital currency backed by gold, which reach
 **Role:** Bitcoin Entrepreneur / Bull Bitcoin CEO
 **Active:** 2013–present
 
-A Quebec-based Bitcoin entrepreneur and one of Canada's earliest full-time Bitcoin advocates. Pouliot co-founded Bull Bitcoin (2018), a Bitcoin-only exchange based in Canada known for its non-custodial philosophy and emphasis on self-sovereignty, and acquired Bylls, the first Bitcoin bill payment service globally and Canada's largest Bitcoin payment processor. Earlier roles included CEO of Bitcoin Foundation Canada and Director of Public Affairs at The Bitcoin Embassy. He has served as a fintech advisor at the Ontario Securities Commission and as an associate researcher at the Montreal Economic Institute. Pouliot has been a vocal advocate for Bitcoin maximalism and peer-to-peer financial sovereignty.
+A Quebec-born Bitcoin entrepreneur and one of Canada's earliest full-time Bitcoin advocates. Pouliot co-founded Bull Bitcoin (2018), a Bitcoin-only exchange based in Canada known for its non-custodial philosophy and emphasis on self-sovereignty, and acquired Bylls, the first Bitcoin bill payment service globally and Canada's largest Bitcoin payment processor. Earlier roles included CEO of Bitcoin Foundation Canada and Director of Public Affairs at The Bitcoin Embassy in Montreal, which he founded in 2013. He has served as a fintech advisor at the Ontario Securities Commission and as an associate researcher at the Montreal Economic Institute. In 2021, Pouliot relocated to the Bitcoin Jungle area of Costa Rica's Pacific coast, and subsequently brought Bull Bitcoin to Costa Rica via a partnership with Bitcoin Jungle — integrating it with SINPE Móvil, Costa Rica's national fiat payment system. The expansion marked Bull Bitcoin's first international market after nearly a decade serving only Canada. Cross-reference: Bitcoin Jungle entry.
 
 **Sources:**
 - Bull Bitcoin (bullbitcoin.com)
+- Bull Bitcoin — "Bull Bitcoin Expands to Costa Rica via SINPE Movil in Partnership with Bitcoin Jungle"
 - Bylls documentation
 - Bitcoin Foundation Canada
 - Public writings and conference appearances (2013–present)
@@ -4919,6 +5042,36 @@ Co-founded BitMEX (Bitcoin Mercantile Exchange) in 2014, a cryptocurrency deriva
 - DOJ indictment (October 2020)
 - Hayes guilty plea (2022)
 - Arthur Hayes essay blog (arthur.substack.com)
+
+---
+
+## Erin Redwing (dates unknown)
+**Tier:** 3
+**Role:** Astrologer / Bitcoin Cultural Figure
+**Active:** Dates unknown–present
+
+An astrologer who applies astrological frameworks — planetary cycles, transits, and celestial timing — to Bitcoin price analysis and market cycle interpretation. Redwing has developed an audience within the Bitcoin community by connecting astrological timing to Bitcoin's historical market movements. She has appeared on prominent Bitcoin podcasts including What Bitcoin Did (hosted by Peter McCormack) and Tales from the Crypt (hosted by Marty Bent), representing a distinctive intersection of esoteric tradition and Bitcoin market commentary. Her presence on major Bitcoin podcasts reflects the breadth of interpretive frameworks the Bitcoin community has engaged with in discussing market cycles.
+
+**Sources:**
+- What Bitcoin Did podcast appearances
+- Tales from the Crypt podcast appearances
+- Public writings and social media
+
+---
+
+## Paco de la India (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Cultural Figure / Traveler / Author
+**Active:** 2021–present
+
+An Indian traveler who set off on September 17, 2021 on a journey to cross 40 countries in 400 days living exclusively on Bitcoin — a project he called "Run with Bitcoin." He ultimately traveled 42 countries across the Global South, spending and receiving Bitcoin throughout, and documented the journey via social media, Substack, and podcast appearances. The trip was inspired by *The Bitcoin Standard* by Saifedean Ammous, on whose podcast Paco later appeared. Bitrefill was a documented supporter of the journey, with the broader Bitcoin community contributing donations, accommodation, food, and connections along the way. Paco collaborated with Paxful during the tour and operated as a real-world proof of concept for Bitcoin's usability across diverse jurisdictions in the developing world. He has written about concluding the tour and is working on a book titled *Proof of Work* documenting the experience.
+
+**Sources:**
+- runwithbitcoin.com
+- Forbes — "An Insight Into Paco de la India's 'Run With Bitcoin' World Tour" (2022)
+- Saifedean Ammous Podcast — Episode 167: Run with Bitcoin with Paco de la India
+- Paco de la India Substack (pacodelaindia.substack.com)
+- Ledger Life — "Bitcoin Voyager Paco de la India Concludes His Global Run"
 
 ---
 
@@ -5521,8 +5674,80 @@ A Belgian macroeconomist and investment analyst who became an early public advoc
 
 ---
 
-*Last updated: 2026-07-08*
-*Status: 317 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
+## Clark Moody (dates unknown)
+**Tier:** 2
+**Role:** Bitcoin Developer / Data Tools / Analytics
+**Active:** 2011–present
+
+A Bitcoin developer with one of the longer documented track records in the space. Moody entered Bitcoin in 2011 and built the first real-time Bitcoin market data website, including live Mt. Gox charts and an interactive order book — foundational infrastructure for Bitcoin market transparency at a time when no comparable tools existed. He subsequently built RTBTC, a web-based unified trading interface allowing users to trade across multiple exchanges through a single UI; RTBTC was acquired by Blockchain.com in early 2014 and became the ZeroBlock trading platform. Moody co-founded The Picks & Shovels Co., a portfolio management and analytics tool for institutional crypto investors, which was acquired by Kraken in 2019. He later worked at Cryptowatch building high-performance desktop charting and trading software in Rust. His most widely used current project is the Clark Moody Bitcoin Dashboard (bitcoin.clarkmoody.com), a comprehensive real-time display of Bitcoin network data covering block activity, mempool, price, fees, hashrate, and network fundamentals — a standard reference tool in the Bitcoin community. He is listed on the Bitcoin developer donation portal (bitcoindevlist.com).
+
+**Sources:**
+- bitcoin.clarkmoody.com
+- Bitcoin Magazine — "Taking a Better Look at Bitcoin with Clark Moody's Dashboard"
+- Stephan Livera Podcast — SLP155: Clark Moody — Bitcoin Dashboard & the 1000-Year Bull Run
+- bitcoindevlist.com — Clark Moody
+
+---
+
+## Ark Protocol / ARK Labs (2023–present)
+**Tier:** 2
+**Role:** Bitcoin Layer 2 Protocol
+**Active:** 2023–present
+
+A Bitcoin Layer 2 protocol proposed by developer Burak Keceli in May 2023, designed to enable off-chain payments without the channel management and online-receiver requirements of the Lightning Network. Ark uses Ark Service Providers (ASPs) — always-online coordinators that pool user funds into periodic on-chain coinjoin-style rounds — to issue virtual UTXOs (vTXOs) redeemable on-chain. The key design difference from Lightning is that recipients do not need to be online or maintain inbound liquidity; the ASP handles coordination. Users retain the ability to unilaterally exit to the base layer after a timeout, preserving self-custody guarantees. In its initial form, Ark requires trusting the ASP during the round window; full trustlessness depends on Bitcoin covenant opcodes such as OP_CAT or CTV that have not yet been activated. ARK Labs was formed to develop the protocol and associated infrastructure, and a mainnet implementation has been deployed. The protocol has attracted attention as a potential complement to Lightning for use cases where receiver availability and channel management friction are barriers. Cross-reference: Burak / @brqgoo entry.
+
+**Sources:**
+- Ark protocol proposal — Burak (May 2023, arkpill.me / ark-protocol.org)
+- ARK Labs documentation
+- Bitcoin developer mailing list and developer commentary (2023–present)
+
+---
+
+## Dylan LeClair (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Analyst / Writer
+**Active:** ~2020–present
+
+A Bitcoin analyst known for institutional-grade on-chain and macroeconomic research. LeClair served as Senior Analyst at Bitcoin Magazine, where he co-authored research with Sam Rule including "Bitcoin: An Asset Unlike Any Other," a widely circulated paper making the case for Bitcoin as a treasury reserve asset for corporations and institutions. He later joined UTXO Management, a Bitcoin-focused financial services firm. LeClair publishes the 21st Paradigm newsletter on Substack and has been a recurring commentator on Bitcoin market structure, monetary policy, and cycle analysis on X and across major Bitcoin podcasts. His work is positioned toward institutional and sophisticated retail audiences and connects on-chain data to macro frameworks.
+
+**Sources:**
+- "Bitcoin: An Asset Unlike Any Other" — Dylan LeClair & Sam Rule
+- Bitcoin Magazine analyst archive
+- 21st Paradigm Substack
+- Public podcast appearances and X commentary
+
+---
+
+## Matthew Mezinskis (dates unknown)
+**Tier:** 3
+**Role:** Monetary Analyst / Podcaster
+**Active:** ~2017–present
+
+A Bitcoin analyst and co-host of the Crypto Voices podcast alongside Brazilian economist Fernando Ulrich. Mezinskis is best known for his recurring Global Monetary Base report, which tracks the monetary base (M0) of the world's major central banks and compares aggregate global money supply to Bitcoin's market capitalization. The report frames Bitcoin as a candidate for a share of global monetary savings and has been cited as a reference for institutional and retail investors seeking to contextualize Bitcoin's size relative to traditional monetary aggregates. His work applies a hard money framework to macro analysis, arguing that Bitcoin's fixed supply makes it a structural competitor to fiat monetary bases over long time horizons. Mezinskis and Ulrich have conducted extensive interviews with economists, investors, and Bitcoin developers on the Crypto Voices podcast.
+
+**Sources:**
+- Crypto Voices podcast (cryptovoices.com)
+- Global Monetary Base reports — Matthew Mezinskis
+- Public interviews and podcast appearances
+
+---
+
+## Giovanni Santostasi (dates unknown)
+**Tier:** 3
+**Role:** Physicist / Bitcoin Analyst
+**Active:** ~2019–present
+
+A physicist who developed and popularized the Bitcoin Power Law theory, a quantitative model proposing that Bitcoin's price follows a power law relationship with elapsed time since the genesis block. The model produces a logarithmic price corridor — an upper band and a lower band — within which Bitcoin's price has historically trended, with deviations representing periods of relative overextension or undervaluation. Santostasi extended the observation beyond price, noting that other Bitcoin network metrics including hashrate and the number of active addresses also exhibit power law growth, and argued this pattern reflects Bitcoin's adoption dynamics as a network technology rather than a commodity scarcity mechanism. The power law framework has been discussed as a complement or alternative to PlanB's Stock-to-Flow model, with proponents noting it remained statistically consistent across halving cycles during which S2F diverged from observed prices. Santostasi has presented the theory through conference appearances, podcast interviews, and analyses distributed via X.
+
+**Sources:**
+- Giovanni Santostasi — public X writings and charts
+- Bitcoin Power Law theory presentations and podcast appearances
+- Bitcoin Magazine and related media coverage
+
+---
+
+*Last updated: 2026-07-11*
+*Status: 358 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
 
 ---
 
