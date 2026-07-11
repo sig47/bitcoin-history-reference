@@ -1811,15 +1811,18 @@ Swedish developer who built Blixt Wallet, a non-custodial mobile Lightning walle
 
 ## Breez — Roy Sheinfeld (dates unknown)
 **Tier:** 2
-**Role:** Lightning Wallet Developer / LSP Pioneer
+**Role:** Lightning Wallet Developer / LSP Pioneer / Bitcoin Infrastructure
 **Active:** 2019–present
 
-Israeli entrepreneur who founded Breez, a non-custodial Lightning wallet that acts as its own LSP (Lightning Service Provider), and built the Breez SDK — an embeddable toolkit that allows third-party app developers to integrate non-custodial Lightning without building the underlying infrastructure from scratch. Breez was among the first Lightning wallets to include a built-in point-of-sale mode for merchants and integrated Podcasting 2.0, enabling per-minute satoshi streaming to podcast creators. Sheinfeld has written publicly on Lightning infrastructure economics and LSP sustainability.
+A non-custodial Lightning wallet and Bitcoin infrastructure company founded in 2018 by Roy Sheinfeld (CEO), Roei Erez (VP R&D), and Yaacov Akiba Slama, headquartered in Tel Aviv, Israel. Sheinfeld and Erez had previously co-founded harmon.ie, an enterprise workplace software company. Breez launched its iOS and Android apps in open beta in June 2019, running a full LND Lightning node locally on the user's device via the Neutrino protocol. Breez was the first company to operate as a Lightning Service Provider (LSP) — a term Sheinfeld coined — solving the inbound liquidity problem by funding users' initial channels on their behalf so new users could receive payments immediately without on-chain setup. In March 2021 Breez integrated a native Podcasting 2.0 podcast player, enabling the Value4Value model; Adam Curry publicly credited the Breez team for making per-minute satoshi streaming to podcast creators a working product. Breez also introduced one of the first built-in non-custodial point-of-sale modes, allowing merchants to accept Lightning payments within the same app used as a wallet. In April 2022 Breez announced integration with Blockstream's Greenlight on-demand node service and subsequently open-sourced the Breez SDK (Lightning as a Service), which allowed third-party developers to embed non-custodial Lightning into their apps without operating nodes; over 75 apps integrated it. Breez developed an Open-LSP model allowing third-party LSPs to supply liquidity; LQwD Fintech became the first third-party LSP in 2023. Breez raised $500,000 from Fulgur Ventures in early 2020 and $4.5 million in a December 2022 round co-led by Ego Death Capital and Entrée Capital, with participation from Hivemind Ventures, Fulgur, the Human Rights Foundation, and others. In October 2024 Breez released the Breez SDK – Nodeless (also called Breez SDK – Liquid), a new implementation using Blockstream's Liquid sidechain — eliminating payment channels and LSP liquidity requirements in exchange for reliance on Liquid's federation model. In April 2025 Breez launched Misty Breez, a new open-source reference wallet built on the Nodeless/Liquid SDK, replacing the original wallet.
 
 **Sources:**
-- Breez documentation (breez.technology)
-- Breez SDK documentation
-- Podcasting 2.0 / value-for-value integration documentation
+- Bitcoin Magazine — Breez $4.5M round (December 2022)
+- Bitcoin Magazine — Podcasting 2.0 integration (March 2021)
+- Blockstream Blog — Greenlight/Breez integration (April 2022)
+- Bitcoin Magazine — Misty Breez launch (April 2025)
+- Breez Medium — Open-LSP model
+- GitHub: github.com/breez
 
 ---
 
