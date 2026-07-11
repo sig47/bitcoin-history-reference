@@ -222,7 +222,7 @@ and extends through the present.
 - [Eric Voskuil](#eric-voskuil-dates-unknown)
 - [Erik Cason](#erik-cason-dates-unknown)
 - [Erik Voorhees](#erik-voorhees-1988present)
-- [Evan Kaloudis](#evan-kaloudis-dates-unknown)
+- [Evan Kaloudis / Zeus Wallet](#evan-kaloudis--zeus-wallet-dates-unknown)
 
 **F**
 - [Farida Bemba Nabourema](#farida-bemba-nabourema-1990present)
@@ -1783,16 +1783,18 @@ American developer who built Stacker News (stacker.news), a Lightning-native lin
 
 ### Lightning Wallets & Applications
 
-## Evan Kaloudis (dates unknown)
+## Evan Kaloudis / Zeus Wallet (dates unknown)
 **Tier:** 2
-**Role:** Developer, Zeus Wallet
+**Role:** Bitcoin & Lightning Wallet Developer / LSP Operator
 **Active:** 2019–present
 
-American developer who built Zeus, a mobile Bitcoin and Lightning wallet designed to connect to users' own Lightning nodes via remote control, making non-custodial Lightning accessible on mobile for users running their own infrastructure. Later versions of Zeus added an embedded LND node, allowing full self-custody on mobile without a separate remote node. Zeus has become a reference implementation of self-sovereign Lightning wallet design.
+An American developer who holds an M.S. in Cybersecurity from NYU Tandon School of Engineering and previously worked at Kraken and as a contract engineer for Lightning Labs. Around 2018 Kaloudis set up a home Lightning node and, finding no adequate mobile management tools, began building Zeus in late 2018. The app shipped in 2019 under the AGPL v3 license as a React Native remote control for LND and Core Lightning nodes — the first widely adopted mobile remote node manager, allowing users to manage their own self-hosted nodes without any custodial intermediary. Zeus marks its founding at Bitcoin block 563345. In December 2023 (v0.8.0) Kaloudis shipped an embedded LND node running directly on the phone, making Zeus one of the first wallets to run a full Lightning node on a smartphone. The same release introduced OLYMPUS by ZEUS, Zeus's own LSP that provides zero-confirmation channel opens and invoice wrapping to conceal users' node public keys from payers, and ZEUS PAY, described at launch as the first self-custodial Lightning address offered by a mobile wallet, using hodl invoices and the Zaplocker Nostr attestation scheme. v0.8.0 also added Simple Taproot Channel support. Subsequent releases added hardware wallet signing (Coldcard, Passport, SeedSigner, Keystone — v0.9.0, August 2024), BOLT 12 and BIP-353 support (v0.8.5, July 2024), channel lease renewals and Nostr Wallet Connect client support (v0.10.0, March 2025), and NWC server functionality (v0.12.0, December 2025). In April 2026 (v13.0.0) Zeus replaced the embedded LND engine with LDK Node and introduced a three-tier graduated wallet model: Mortal (Cashu ecash for onboarding), God (self-custodial embedded Lightning node), and Olympian (sovereign node operators). The release also added device channel migration. OLYMPUS has been integrated as an LSP by third-party wallets including Mutiny Wallet and Lightning.Pub. Zeus also offers ZEUS White, an enterprise node management and point-of-sale service, and ZEUS Forge, a custom Lightning infrastructure offering. When the Samourai Wallet developers were arrested in April 2024 and Phoenix Wallet withdrew from US markets, Kaloudis publicly committed Zeus to remaining self-custodial and available, framing node operator self-custody as a foundational line of defense. In April 2026 Zeus completed a SOC 2 Type II audit.
 
 **Sources:**
-- Zeus Wallet GitHub (github.com/ZeusLN/zeus)
-- Zeus documentation (zeusln.app)
+- Zeus blog — v0.8.0, v0.9.0, v0.10.0, v0.12.0, v13.0.0 release posts (zeusln.com/blog)
+- Bitcoin Magazine — "Bitcoin Lightning Wallet Zeus Isn't Going Anywhere" (April 2024)
+- Bitcoin News — "Zeus: Evan Kaloudis Is Building a Wallet That Grows With You"
+- GitHub: github.com/ZeusLN/zeus
 
 ---
 
