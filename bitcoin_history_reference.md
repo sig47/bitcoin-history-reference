@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**361 entries — last updated 2026-07-11**
+**362 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -194,6 +194,7 @@ and extends through the present.
 - [Daniel Folkinshteyn / nanotube](#daniel-folkinshteyn--nanotube-dates-unknown)
 - [Daniel Mross & Nicholas Mross](#daniel-mross--nicholas-mross--the-rise-and-rise-of-bitcoin-dates-unknown)
 - [Daniel Prince](#daniel-prince-dates-unknown)
+- [Danny Knowles](#danny-knowles-dates-unknown)
 - [David Bailey](#david-bailey-1990present)
 - [David Chaum](#david-chaum-1955present)
 - [*Deep Web*](#deep-web-2015--alex-winter)
@@ -4158,6 +4159,20 @@ British Bitcoin podcaster and educator who hosts *Once Bitten! A Bitcoin Podcast
 - Once Bitten! A Bitcoin Podcast — Apple Podcasts / Spotify
 - LinkedIn — Daniel Prince
 - BTC Prague speaker profile
+
+---
+
+## Danny Knowles (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Podcaster / Producer / Journalist
+**Active:** 2018–present
+
+A British Bitcoin podcaster and journalist who joined *What Bitcoin Did* in 2018 as executive producer and audio engineer, working under founder Peter McCormack. Knowles built and ran the show's production operation for six years. In December 2024, McCormack publicly transferred the *What Bitcoin Did* brand to Knowles, who relaunched the show as host. Under Knowles the podcast publishes approximately three episodes per week covering Bitcoin adoption, monetary policy, energy, and institutional strategy. *What Bitcoin Did* is ranked in the top 0.5% of podcasts worldwide by Listen Notes and has charted as a top 25 investing podcast in the US and UK. Knowles is also noted for research on Bitcoin and energy use that has been cited in coverage of Bitcoin's environmental impact.
+
+**Sources:**
+- Peter McCormack public announcement (X, December 2024)
+- What Bitcoin Did — Apple Podcasts / Spotify / YouTube
+- Muck Rack — Danny Knowles journalist profile
 
 ---
 
