@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**344 entries — last updated 2026-07-10**
+**360 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -104,8 +104,10 @@ and extends through the present.
 - [Austin BitDevs & the Texas Bitcoin Community](#austin-bitdevs--the-texas-bitcoin-community-2014present)
 
 **B**
+- [Based Trading Cards / Alladan Flinn](#based-trading-cards--alladan-flinn-2022present)
 - [Barry Silbert](#barry-silbert-1976present)
 - [Ben Arc](#ben-arc-pseudonym)
+- [Bitaxe / skot9000](#bitaxe--skot9000-dates-unknown)
 - [Ben Carman, Tony Giorgio & Paul Miller](#ben-carman-tony-giorgio--paul-miller--mutiny-wallet-dates-unknown)
 - [Benedictines of Mary, Queen of Apostles](#benedictines-of-mary-queen-of-apostles--bitcoin-funded-church-2017)
 - [Benjamin Lawsky](#benjamin-lawsky-dates-unknown)
@@ -2586,6 +2588,22 @@ Engineer and infrastructure architect who joined Coinbase in 2014 and served as 
 
 ### Mining Hardware & Manufacturers
 
+## Bitaxe / skot9000 (dates unknown)
+**Tier:** 2
+**Role:** Open-Source ASIC Miner / Home Mining Pioneer
+**Active:** ~2022–present
+
+An open-source Bitcoin ASIC miner hardware project created by a developer known as skot9000 (GitHub: skot), an electrical engineer who spent approximately two years reverse-engineering Bitmain's ASIC chips — decoding pinouts, voltages, and communication protocols — before publishing the complete Bitaxe design. Bitaxe is the first Bitcoin miner to make every component fully public: PCB schematics, board layout files, firmware source code, and bill of materials. It uses commodity Bitmain ASIC chips repurposed in an open hardware context, producing a quiet, low-power, home-friendly device capable of solo or pool mining. Bitaxe became the focal hardware of a growing home solo mining culture in which individuals run low-hashrate devices against the full network for a small but non-zero chance of finding a block and claiming the full block reward — a lottery-like practice with sovereignty and decentralization appeal distinct from pool mining. Since July 2024, Bitaxe devices have found multiple confirmed solo Bitcoin blocks with combined payouts exceeding $1 million USD, each find generating significant community celebration. The fully open design has spawned a range of derivative boards and a manufacturer ecosystem including Solo Satoshi and others.
+
+**Sources:**
+- github.com/skot/bitaxe
+- bitaxe.org
+- D-Central — "What is Bitaxe? The Open-Source Bitcoin ASIC Miner Explained"
+- Solo Satoshi — "What is Bitaxe?"
+- Solo block find documentation (2024–present)
+
+---
+
 ## Jihan Wu & Bitmain (Wu: 1986–present)
 **Tier:** 3
 **Role:** ASIC Manufacturer / Mining Industrialist
@@ -3685,6 +3703,20 @@ Isabella Santos Giha (known online as Isa, @isabellasg3) built a Bitcoin circula
 - Bitcoin Treasuries Podcast — "Building a Bitcoin Circular Economy w/ Isabella"
 - Efrat Fenigson Podcast Ep. 40 — Isabella Santos
 - Bitcoin Magazine — Bitcoin Backstage
+
+---
+
+## Based Trading Cards / Alladan Flinn (2022–present)
+**Tier:** 3
+**Role:** Bitcoin Collectibles / Trading Card Producer
+**Active:** 2022–present
+
+A Bitcoin-themed trading card company founded by Alladan Flinn and launched in November 2022 after approximately four years of development. Originally named Bitcoin Trading Cards, the company rebranded to Based Trading Cards in 2025. Its flagship product line, "Orange Pill in a Pack" (OPP), features Bitcoin educators, developers, and cultural figures as collectible cards. Series 1 sold out within four months; Series 3 was produced in collaboration with Bitcoin Magazine under the "Warriors vs. Villains" theme. The company gained significant media attention when a Bitcoin worth $63,000 was pulled from a $33 pack sold at GameStop, and again when a $100,000 Bitcoin was won from a $50 pack. Series 4, "The Simulation," and a "Satoshi's Heroes" set were announced for 2026. Based Trading Cards represents the convergence of Bitcoin culture with physical collectible merchandise, appealing to both existing bitcoiners and newcomers introduced to the space through mainstream retail channels.
+
+**Sources:**
+- basedtradingcards.com
+- Bitcoin Magazine — OPP Series 3 coverage
+- Various social media and community coverage (2022–present)
 
 ---
 
@@ -5747,7 +5779,7 @@ A physicist who developed and popularized the Bitcoin Power Law theory, a quanti
 ---
 
 *Last updated: 2026-07-11*
-*Status: 358 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
+*Status: 359 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
 
 ---
 
