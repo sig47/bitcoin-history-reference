@@ -1855,17 +1855,17 @@ Bitcoin-native podcast application co-founded by Nick Malster and Oscar Merry in
 
 ## Phoenix Wallet — ACINQ (launched 2019)
 **Tier:** 2
-**Role:** Non-Custodial Lightning Wallet / Privacy-First Design
+**Role:** Non-Custodial Lightning Wallet / French Bitcoin Company
 **Active:** 2019–present
 
-ACINQ's consumer-facing Lightning wallet, launched in 2019 and notable for implementing trampoline routing — a technique that routes payments through intermediate nodes that do not know the final destination, improving payment privacy — as well as channel splicing (resizing channels without closing them) and automated liquidity management via ACINQ's LSP. In 2024 Phoenix temporarily withdrew from U.S. app stores over regulatory uncertainty about whether LSPs could be classified as money transmitters, before returning with modified terms. The episode is a documented case of regulatory pressure affecting non-custodial Lightning wallet distribution.
+The consumer-facing Lightning wallet of ACINQ, a French Bitcoin technology company founded in 2014 and headquartered in Paris by Pierre-Marie Padiou (CEO) and Fabrice Drouin (CTO). ACINQ is also the developer of Eclair, a Scala-based Lightning implementation and one of the three major Lightning Network implementations alongside LND and Core Lightning; Eclair 0.2-alpha1 (March 2017) was described as the first implementation to achieve compliance with Lightning Network specifications. ACINQ raised an $8 million Series A in October 2019 with participation from Bpifrance, the French state investment bank. Phoenix launched on Android December 12, 2019 and iOS in 2021, described by ACINQ as a "second-generation Lightning wallet." It runs a full Lightning node on the user's mobile device via lightning-kmp, ACINQ's Kotlin Multiplatform Lightning implementation. ACINQ acts as the sole LSP handling automated inbound liquidity, but does not control user keys. Early innovations included trampoline routing (outsourced route computation preserving privacy), pay-to-open automatic channel creation, and turbo channels spendable before confirmation. In July 2023 Phoenix introduced a splicing-based architecture — a single dynamic channel per user resized via splice-in and splice-out — eliminating the prior 1% inbound liquidity fee and making Lightning receives fee-free. In April 2024, following the federal indictment of Samourai Wallet's founders, ACINQ announced withdrawal from US app stores, citing regulatory uncertainty about whether self-custodial wallet providers or LSPs could be classified as money services businesses; Phoenix was delisted May 3, 2024. Phoenix returned to US app stores April 8, 2025 as the regulatory environment shifted. In March 2024 ACINQ released phoenixd, a server-based counterpart providing Lightning send/receive via HTTP API for developers and businesses.
 
 **Sources:**
-- Phoenix wallet documentation (phoenix.acinq.co)
-- Trampoline routing specification and ACINQ research
-- Phoenix U.S. app store withdrawal and return (2024)
-- Channel splicing documentation
-- Cross-reference: ACINQ company entry
+- ACINQ Blog — "Introducing Phoenix" (December 2019)
+- ACINQ Blog — "Phoenix: Splicing Update" (July 2023)
+- ACINQ withdrawal announcement (April 2024)
+- The Block — ACINQ $8M Series A (October 2019)
+- GitHub: github.com/ACINQ/phoenix
 
 ---
 
