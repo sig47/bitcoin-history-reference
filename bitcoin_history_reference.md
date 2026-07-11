@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**360 entries — last updated 2026-07-11**
+**361 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -401,6 +401,7 @@ and extends through the present.
 - [Robert Breedlove](#robert-breedlove-dates-unknown)
 - [Robert Kiyosaki](#robert-kiyosaki-1947present)
 - [Robin Linus](#robin-linus-dates-unknown)
+- [Robin Seyr](#robin-seyr-dates-unknown)
 - [RoboSats](#robosats--recklesssatoshi-pseudonym-founded-2022)
 - [Roger Ver](#roger-ver-1979present)
 - [Ross Stevens](#ross-stevens--nydig-dates-unknown)
@@ -1033,6 +1034,21 @@ A Bitcoin protocol researcher and Ph.D. candidate at Stanford University focused
 - BitVM2 paper (2024)
 - ZeroSync documentation
 - robinlinus.com
+
+---
+
+## Robin Seyr (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Podcaster / Educator / Hardware Entrepreneur
+**Active:** 2020–present
+
+An Austrian Bitcoin educator, podcaster, and entrepreneur who became involved in Bitcoin around 2020. He hosts The Robin Seyr Podcast (originally The Bitcoin Path with Robin Seyr), a daily long-form interview show that by 2026 had published over 784 episodes, featured over 500 guests, and reached approximately 60,000 monthly listeners. Seyr has spoken at BTC Prague and Plan B Forum, and has developed a Bitcoin monetary thesis he calls "The Great Capital Shift." He is co-founder of MicroSeed, a Bitcoin self-custody hardware company producing titanium seed phrase backup devices.
+
+**Sources:**
+- robinseyr.com
+- BTC Prague speaker archive
+- The Robin Seyr Podcast (Apple Podcasts)
+- microseed.io
 
 ---
 
