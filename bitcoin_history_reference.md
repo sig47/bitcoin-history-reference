@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**363 entries — last updated 2026-07-11**
+**364 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -475,6 +475,7 @@ and extends through the present.
 - [Vitalik Buterin](#vitalik-buterin-1994present)
 
 **W**
+- [Wallet of Satoshi — Daniel Alexiuc](#wallet-of-satoshi--daniel-alexiuc-2019present)
 - [Wei Dai](#wei-dai-1975present)
 - [Wences Casares](#wences-casares-1974present)
 - [Whitfield Diffie](#whitfield-diffie-1944present--martin-hellman-1945present)
@@ -5722,6 +5723,22 @@ A cultural anthropologist and Bitcoin policy researcher known for writing on the
 - Bitcoin Policy Institute publications
 - Texas Bitcoin Foundation
 - Public writings and conference appearances
+
+---
+
+## Wallet of Satoshi — Daniel Alexiuc (2019–present)
+**Tier:** 3
+**Role:** Custodial Lightning Wallet / Australian Bitcoin Company
+**Active:** 2019–present
+
+A custodial Bitcoin and Lightning Network wallet founded by Daniel Alexiuc, an Australian entrepreneur who also founded Living Room of Satoshi, a platform for paying bills with Bitcoin. Launched in 2019 and incorporated in Queensland, Australia, Wallet of Satoshi became consistently ranked as the most downloaded and most-used custodial Lightning wallet globally through 2022 and 2023, processing over 19 million transfers since launch and available in 27 languages across more than 170 countries. The wallet holds private keys on behalf of users, offers email-based account recovery, and caps wallet balances at 5 BTC. In November 2023 it withdrew from the US market — removing from both app stores — citing regulatory uncertainty without specifying violations; US users retained access to their funds. In early 2026 it similarly blocked custodial services for EU users, attributed to MiCA licensing and DAC8 tax reporting requirements. In 2025 it partnered with Spark, a Bitcoin Layer 2 developed by Lightspark, to offer a self-custody mode launched in July 2025. The US and EU withdrawals are documented examples of regulatory pressure reshaping the availability of custodial Lightning infrastructure.
+
+**Sources:**
+- walletofsatoshi.com
+- Australian Business Register (ABN 13 630 329 690)
+- The Crypto Times — US withdrawal coverage (November 2023)
+- The Crypto Times — EU withdrawal coverage (January 2026)
+- Bitcoin Magazine — Spark partnership announcement (2025)
 
 ---
 
