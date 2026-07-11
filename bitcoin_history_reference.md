@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**364 entries — last updated 2026-07-11**
+**365 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -182,6 +182,7 @@ and extends through the present.
 - [CleanSpark](#cleanspark--zach-bradford-dates-unknown)
 - [Club Orange](#club-orange--matteo-pellegrini-formerly-orange-pill-app-founded-2022)
 - [Cody Wilson](#cody-wilson-1988present)
+- [Coinos — Adam Soltys](#coinos--adam-soltys-2012present)
 - [Coldcard / Coinkite](#coldcard--coinkite--nvk--rodolfo-novak-dates-unknown)
 - [Core Scientific](#core-scientific--darin-feinstein--adam-sullivan-dates-unknown)
 - [Cory Fields](#cory-fields-dates-unknown)
@@ -5782,6 +5783,21 @@ A Bitcoin developer with one of the longer documented track records in the space
 - Bitcoin Magazine — "Taking a Better Look at Bitcoin with Clark Moody's Dashboard"
 - Stephan Livera Podcast — SLP155: Clark Moody — Bitcoin Dashboard & the 1000-Year Bull Run
 - bitcoindevlist.com — Clark Moody
+
+---
+
+## Coinos — Adam Soltys (2012–present)
+**Tier:** 3
+**Role:** Bitcoin Web Wallet / Merchant Tools / Vancouver Bitcoin Pioneer
+**Active:** 2012–present
+
+A Bitcoin web wallet and merchant point-of-sale platform founded by Adam Soltys, a web developer and Bitcoin adopter from Vancouver, British Columbia, Canada. Soltys created Coinos in 2012 as a lightweight merchant tool to help Vancouver-area businesses accept Bitcoin, initially generating QR codes and monitoring the network while merchants held their own wallets. He co-founded The Bitcoin Co-op and the Decentral hackerspace in Vancouver, communities credited as among the first organized Bitcoin groups in Canada. Coinos was shelved for several years and then rewritten from scratch as a Lightning-native platform when the Lightning Network emerged. The current version is a Progressive Web App (PWA) requiring no download, supporting Bitcoin on-chain, Lightning Network, Liquid sidechain, and Cashu eCash. A distinctive feature is the unification of Lightning address and Nostr public key from the same seed, with NIP-05 identifier matching the Lightning address. The platform supports NIP-46 and NIP-07 external signing so users never enter their private key into the site. It is open source under AGPL-3.0 and self-hostable as a front end to a personal node, or usable as a hosted public instance. Around 2021 Coinos also operated LNFT, a white-label NFT marketplace on the Liquid network, with Kris Constable as CEO during that period.
+
+**Sources:**
+- coinos.io
+- Bitcoin News — "Adam Soltys' Coinos: The Bitcoin Wallet That Just Works"
+- Plan B Academy — Coinos tutorial
+- GitHub: github.com/coinos
 
 ---
 
