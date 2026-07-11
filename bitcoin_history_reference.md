@@ -4,7 +4,7 @@ A standalone public reference on key figures in Bitcoin history.
 Scope begins with intellectual precursors to Bitcoin (cypherpunk era and earlier)
 and extends through the present.
 
-**362 entries — last updated 2026-07-11**
+**363 entries — last updated 2026-07-11**
 
 **Entry fields:**
 - **Tier:** 1 = Foundational | 2 = Builders | 3 = Catalysts
@@ -211,6 +211,7 @@ and extends through the present.
 **E**
 - [E-Gold / Douglas Jackson](#e-gold--douglas-jackson-1960spresent)
 - [Edward Snowden](#edward-snowden-1983present)
+- [Efrat Fenigson](#efrat-fenigson-dates-unknown)
 - [Erin Redwing](#erin-redwing-dates-unknown)
 - [Ego Death Capital](#ego-death-capital--jeff-booth-nico-lechuga--will-cole-dates-unknown)
 - [Elizabeth Stark & Laolu Osuntokun / roasbeef](#elizabeth-stark--laolu-osuntokun--roasbeef-stark-1983present)
@@ -5119,6 +5120,21 @@ An astrologer who applies astrological frameworks — planetary cycles, transits
 - What Bitcoin Did podcast appearances
 - Tales from the Crypt podcast appearances
 - Public writings and social media
+
+---
+
+## Efrat Fenigson (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Journalist / Podcaster / CBDC Critic
+**Active:** 2022–present
+
+An Israeli journalist, podcaster, and public speaker with approximately 20 years of prior experience as a chief marketing officer in the technology sector. Fenigson entered the Bitcoin space around 2022, focusing primarily on central bank digital currencies as a surveillance mechanism and Bitcoin as a tool for financial sovereignty. She launched the podcast *You're The Voice* in June 2023, which by 2025 had accumulated over 3 million views across platforms and featured guests including Michael Saylor, Jeff Booth, and Samson Mow. She is a contributor to Bitcoin Magazine, writing on CBDCs, monetary policy, and Bitcoin adoption topics including coverage of Israel's cashless payment push and the European Central Bank's digital euro preparations. She has spoken at BTC Prague (2024 and 2025 keynote), Adopting Bitcoin El Salvador 2024, and Bitcoin Nashville 2024.
+
+**Sources:**
+- efrat.blog
+- Bitcoin Magazine — author archive (Efrat Fenigson)
+- BTC Prague speaker archive (2024, 2025)
+- Adopting Bitcoin 2024 speaker profile
 
 ---
 
