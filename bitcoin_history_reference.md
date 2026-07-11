@@ -251,7 +251,7 @@ and extends through the present.
 
 **H**
 - [Hal Finney](#hal-finney-19562014)
-- [Hampus Sjöberg](#hampus-sjöberg-dates-unknown)
+- [Hampus Sjöberg / Blixt Wallet](#hampus-sjöberg--blixt-wallet-dates-unknown)
 - [Hennadii Stepanov / hebasto](#hennadii-stepanov--hebasto-dates-unknown)
 - [Hodlonaut / Magnus Granath](#hodlonaut--magnus-granath-dates-unknown)
 - [Hut 8 Corp](#hut-8-corp-founded-2017)
@@ -1798,16 +1798,19 @@ An American developer who holds an M.S. in Cybersecurity from NYU Tandon School 
 
 ---
 
-## Hampus Sjöberg (dates unknown)
+## Hampus Sjöberg / Blixt Wallet (dates unknown)
 **Tier:** 2
-**Role:** Developer, Blixt Wallet
+**Role:** Bitcoin & Lightning Wallet Developer / LSP Operator
 **Active:** 2019–present
 
-Swedish developer who built Blixt Wallet, a non-custodial mobile Lightning wallet with a neutrino backend, notable for implementing advanced Lightning features including zero-conf channels via a dunder LSP, LNURL support, and Tor routing. Sjöberg developed Blixt as an open-source project; it became a reference point for technically capable non-custodial Lightning mobile wallet design.
+A Swedish developer based in Stockholm who began building Blixt Wallet in April 2019 as a self-funded, open-source project. Blixt runs a full vanilla LND node embedded directly on the mobile device — the same LND binary used on servers — paired with a Neutrino (BIP 157/158) SPV client for chain sync, requiring no trusted third-party server. Private channels are the default. Android and iOS (TestFlight only; never on the App Store) versions are available, with macOS added in v0.6.0 (November 2022). Sjöberg built and operates Dunder, an open-source LSP providing on-demand channel opens funded equal to the incoming payment amount minus on-chain fees; zero-confirmation Dunder channels were added in v0.6.9 (November 2023), enabling new users to receive instantly. Other features include LNURL (all sub-protocols), Keysend, Multi-Path Payments, WebLN, NFC payments, Tor v3 onion routing, Taproot address support, and Speedloader — a compressed channel graph diff system reducing sync time. In v0.8.0 (July 2025) Sjöberg released react-native-turbo-lnd, a pure C++ TurboModule interfacing React Native directly with LND, made available as a reusable open-source tool for other wallets. OpenSats granted Blixt funding in July 2023 (renewed December 2024) and the Human Rights Foundation awarded a $25,000 grant in June 2023. As of the OpenSats project page, 278 million sats have been sent through the wallet. Sjöberg is concurrently developing Noah, a self-custodial Ark protocol wallet, under a separate 2026 OpenSats grant. Beyond Blixt, Sjöberg created Taproot.watch, which tracked miner signaling for the Taproot soft fork activation in 2021.
 
 **Sources:**
-- Blixt Wallet GitHub (github.com/hsjoberg/blixt-wallet)
-- Blixt documentation and release notes
+- blixtwallet.github.io
+- GitHub: github.com/hsjoberg/blixt-wallet
+- OpenSats — Blixt Wallet project page and grant announcements (July 2023, December 2024)
+- HRF Bitcoin Development Fund — $455,000 to 12 projects (June 2023)
+- NoBSBitcoin — Blixt v0.6.9 release coverage
 
 ---
 
