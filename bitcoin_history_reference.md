@@ -101,6 +101,7 @@ and extends through the present.
 - [Ark Protocol / ARK Labs](#ark-protocol--ark-labs-2023present)
 - [Arnhem](#arnhem--bitcoin-city-netherlands-2014present)
 - [Arthur Hayes](#arthur-hayes-1985present)
+- [Alby / Michael Bumann / @bumi](#alby--michael-bumann--bumi-founded-2021)
 - [Austin BitDevs & the Texas Bitcoin Community](#austin-bitdevs--the-texas-bitcoin-community-2014present)
 
 **B**
@@ -108,6 +109,7 @@ and extends through the present.
 - [Barry Silbert](#barry-silbert-1976present)
 - [Ben Arc](#ben-arc-pseudonym)
 - [Bitstamp](#bitstamp--nejc-kodri--damijan-merlak-founded-2011)
+- [Bitshala](#bitshala-founded-2023)
 - [Bitaxe / skot9000](#bitaxe--skot9000-dates-unknown)
 - [Ben Carman, Tony Giorgio & Paul Miller](#ben-carman-tony-giorgio--paul-miller--mutiny-wallet-dates-unknown)
 - [Benedictines of Mary, Queen of Apostles](#benedictines-of-mary-queen-of-apostles--bitcoin-funded-church-2017)
@@ -261,6 +263,7 @@ and extends through the present.
 
 **I**
 - [Iris Energy](#iris-energy--daniel--william-roberts-dates-unknown)
+- [Ian Major — All Things Bitcoin / Joltz](#ian-major--all-things-bitcoin--joltz-dates-unknown)
 - [Ivan Kaleja](#ivan-kaleja-dates-unknown)
 
 **J**
@@ -275,6 +278,7 @@ and extends through the present.
 - [Jed McCaleb](#jed-mccaleb-1975present)
 - [Jeff Berwick](#jeff-berwick-1970present)
 - [Jeff Booth](#jeff-booth-dates-unknown)
+- [Jerry Brito — Coin Center](#jerry-brito--coin-center-dates-unknown)
 - [Jeff Garzik](#jeff-garzik-1973present)
 - [Jeff Ross](#jeff-ross-dates-unknown)
 - [Jeffrey Tucker](#jeffrey-tucker-dates-unknown)
@@ -337,6 +341,7 @@ and extends through the present.
 - [Matt Odell](#matt-odell-dates-unknown)
 - [Matthew Mežinskis](#matthew-mežinskis-dates-unknown)
 - [Max Keiser & Stacy Herbert](#max-keiser--stacy-herbert-keiser-1960present)
+- [mempool.space — wiz & softsimon](#mempoolspace--wiz--softsimon-launched-2019)
 - [Michael Ford / fanquake](#michael-ford--fanquake-dates-unknown)
 - [Michael J. Casey](#michael-j-casey-dates-unknown)
 - [Michael Lewis](#michael-lewis-dates-unknown)
@@ -358,11 +363,13 @@ and extends through the present.
 - [Nathaniel Popper](#nathaniel-popper-dates-unknown)
 - [Nayib Bukele & El Salvador](#nayib-bukele--el-salvador-bukele-1981present)
 - [NewLibertyStandard](#newlibertystandard-identity-unknown)
+- [Nic Carter](#nic-carter-dates-unknown)
 - [Nick Neuman](#nick-neuman--casa-dates-unknown)
 - [Nick Spanos](#nick-spanos-dates-unknown)
 - [Nick Szabo](#nick-szabo-1964present)
 - [Nicolas Dorier](#nicolas-dorier-1986present)
 - [Nik Bhatia](#nik-bhatia-dates-unknown)
+- [Nunchuk — Hugo Nguyen](#nunchuk--hugo-nguyen-launched-2020)
 
 **O**
 - [OpenNode](#opennode--afnan-rahman--joão-almeida-dates-unknown)
@@ -371,9 +378,11 @@ and extends through the present.
 **P**
 - [Paco de la India](#paco-de-la-india-dates-unknown)
 - [Parker Lewis](#parker-lewis-dates-unknown)
+- [Paul Sztorc — Drivechain / BIP 300](#paul-sztorc--drivechain--bip-300-dates-unknown)
 - [Paul Vigna](#paul-vigna-dates-unknown)
 - [Perianne Boring](#perianne-boring-dates-unknown)
 - [Pete Rizzo](#pete-rizzo-dates-unknown)
+- [Peter Dunworth — The Bitcoin Adviser](#peter-dunworth--the-bitcoin-adviser-dates-unknown)
 - [Peter Kroll](#bitcoin-curacao--peter-kroll-dates-unknown)
 - [Peter McCormack](#peter-mccormack-dates-unknown)
 - [Peter Todd](#peter-todd-1988present)
@@ -465,6 +474,7 @@ and extends through the present.
 - [Timothy C. May](#timothy-c-may-19512018)
 - [Tomer Strolight](#tomer-strolight-dates-unknown)
 - [Tone Vays](#tone-vays-dates-unknown)
+- [Torsten Hoffmann](#torsten-hoffmann-dates-unknown)
 - [Trace Mayer](#trace-mayer-dates-unknown)
 - [Trendon Shavers / pirateat40](#trendon-shavers--pirateat40-dates-unknown)
 - [Trezor / SatoshiLabs](#trezor--satoshilabs--marek-slush-palatinus--pavol-stick-rusnák-dates-unknown)
@@ -1212,6 +1222,22 @@ Bitcoin-focused developer funding and product organization within Block (Jack Do
 
 ---
 
+## Bitshala (founded 2023)
+**Tier:** 2
+**Role:** Bitcoin Developer Education Initiative / India
+**Active:** 2023–present
+
+A grassroots Bitcoin developer education initiative founded in January 2023 by Indian Bitcoiners and modeled on the concept of a *pathshala* — a traditional community-driven school — with the mission of training Indian developers to contribute to Bitcoin free and open-source software (FOSS) projects. Bitshala operates structured 8-week study cohorts working through technical texts including *Programming Bitcoin*, *Mastering Bitcoin*, and *Learning Bitcoin from the Command Line*, with curriculum materials publicly available on GitHub (github.com/bitshala). Its fellowship program provides six-month stipends of $500/month to participants working on real Bitcoin FOSS projects under mentors, extendable to twelve months based on performance. Bitshala also operates Bitspace community hubs across multiple Indian cities and runs workshops, summits, and online reading groups. As of mid-2025, the initiative had more than 1,200 members in its Discord and more than 350 regular participants across its cohorts and events. Team members include Adi Shankara (Business and Outreach Lead, who also founded Summer of Bitcoin and works as a Product Manager at Blockstream), Jodobear (Philosophical Content Lead), and Setu Saurabh (Operations Lead); Adam Jonas of Chaincode Labs serves as adviser. Funding sources include the Human Rights Foundation (a grant in the 10 BTC, 13-project round announced June 2024), OpenSats, and Btrust — which selected Bitshala as the first recipient of its long-term support grant type, committing three consecutive years of funding with annual performance reviews as part of Btrust's 2025 inaugural round totaling over $1 million across 10 initiatives. Bitshala is headquartered in Bangalore.
+
+**Sources:**
+- bitshala.org — program descriptions and team
+- github.com/bitshala — study cohort repositories (PB-cohort, MB-cohort, LBTCL)
+- Human Rights Foundation Bitcoin Development Fund — June 2024 round announcement
+- Btrust 2025 inaugural grant round documentation
+- OpenSats grant announcements
+
+---
+
 ### Bitcoin Core — Contributors
 
 ## Matt Corallo (dates unknown)
@@ -1637,6 +1663,42 @@ German Lightning Network researcher who co-authored "Optimally Reliable & Cheap 
 
 ---
 
+## Voltage — Graham Krizek & Aaron Bollinger (founded 2020)
+**Tier:** 2
+**Role:** Lightning Network Infrastructure / Enterprise Node Hosting
+**Active:** 2020–present
+
+Graham Krizek (founder and CEO), who grew up in Kansas and holds a B.S. in Business Administration from Kansas State University, founded Voltage in October 2020 after a career path through system administration, AWS architecture, and software engineering at companies including Salesforce and Ikigai Asset Management. He first encountered Bitcoin in 2012 or 2013 and co-founded Voltage with Aaron Bollinger (Chief Revenue Officer) to solve the operational complexity of running a Lightning node — configuring networking, managing backups, handling LND upgrades — for developers and businesses who lacked dedicated Lightning infrastructure expertise. Voltage launched as a non-custodial cloud platform: users retain key control while Voltage manages the infrastructure layer. In January 2022 the company raised a $6 million seed round led by Trammell Venture Partners with participation from Craft Ventures, GV (formerly Google Ventures), Stillmark, and Fulgur Ventures. At Bitcoin 2022 (April) it launched Surge, a Lightning node observability tool providing peer history, HTLC state monitoring, and routing diagnostics. Flow 2.0, a just-in-time LSP product providing zero-conf channels for incoming payments, launched subsequently and served as the default LSP for Mutiny Wallet before being deprecated on August 20, 2024. Voltage achieved SOC 2 Type II compliance in September 2023, enabling institutional client relationships. In December 2025, BitGo announced a partnership with Voltage to bring Lightning Network access to BitGo's institutional custody clients via API, with Voltage handling node management, channel configuration, and liquidity. In February 2026, Voltage announced Voltage Credit — a revolving line of credit using Lightning for payment finality and USD bank-account settlement, underwritten against payment flow volume rather than bitcoin collateral — following the company's facilitation of a $1 million Lightning transaction between Secure Digital Markets and Kraken. The company is based in Wichita, Kansas.
+
+**Sources:**
+- PR Newswire — "$6 Million Seed Round" (January 20, 2022)
+- PR Newswire — "Surge and Next Generation Platform" (April 7, 2022)
+- Voltage Blog — "Deprecating Flow 2.0" (August 20, 2024)
+- Voltage Blog — SOC 2 Type II compliance announcement (2023)
+- Brave New Coin — BitGo / Voltage partnership (December 2025)
+- PR Newswire — Voltage Credit announcement (February 19, 2026)
+
+---
+
+## mempool.space — wiz & softsimon (launched 2019)
+**Tier:** 2
+**Role:** Bitcoin Mempool Visualizer / Block Explorer / Open Source Infrastructure
+**Active:** 2019–present
+
+An open-source Bitcoin mempool visualizer and block explorer co-founded by softsimon (publicly identified by first name Simon; surname unverified in first-person sources) and wiz (fully pseudonymous), who together operate Mempool Space K.K., a Japanese corporation based in Tokyo. Softsimon, a frontend developer who describes entering Bitcoin around 2013–2015 and later studying Austrian economics, began mempool.space in late 2018 as a private project. Wiz — active in Japanese Bitcoin communities including Tokyo Bitcoin Hackers and the Kanazawa and Nagano Bitcoin meetups, and a former Bisq contributor — discovered the project, offered hosting, and encouraged softsimon to open-source it; v1.0.0 shipped publicly on GitHub on February 25, 2020. The platform displays unconfirmed Bitcoin transactions organized into projected future blocks, mined block history, real-time fee estimates, and mining pool statistics; v2.5.0 (March 2023) added a Lightning Network explorer with GeoIP node mapping, channel capacity graphs, and LND and Core Lightning backend support; v3.0.0 (August 2024) introduced the Mempool Accelerator™, an out-of-band transaction fee-bump service paid via Lightning or fiat (Cash App, Apple Pay, Google Pay) with partner pools Foundry USA, MARA, SBICrypto, SpiderPool, and Ocean Pool representing approximately 40% of global hashrate at launch, alongside Mempool Goggles™ analytics and a fee estimation algorithm rewritten in Rust. Contributor mononaut was responsible for key block visualization and fee estimation features. Funding has included a $100,000 grant from Square Crypto (now Spiral) in April 2021, a 1 BTC grant from Foundry Digital in August 2021, and a $25,000 enterprise sponsorship from Gemini, its first enterprise sponsor. The platform is self-hostable and supported on Umbrel, RaspiBlitz, myNode, Start9/StartOS, and RoninDojo. As of April 2026, mempool.space receives approximately 1.3 million monthly visits and is a standard reference tool among developers, miners, and users tracking Bitcoin fee conditions.
+
+**Sources:**
+- github.com/mempool/mempool — repository, releases, and version history
+- Stacker News AMA — Simon, creator of mempool.space (July 2022)
+- Bitcoin Magazine — wiz and Simon interview (December 14, 2020)
+- Square Crypto $100,000 grant (Bitcoin Magazine, April 8, 2021)
+- Foundry Digital 1 BTC grant (Bitcoin Magazine, August 5, 2021)
+- Gemini sponsorship announcement — gemini.com
+- Stephan Livera Podcast SLP245 (January 21, 2021)
+- The Block — Mempool Accelerator launch (July 29, 2024)
+
+---
+
 ### Wallets & Early Tools
 
 ## Thomas Voegtlin (1979–present)
@@ -1975,6 +2037,36 @@ Born April 12, 1973, in Paris, to a Romanian father and Iranian mother; raised i
 - Forbes — "Ex-PayPal President Unveils Banking Product for Businesses and AI Agents" (April 28, 2026)
 - Tether.io — Spark WDK integration (August 2025)
 - Senate Banking Committee testimony transcript (July 16, 2019)
+
+---
+
+## Alby — Michael Bumann / @bumi (founded 2021)
+**Tier:** 2
+**Role:** Lightning Browser Extension / Nostr Signing / Value4Value Infrastructure
+**Active:** 2021–present
+
+An Austrian developer based in Vienna, known by the handle @bumi, who co-founded Alby (getalby.com) in 2021 alongside Moritz Kaminski and René Aaron. Alby launched as a browser extension Bitcoin and Lightning wallet providing WebLN (Web Lightning Network) support — a standard allowing web pages to interact with a user's Lightning wallet for payments and authentication — without requiring users to run their own node. The extension also provides NIP-07 Nostr key signing directly in the browser, enabling web-based Nostr clients to request message signatures without exposing private keys to the application; LNURL and Lightning address support; streaming value4value payments; and zapping to content creators through the extension interface. Alby became a primary entry point for both the Value4Value ecosystem and Nostr signing in the browser. In 2023 Alby released Alby Hub, a self-hosted Lightning node management application allowing users to connect their own LND or Core Lightning node — or a hosted Alby Hub node — to the browser extension and to Nostr Wallet Connect (NWC) compatible apps, enabling non-custodial use at scale. Bumann has been active in developing the WebLN standard and is a recognized contributor to both the Lightning and Nostr developer communities.
+
+**Sources:**
+- getalby.com — product documentation
+- github.com/getAlby — open-source repositories
+- WebLN specification — webln.guide
+- NIP-07 Nostr signing specification
+
+---
+
+## Ian Major — All Things Bitcoin / Joltz (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Educator / Lightning Infrastructure Developer
+**Active:** 2020–present
+
+An American developer and Bitcoin educator who holds a B.S. in Commerce from the University of Virginia (2013) and previously worked as a consultant, then Vice President, at Applied Predictive Technologies (APT), a business analytics consulting firm acquired by Mastercard, where he subsequently served as Director of Product Management. In 2020 Major founded All Things Bitcoin, a YouTube channel focused on practical Bitcoin education covering self-custody, accepting Bitcoin payments, and related hands-on skills. In 2023 he co-founded Joltz alongside Stephen Dodge and Linden Stark as a Bitcoin infrastructure company initially offering Bitcoin rewards and loyalty programs as SaaS for businesses. Joltz subsequently built the first non-custodial Bitcoin wallet supporting the Taproot Assets protocol (launched May 2024) and an SDK for Taproot Assets on the Lightning Network. Joltz won first place at the Layer 2 Scaling Pitch Competition at the Bitcoin 2024 Conference in Nashville (July 25–27, 2024) and appeared at Satsconf 2024, the largest Bitcoin-only conference in Brazil. Major has appeared on the IBEX podcast and the Bitcoin Source podcast and conducted a Stacker News AMA.
+
+**Sources:**
+- YouTube — All Things Bitcoin channel
+- Stacker News AMA — Ian Major (item #510121)
+- Bitcoin 2024 Conference — Layer 2 Scaling Pitch Competition results (July 2024)
+- Bitcoin Source podcast — "The Future of Bitcoin Integration with Ian Major"
 
 ---
 
@@ -2523,6 +2615,25 @@ Canadian Bitcoin developer and entrepreneur (known online as NVK) who founded Co
 
 ---
 
+## Nunchuk — Hugo Nguyen (launched 2020)
+**Tier:** 2
+**Role:** Bitcoin Multisig Coordinator / Self-Custody Platform
+**Active:** 2020–present
+
+A non-custodial, zero-KYC Bitcoin multisig coordination platform launched on October 31, 2020, by Hugo Nguyen (@hugohanoi), a Vietnamese-born developer who first encountered Bitcoin in 2011. Nguyen is documented as the first person of Vietnamese descent known to have a commit merged into the Bitcoin Core codebase and was an angel investor in BitcoinVN, Vietnam's oldest Bitcoin exchange. He co-authored BIP-129 (Bitcoin Secure Multisig Setup, BSMS), a standard for wallet configuration interchange in multisig coordinators, formally assigned November 10, 2020; the BIP standardizes how multisig wallet configurations are shared between coordinators and signers, enabling interoperability. Nunchuk released its core library libnunchuk as open-source software under GPLv3 in November 2020 and exited beta as version 1.0 on February 14, 2022, with full BIP-129 implementation. The platform supports on-chain Bitcoin only (no Lightning), running on iOS, Android, Windows, macOS, and Linux. Core features include PSBT multisig workflows exportable to other coordinators such as Sparrow Wallet; a chat-based signing workflow where cosigners communicate via built-in end-to-end encrypted messaging and transaction proposals pass through the same interface; air-gapped and NFC hardware wallet support (Coldcard, Passport, SeedSigner, Blockstream Jade, Keystone, BitBox02, Ledger, Trezor); SegWit and Taproot address types; Miniscript for programmable custody policies including timelocked inheritance and business treasury approval layers; and MuSig2 Taproot multisig (beta, December 2024). The Group Wallet feature, redesigned in February 2025 with end-to-end encrypted chat using Output Descriptors to derive a shared encryption key, enables multi-party collaborative custody by invitation link or QR code. Nunchuk 2.0 (announced November 12, 2025) introduced autonomous on-chain Bitcoin inheritance enforced by Miniscript timelocks, described as designed to function without Nunchuk's continued operation. In February 2022 the Ontario Superior Court of Justice signed a Mareva injunction ordering Nunchuk to freeze and disclose assets linked to the Canadian Freedom Convoy Bitcoin fundraising campaign; Nunchuk stated it could not comply, holding no private keys and storing only email addresses. In April 2026 Nunchuk released open-source CLI tools and Agent Skills enabling AI agents to operate Bitcoin wallets within bounded authority policies. Paid assisted-custody tiers (Iron Hand at $120/year; Honey Badger at $480/year) have collectively secured over $1 billion in Bitcoin as of late 2025.
+
+**Sources:**
+- nunchuk.io/blog — product documentation and announcements
+- Nasdaq — Nunchuk multisig release (November 13, 2020)
+- BIP-129 — en.bitcoin.it/wiki/BIP_0129
+- Bitcoin Magazine — "Nunchuk Securing Over $1 Billion in Bitcoin"
+- Tech Startups — Ontario Court vs. Nunchuk (February 2022)
+- Bitcoin Magazine — Nunchuk Bitcoin Agents release (April 2026)
+- Nunchuk 2.0 announcement (November 12, 2025)
+- github.com/nunchuk-io — open-source repositories
+
+---
+
 ## Nick Neuman — Casa (dates unknown)
 **Tier:** 2
 **Role:** CEO, Casa / Bitcoin Self-Custody Platform
@@ -2564,6 +2675,21 @@ Unchained's head of education who became a prominent public voice on Bitcoin inh
 - Phil Geiger's public writing on Bitcoin estate planning
 - Unchained collaborative multisig inheritance protocol
 - Cross-reference: Joseph Kelly entry (Unchained CEO)
+
+---
+
+## Peter Dunworth — The Bitcoin Adviser (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Custody & Estate Planning Adviser / Corporate Bitcoin Strategy
+**Active:** 2016–present
+
+An Australian financial adviser based in Sydney who serves as Director of Networth Advisors, a multi-family office. Dunworth co-founded The Bitcoin Adviser in 2016, specializing in collaborative Bitcoin custody, generational wealth preservation, and estate planning for high-net-worth individuals, family offices, trustees, and corporate treasurers through a multisignature custody model in which a trusted third party holds one key; the firm has operated without client losses since founding. In 2024 he co-founded Chief Bitcoin Officer alongside Andy Pattinson, focused on corporate Bitcoin treasury strategy and helping companies adopt Bitcoin as a balance sheet asset. He authored the *Generational Bitcoin Playbook*, a guide covering collaborative security, governance frameworks, and estate planning protocols for Bitcoin holders. Dunworth has appeared on What Bitcoin Did with Peter McCormack (WBD896, March 2025) and other podcasts covering Bitcoin custody and institutional investing. He is active on X as @PeterBTCAdviser.
+
+**Sources:**
+- The Bitcoin Adviser — thebitcoinadviser.com
+- Chief Bitcoin Officer documentation
+- What Bitcoin Did — WBD896 (March 31, 2025); WBD (October 2, 2025)
+- *Generational Bitcoin Playbook* — Peter Dunworth
 
 ---
 
@@ -4471,6 +4597,25 @@ Davidson introduced the "Keep Your Coins Act" protecting the right to self-custo
 
 ---
 
+## Jerry Brito — Coin Center (dates unknown)
+**Tier:** 3
+**Role:** Policy Researcher / Coin Center Co-Founder & Executive Director
+**Active:** 2013–present
+
+An American attorney and policy researcher who earned a BA in Political Science from Florida International University and a JD from George Mason University Antonin Scalia Law School, where he subsequently taught as an Adjunct Professor. At the Mercatus Center at George Mason University, serving as Senior Research Fellow and Director of the Technology Policy Program, Brito co-authored (with Andrea Castillo) "Bitcoin: A Primer for Policymakers" (2013) — one of the first substantive policy analyses of Bitcoin from a major research institution, recommending against preemptive regulatory restrictions. He testified before the Senate Committee on Homeland Security and Governmental Affairs on November 18, 2013, at the hearing "Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Currencies" — one of the first major Senate hearings on virtual currencies. In 2014, Brito and Robin Weisman co-founded Coin Center, a Washington, DC-based 501(c)(4) nonprofit whose mission is to produce policy research, educate policymakers and media, and advocate for a regulatory environment preserving the freedom to innovate with blockchain technologies while safeguarding individual rights; a related 501(c)(3), CC Foundation, enables tax-deductible donations. Brito served as Executive Director for a decade, from Coin Center's founding through the end of 2024. Under his leadership, Coin Center published a "Framework for Securities Regulation of Cryptocurrencies" (first published January 2016), testified before the House Financial Services Committee (June 2017) and Senate Banking Committee (July 2021), and engaged on the Infrastructure Investment and Jobs Act's expanded "broker" definition for digital assets — passed into law November 2021 — which Coin Center opposed as overbroad and attempted to narrow via Wyden-Toomey-Lummis amendment. Coin Center filed two significant federal lawsuits: a constitutional challenge to Section 6050I's digital asset reporting requirements on Fourth and First Amendment grounds (a Sixth Circuit appeal revived the case after initial dismissal on standing grounds) and a suit against OFAC's 2022 Tornado Cash sanctions, arguing the agency exceeded its IEEPA authority by treating immutable smart contract code as sanctionable "property" (the separate Fifth Circuit ruling in Van Loon v. Department of Treasury in November 2024 found in favor of this argument; OFAC delisted Tornado Cash in March 2025). Brito announced his departure from Coin Center in September 2024 and stepped down at year-end; Director of Research Peter Van Valkenburgh (who joined September 2014 and holds a JD from NYU School of Law) assumed the Executive Director role on January 1, 2025.
+
+**Sources:**
+- coincenter.org — organization documentation
+- "Bitcoin: A Primer for Policymakers" (Mercatus Center, 2013)
+- Senate HSGAC testimony, November 18, 2013
+- Senate Banking Committee testimony, July 27, 2021
+- CoinDesk — "Founding Coin Center Chief Jerry Brito Stepping Down After Decade" (September 30, 2024)
+- Coin Center 6050I constitutional challenge documentation
+- Coin Center Tornado Cash OFAC lawsuit documentation
+- Fifth Circuit — Van Loon v. Department of Treasury (November 26, 2024)
+
+---
+
 ### Mining Companies
 
 ## Riot Platforms — Jason Les (dates unknown)
@@ -4673,6 +4818,23 @@ A Venezuelan-based Bitcoin educator and advocate who began mining Bitcoin approx
 - *Bitcoin Circular Economies* — Gabriel Kurman & Ivan Kaleja
 - LinkedIn — Ivan Kaleja
 - Lugano Plan B Forum (2024)
+
+---
+
+## Alessandro Cecere / El Sultan Bitcoin (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Entrepreneur / LATAM Bitcoin Pioneer / Mining & Exchange Founder
+**Active:** 2013–present
+
+A Venezuelan Bitcoin entrepreneur of Italian-Venezuelan heritage who began mining Bitcoin at home in 2013 while studying industrial engineering and economics at universities in Caracas. He co-founded Lion Cave Mining — described in his conference profiles as the largest Bitcoin mining farm in Venezuela — before exiting to co-found BitAmigo, Venezuela's first Bitcoin exchange, which he later sold. He then founded Coinspree (incorporated in Zug, Switzerland; operational in Caracas) in approximately 2017, one of the earliest Bitcoin custodial and full-node services in Latin America, which provided multisig custody to institutional investors and merchants and produced the PandoraBox — a Bitcoin full node device designed to minimize technical friction for non-technical users. Cecere is credited with being the first Latin American to connect to Blockstream's South American satellite, accomplished by repurposing a DirecTV dish at his parents' home after DirecTV exited Venezuela. In 2021 he co-founded El Dorado, a peer-to-peer stablecoin marketplace and payments SuperApp focused on Latin America (Argentina, Brazil, Colombia, Panama, Peru, Venezuela), serving as Chief Marketing Officer; as of January 2025 El Dorado had crossed 500,000 users with a 12x increase in annual recurring revenue in 2024 and was the most-downloaded cryptocurrency app in Venezuela. He has also served as Community Manager and Product Marketing Manager at Ledn and as Marketing Manager and Business Development (LATAM) at Luxor Technology. He writes for Bitcoin Magazine and Luxor's Hashrate Index under the byline El Sultan Bitcoin, with a focus on Bitcoin mining geography and Latin American adoption. He has spoken at Adopting Bitcoin El Salvador (2022) and Bitcoin 2026 and has appeared on the Stephan Livera Podcast (SLP184, "Bitcoin Nodes in Venezuela," June 2020) and the Bitcoin Takeover Podcast.
+
+**Sources:**
+- Adopting Bitcoin 2022 speaker profile — sv22.adoptingbitcoin.org
+- Stephan Livera Podcast SLP184 (June 23, 2020)
+- Bitcoin Takeover Podcast S5 E5 (May 2020)
+- Chainwire — El Dorado 500,000 users announcement (January 21, 2025)
+- Bitcoin Magazine / Hashrate Index — El Sultan Bitcoin author pages
+- Bitcoin 2026 speaker page
 
 ---
 
@@ -5221,6 +5383,24 @@ An ongoing and unresolved conflict between Bitcoin Core (the dominant node imple
 
 ---
 
+## Paul Sztorc — Drivechain / BIP 300 (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Economist / BIP 300/301 Author / LayerTwo Labs Founder
+**Active:** 2011–present
+
+An American economist and researcher who discovered Bitcoin in 2011 as a graduate student at Case Western Reserve University, where he earned an MS-M and MBA. He subsequently worked as a statistician and researcher in Yale University's Economics Department for approximately two years, before being hired to work on Bitcoin full-time in January 2015 and joining Bloq, Inc. as an economist and researcher in March 2016. In 2014 Sztorc published the Truthcoin whitepaper, proposing a decentralized prediction market on a Bitcoin sidechain — motivated by the 2013 regulatory shutdown of Intrade.com — and later described teaching the design to an organization called Dyffy, which subsequently evolved into Augur and Gnosis; the project was rebranded Bitcoin Hivemind. Sztorc's primary protocol contribution is Drivechain, consisting of two BIPs co-authored with CryptAxe: BIP 300 ("Hashrate Escrows," formally assigned August 14, 2017), which enables a Bitcoin sidechain withdrawal mechanism "driven" by accumulated miner hashrate over approximately six months rather than cryptographic keys or a federation, and BIP 301 ("Blind Merged Mining," created July 23, 2019), which allows SHA-256d miners to collect sidechain transaction fees without running sidechain software. Together the BIPs would allow sidechains — including clones of Ethereum, Zcash, prediction markets, privacy chains, and DEXes — to be built on Bitcoin without altering L1 consensus rules. Both BIPs remained in Draft status and were never merged into Bitcoin Core; a pull request implementing BIP 300 code, submitted by Luke Dashjr in August 2023, was closed without formal rejection in 2024. Critics including Peter Todd (commissioned to write a formal analysis), Luke Dashjr, Pierre Rochard, Cory Klippsten, and Saifedean Ammous argued the proposal makes miners custodians of sidechain funds with adversarial incentive structures and no fraud-proof mechanism; supporters including Jameson Lopp cited no convincing main-chain safety concerns. Sztorc debated Todd at TABConf 2023 and presented Drivechain at Scaling Bitcoin (workshops 1, 2, and 3), Bitcoin++, and other venues. He founded LayerTwo Labs as the commercial entity supporting Drivechain; the company raised a $3 million seed round (announced December 20, 2022) and a subsequent approximately $4 million angel round in late 2023. After BIP 300/301 did not advance through Bitcoin Core, Sztorc announced in April 2026 that LayerTwo Labs would produce a Bitcoin hard fork named eCash — distinct from the Chaum and Séchet projects of the same name — scheduled for August 2026, activating BIP 300/301 and airdropping coins 1:1 to BTC holders; a provision to reassign Satoshi Nakamoto's coins on the eCash chain to fund development drew widespread criticism as a form of theft. Sztorc maintains truthcoin.info (blog and papers) and his GitHub handle is psztorc.
+
+**Sources:**
+- BIP 300 — github.com/bitcoin/bips/blob/master/bip-0300.mediawiki
+- BIP 301 — github.com/bitcoin/bips/blob/master/bip-0301.mediawiki
+- Truthcoin whitepaper — truthcoin.info/papers/truthcoin-whitepaper.pdf
+- LayerTwo Labs $3M seed round (CoinDesk, December 20, 2022)
+- Peter Todd drivechain analysis — petertodd.org/2023/drivechains
+- TABConf 2023 debate — YouTube
+- eCash hard fork announcement (CoinDesk, April 27, 2026)
+
+---
+
 ## E-Gold / Douglas Jackson (1960s–present)
 **Tier:** 3
 **Role:** Founder, e-gold
@@ -5710,6 +5890,22 @@ A documentary filmmaker whose *Banking on Bitcoin* (2016) was among the earliest
 
 ---
 
+## Torsten Hoffmann (dates unknown)
+**Tier:** 3
+**Role:** Documentary Filmmaker / Bitcoin Film Pioneer
+**Active:** 2014–present
+
+A German-born filmmaker based in London, with an MBA in Finance and Entrepreneurship from Oxford's Saïd Business School (graduated with distinction) and a Diplom-Kaufmann in International Management from Hochschule Bremen; a paper on alternative currencies written during his MBA became an early foundation for his Bitcoin research. He spent approximately eight years in Melbourne, Australia, where he co-founded 3D/4D Content Hub in 2012, a niche 4K and stereoscopic content distribution company whose clients included Netflix, Samsung, NHK, and Discovery. Hoffmann co-directed (with multiple Emmy nominee Michael Watchulonis) *Bitcoin: The End of Money As We Know It* (2015), a roughly 60-minute documentary tracing the history of money over centuries and introducing Bitcoin; funded partly by a 2014 Kickstarter campaign (AU$17,362 from 116 backers) with a total budget of approximately $60,000 USD, the film won four festival awards — including Best International Documentary and Best Libertarian Theme at FreedomFest 2015 and a Special Jury Prize at the Amsterdam Film Festival — was licensed to more than 40 territories including Netflix, CCTV, Samsung, Sky Deutschland, and Virgin Media, and was among the most pirated documentaries of 2015 (IMDb: tt4654844). Hoffmann and Watchulonis co-directed *Cryptopia: Bitcoin, Blockchains and the Future of the Internet* (2020), an 86-minute documentary filmed over approximately two years on four continents with a budget approximately eight times that of the first film, funded by Screen Australia and a German broadcast co-production partner and premiering in Melbourne on January 14, 2020; the film received 16 international festival awards and was distributed through Netflix Europe, Amazon Prime, Apple TV, and Tubi, with key interviewees including Andreas Antonopoulos, Vitalik Buterin, Charlie Lee, Roger Ver, Samson Mow, and Wences Casares (IMDb: tt9203586). He directed a third documentary, *Fortitude: Forging the Trillion Dollar Space Economy* (2024), on the commercial space industry, which premiered at the Library of Congress on July 16, 2024 (IMDb: tt18260360). Hoffmann spoke at Bitcoin 2023 in Nashville.
+
+**Sources:**
+- IMDB: tt4654844 (*Bitcoin: The End of Money As We Know It*); tt9203586 (*Cryptopia*); tt18260360 (*Fortitude*)
+- Kickstarter campaign — 2014 documentary campaign records
+- FreedomFest 2015 award documentation
+- Screen Australia — *Cryptopia* funding records
+- Bitcoin 2023 Nashville speaker roster
+
+---
+
 ### Investors, Analysts & Mining Figures
 
 ## Brian Estes (dates unknown)
@@ -5942,6 +6138,22 @@ A Bitcoin developer with one of the longer documented track records in the space
 
 ---
 
+## Nic Carter (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Investor / Analyst / Writer / Co-Founder, Coin Metrics & Castle Island Ventures
+**Active:** 2017–present
+
+A British-American Bitcoin investor, on-chain analyst, and writer who co-founded Coin Metrics in 2017 alongside Antoine Le Calvez, building it into one of the most widely cited Bitcoin and digital asset data platforms covering on-chain activity, supply metrics, and network health. He co-founded Castle Island Ventures alongside Matt Walsh in 2018, a Cambridge, Massachusetts-based venture capital firm focused exclusively on public blockchain infrastructure companies. Prior to founding both, Carter worked as a cryptoasset analyst at Fidelity Investments, among the first institutional analysts to produce internal research on Bitcoin from inside a major asset management firm. He is a prolific public writer on Bitcoin topics including energy use, monetary history, proof-of-work economics, and on-chain analysis; his essays on Bitcoin's energy consumption and its relationship to mining security have been widely cited in both Bitcoin advocacy and academic literature, and he has been among the most prominent voices arguing that Bitcoin mining is a net positive purchaser of stranded and renewable energy. Carter has written for major outlets and maintains an active presence at Bitcoin and finance conferences.
+
+**Sources:**
+- coinmetrics.io — platform and team documentation
+- Castle Island Ventures — castleisland.vc
+- Fidelity Digital Assets early research program
+- Nic Carter's collected essays and public writing
+- Bitcoin Conference speaker records
+
+---
+
 ## Coinos — Adam Soltys (2012–present)
 **Tier:** 3
 **Role:** Bitcoin Web Wallet / Merchant Tools / Vancouver Bitcoin Pioneer
@@ -6017,7 +6229,7 @@ An American physicist and neuroscientist who developed the Bitcoin Power Law the
 ---
 
 *Last updated: 2026-07-12*
-*Status: 373 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
+*Status: 383 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
 
 ---
 
