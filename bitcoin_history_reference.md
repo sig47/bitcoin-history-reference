@@ -111,7 +111,7 @@ and extends through the present.
 - [Ben Carman, Tony Giorgio & Paul Miller](#ben-carman-tony-giorgio--paul-miller--mutiny-wallet-dates-unknown)
 - [Benedictines of Mary, Queen of Apostles](#benedictines-of-mary-queen-of-apostles--bitcoin-funded-church-2017)
 - [Benjamin Lawsky](#benjamin-lawsky-dates-unknown)
-- [Biarritz Bitcoin](#biarritz-bitcoin--france-dates-unknown)
+- [Biarritz Bitcoin / Surfin' Bitcoin](#biarritz-bitcoin--surfin-bitcoin--france-dates-unknown)
 - [Bill Tai](#bill-tai-dates-unknown)
 - [Bisq](#bisq--manfred-karrer-founded-2014)
 - [Bitcoin Argentina](#bitcoin-argentina--hyperinflation-capital-controls--milei-2013present)
@@ -3797,14 +3797,15 @@ Peter Kroll is a developer and Bitcoin early adopter who discovered Bitcoin whil
 ## Bitcoin Island — Roatán, Honduras (dates unknown)
 **Tier:** 2
 **Role:** Circular Economy / Caribbean Island Bitcoin Community
-**Active:** 2021–present
+**Active:** 2022–present
 
-Roatán, a Caribbean island off the coast of Honduras, developed an organic Bitcoin circular economy distinct from — though geographically adjacent to — the Próspera special economic zone. Local businesses, dive shops, restaurants, and tourism operators began accepting Bitcoin via Lightning, driven by a community of Bitcoin-focused residents and visitors rather than any charter city or government framework. The circular economy on Roatán grew independently of Próspera and is documented separately in Bitcoin media.
+A Bitcoin circular economy on Roatán, a Caribbean island off the coast of Honduras, centered on AmityAge Academy — a Bitcoin education center and merchant onboarding operation founded by Dušan Matuška, a Slovak entrepreneur who visited Roatán in April 2022, attended the Build Prospera Summit, and spontaneously pitched a Bitcoin Education Center at the summit's pitch competition. Próspera CEO Erick Brimen invited him to stay, and AmityAge opened on November 18, 2022, timed to coincide with the Próspera Fintech & DeFi Summit. AmityAge operates within the Próspera ZEDE jurisdiction but works in coordination with the broader Bitcoin Roatán community effort island-wide. The AmityAge Bitcoin Center hosts Bitcoin education programs, operates a non-KYC Bitcoin ATM described as the first on Roatán, and has onboarded over 55 merchants across the island accepting Bitcoin via Lightning, including dive shops and restaurants. Key team members include Ariana Dixon (COO) and Diana Ďuricová (Project Manager); the advisory board includes Daniel Prince, John Dennehy of Mi Primer Bitcoin, and Scott Sibley. Annual Bitcoin Roatán Retreats have been held since 2024. Matuška spoke at Adopting Bitcoin El Salvador 2022 on the bitcoinization of Roatán. The project is distinct from — though geographically overlapping with — the Próspera charter city initiative. Cross-reference: Próspera entry.
 
 **Sources:**
-- Bitcoin Island Roatán community documentation
-- Coverage via Bitcoin Magazine, podcasts, Nostr
-- Cross-reference: Próspera (same island, different model)
+- AmityAge.com — Bitcoin Center Roatán
+- Infinita City Times — podcast with Dušan Matuška
+- Adopting Bitcoin 2022 — "Bitcoinization of Roatan Island" talk (November 2022)
+- bitcoinroatan.com
 
 ---
 
@@ -3813,12 +3814,14 @@ Roatán, a Caribbean island off the coast of Honduras, developed an organic Bitc
 **Role:** Bitcoin-Friendly Jurisdiction / European Circular Economy Node
 **Active:** 2022–present
 
-Madeira, an autonomous Portuguese island in the Atlantic, became the most prominent Bitcoin-friendly jurisdiction in Europe after President Miguel Albuquerque declared Madeira a Bitcoin-friendly region at the Bitcoin 2022 conference in Miami. The island subsequently hosted Bitcoin-focused events, attracted Bitcoin entrepreneurs and remote workers, and developed a small but documented Lightning circular economy. Albuquerque's public declaration represented a regional government within the EU publicly embracing Bitcoin ahead of any national-level EU policy.
+An autonomous Portuguese island in the Atlantic that became the most prominent Bitcoin-friendly jurisdiction in Europe, driven by local entrepreneur André Loja and the non-profit F.R.E.E. Madeira (Fórum Regional Educação Económica), which he co-founded in 2022 with Bitcoin author Knut Svanholm and podcaster Daniel Prince. Loja independently introduced regional President Miguel Albuquerque to Bitcoin through a chance visit to his Funchal coworking space, then brokered Albuquerque's appearance at Bitcoin 2022 Miami — where, following a meeting with Michael Saylor, Albuquerque declared Madeira a Bitcoin-friendly region on stage alongside JAN3 CEO Samson Mow on April 7, 2022. In June 2022 a team of Bitcoin advocates spent ten days on the island onboarding merchants including surf shops, taxi drivers, civil servants, and poncha bars to Lightning payments. F.R.E.E. Madeira subsequently documented over 160 businesses on the island accepting Bitcoin. Portugal's zero tax on long-term Bitcoin capital gains (holdings over one year remain tax-free even after 2023 reforms introduced a 28% rate on short-term gains) and the island's International Business Centre 5% corporate tax rate made Madeira an attractive destination for Bitcoin-focused entrepreneurs and remote workers. In March 2024 F.R.E.E. Madeira organized Bitcoin Atlantis at Barreiros Stadium in Funchal — a conference drawing over 3,000 attendees with speakers including Jack Dorsey, Michael Saylor, Jack Mallers, Lyn Alden, and Alex Gladstein; 60 on-site POS devices processed 8,750 transactions totaling over 2 BTC in three days. EU membership prevents Madeira from making Bitcoin legal tender. Cross-reference: Samson Mow, JAN3.
 
 **Sources:**
-- Miguel Albuquerque Bitcoin 2022 Miami speech
-- Madeira Bitcoin community documentation
-- Coverage: Bitcoin Magazine, Nostr
+- F.R.E.E. Madeira (freemadeira.org)
+- TheCryptoRadio — "The man turning Madeira into Bitcoin Island" (André Loja profile)
+- Bitcoin Atlantis BTCPay Server case study (blog.btcpayserver.org)
+- CoinTelegraph — Madeira embraces Bitcoin / Albuquerque meets Saylor
+- Bitcoin Magazine — Madeira Bitcoin coverage (2022)
 
 ---
 
@@ -3850,16 +3853,18 @@ The city of Lugano, in the Italian-speaking canton of Ticino, Switzerland, launc
 
 ---
 
-## Biarritz Bitcoin — France (dates unknown)
+## Biarritz Bitcoin / Surfin' Bitcoin — France (dates unknown)
 **Tier:** 2
-**Role:** Circular Economy Pioneers / France
-**Active:** 2021–present
+**Role:** Annual Bitcoin Conference / French Bitcoin Community Hub
+**Active:** 2020–present
 
-A surf town and resort city on France's Atlantic Basque coast that developed one of the most active Bitcoin circular economies in continental Europe, with local merchants, restaurants, and surf shops accepting Bitcoin via Lightning beginning in 2021. The initiative grew organically from the local Bitcoin community. It is a documented reference point for French-language Bitcoin adoption and is covered in French Bitcoin media and Bitcoin Magazine.
+Biarritz, a surf town and resort city on France's Atlantic Basque coast, is the home of Surfin' Bitcoin, France's primary annual Bitcoin conference and the central gathering of the French-language Bitcoin ecosystem. The conference was founded by StackinSat, a French Bitcoin company incorporated on January 3, 2020 (Bitcoin's genesis block date), by co-founders Jonathan Herscovici (CEO, previously co-founded France Fintech and sold Wesave to Amundi in 2018), Josselin Tonnellier, and Mathieu Gilardet. The first edition was held on October 2, 2020 at the Radisson Blu Hotel with approximately 150 attendees; subsequent editions moved to the Casino de Biarritz and grew substantially — roughly 700 attendees in 2021, 2,000 in 2022, with the Lightning Network as a recurring theme. The 2023 edition introduced Surfin Lightning Day, an interactive Lightning workshop organized in partnership with Bastien Teinturier of ACINQ and Lisa Neigut of Blockstream. The 2024 and 2025 editions continued at the Casino de Biarritz. Conference weeks draw Bitcoin activity into the town — local orange-pilling efforts have been documented — though a permanent large-scale Lightning merchant network specific to Biarritz is not quantified in primary sources. The conference has been described as Europe's leading Bitcoin conference.
 
 **Sources:**
-- Biarritz Bitcoin community documentation
-- Coverage: French Bitcoin media, Bitcoin Magazine, Nostr
+- Jonathan Herscovici — Surfin' Bitcoin 21 recap (Medium)
+- surfinbitcoin.com — previous editions archive
+- CoinTelegraph — "Ripples of Bitcoin adoption at Biarritz's Surfin Bitcoin Conference"
+- Cryptonaute — "Comment est né Surfin' Bitcoin"
 
 ---
 
