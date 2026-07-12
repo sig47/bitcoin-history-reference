@@ -331,7 +331,7 @@ and extends through the present.
 - [Marty Bent](#marty-bent-dates-unknown)
 - [Matt Corallo](#matt-corallo-dates-unknown)
 - [Matt Odell](#matt-odell-dates-unknown)
-- [Matthew Mezinskis](#matthew-mezinskis-dates-unknown)
+- [Matthew Mežinskis](#matthew-mežinskis-dates-unknown)
 - [Max Keiser & Stacy Herbert](#max-keiser--stacy-herbert-keiser-1960present)
 - [Michael Ford / fanquake](#michael-ford--fanquake-dates-unknown)
 - [Michael J. Casey](#michael-j-casey-dates-unknown)
@@ -4182,14 +4182,15 @@ Founded the Stephan Livera Podcast (2018), focusing on Austrian economics, Bitco
 
 ## Daniel Prince (dates unknown)
 **Tier:** 3
-**Role:** Bitcoin Podcaster / Educator
-**Active:** 2019–present
+**Role:** Bitcoin Podcaster / Educator / Community Organizer
+**Active:** 2020–present
 
-British Bitcoin podcaster and educator who hosts *Once Bitten! A Bitcoin Podcast*, launched in 2019, with a focus on personal stories of how Bitcoin has changed individuals' and families' lives and financial trajectories. Prince spent over 17 years in the banking and finance sector at voice brokerage houses in the Foreign Exchange markets before leaving the industry to travel through Asia, Europe, and North America with his wife and four children. He is also the author of *Choose Life*, a book about long-term family travel, world-schooling, and digital nomadism, and has hosted homeschool and alternative education summits. *Once Bitten* is distributed across major podcast platforms and has featured a wide range of guests from across the Bitcoin ecosystem. Prince has spoken at BTC Prague and other Bitcoin conferences.
+British Bitcoin podcaster and educator who hosts *Once Bitten! A Bitcoin Podcast*, launched January 30, 2020, with a focus on personal stories of how Bitcoin has changed individuals' and families' lives and financial trajectories. Prince spent over 17 years in the banking and finance sector at voice brokerage houses in the Foreign Exchange markets before leaving the industry to travel through Asia, Europe, and North America with his wife and four children. By mid-2026 the podcast had published approximately 619 episodes — twice weekly, averaging 92 minutes — and ranks in the top 1% of podcasts globally. Notable guests include Michael Saylor (recurring annual Year in Review format), Jeff Booth, and Lyn Alden. Prince is the author of *Choose Life*, a book on long-term family travel, world-schooling, and digital nomadism, and previously hosted the Homeschool Global Summit (2019, 2020) and InspirEd Podcast. He co-founded F.R.E.E. Madeira with André Loja and Knut Svanholm, and sits on the advisory board of AmityAge Academy in Roatán, Honduras — roles that connect his podcast community to the two most documented European and Caribbean Bitcoin circular economies. He is based in or closely associated with the Madeira Bitcoin community. Cross-reference: Madeira, Bitcoin Island Roatán.
 
 **Sources:**
 - Once Bitten! A Bitcoin Podcast — Apple Podcasts / Spotify
-- LinkedIn — Daniel Prince
+- F.R.E.E. Madeira co-founder listing
+- AmityAge Academy advisory board listing
 - BTC Prague speaker profile
 
 ---
@@ -5846,44 +5847,46 @@ A Bitcoin Layer 2 protocol proposed by developer Burak Keceli in May 2023, desig
 
 ## Dylan LeClair (dates unknown)
 **Tier:** 3
-**Role:** Bitcoin Analyst / Writer
-**Active:** ~2020–present
+**Role:** Bitcoin Analyst / Director of Bitcoin Strategy / Metaplanet
+**Active:** 2021–present
 
-A Bitcoin analyst known for institutional-grade on-chain and macroeconomic research. LeClair served as Senior Analyst at Bitcoin Magazine, where he co-authored research with Sam Rule including "Bitcoin: An Asset Unlike Any Other," a widely circulated paper making the case for Bitcoin as a treasury reserve asset for corporations and institutions. He later joined UTXO Management, a Bitcoin-focused financial services firm. LeClair publishes the 21st Paradigm newsletter on Substack and has been a recurring commentator on Bitcoin market structure, monetary policy, and cycle analysis on X and across major Bitcoin podcasts. His work is positioned toward institutional and sophisticated retail audiences and connects on-chain data to macro frameworks.
+An American Bitcoin analyst born around 2001–2002 who left the University of Vermont's Grossman School of Business in 2020–2021 to pursue Bitcoin research full-time. He co-founded 21st Paradigm, a Bitcoin consulting and research firm, in early 2021 and joined Bitcoin Magazine as Director of Market Research, producing "The Deep Dive," a premium newsletter covering global macroeconomics, on-chain analytics, and derivatives markets. He co-authored research with Sam Rule arguing for Bitcoin as a corporate treasury reserve asset, and published "The Conclusion of the Long-Term Debt Cycle and the Rise of Bitcoin" in Bitcoin Magazine. He subsequently served as Director of Market Intelligence at UTXO Management, a Bitcoin-focused digital asset fund. In May 2024 LeClair joined Metaplanet Inc., a Tokyo-listed investment firm pursuing a corporate Bitcoin accumulation strategy comparable to MicroStrategy, as Director of Bitcoin Strategy; under his involvement Metaplanet's holdings grew to over 18,800 BTC through more than 20 acquisition tranches by late 2024. He also holds an advisory role at Onramp Bitcoin and maintains the 21st Paradigm Substack.
 
 **Sources:**
-- "Bitcoin: An Asset Unlike Any Other" — Dylan LeClair & Sam Rule
-- Bitcoin Magazine analyst archive
+- Bitcoin Magazine — Dylan LeClair author archive and The Deep Dive
+- Metaplanet Inc. — Director of Bitcoin Strategy announcement (May 2024)
 - 21st Paradigm Substack
-- Public podcast appearances and X commentary
+- UTXO Management profile
 
 ---
 
-## Matthew Mezinskis (dates unknown)
+## Matthew Mežinskis (dates unknown)
 **Tier:** 3
 **Role:** Monetary Analyst / Podcaster
-**Active:** ~2017–present
+**Active:** 2017–present
 
-A Bitcoin analyst and co-host of the Crypto Voices podcast alongside Brazilian economist Fernando Ulrich. Mezinskis is best known for his recurring Global Monetary Base report, which tracks the monetary base (M0) of the world's major central banks and compares aggregate global money supply to Bitcoin's market capitalization. The report frames Bitcoin as a candidate for a share of global monetary savings and has been cited as a reference for institutional and retail investors seeking to contextualize Bitcoin's size relative to traditional monetary aggregates. His work applies a hard money framework to macro analysis, arguing that Bitcoin's fixed supply makes it a structural competitor to fiat monetary bases over long time horizons. Mezinskis and Ulrich have conducted extensive interviews with economists, investors, and Bitcoin developers on the Crypto Voices podcast.
+An American monetary analyst and podcaster of Latvian, Norwegian, and Irish descent, based in Latvia since 2006. He holds a BBA in Finance and Real Estate from the University of Cincinnati and has worked in corporate finance and consulting across real estate, hospitality, and online lending industries, including an early board role with Ronald McDonald House Charities Latvija. He has followed Bitcoin since 2011. On January 9, 2017, Mežinskis and Brazilian economist Fernando Ulrich launched Crypto Voices, a podcast covering Bitcoin through a hard money and macroeconomic lens; by late 2025 it had published approximately 349 episodes. Mežinskis is best known for his recurring Global Monetary Base report, which tracks the M0 monetary base of the world's major central banks and compares aggregate global money supply to Bitcoin's market capitalization — a framework that positions Bitcoin as a structural competitor to fiat monetary aggregates over long time horizons. He formally published the Global Monetary Base report in Q3 2019 alongside Ulrich. On January 9, 2023 — exactly six years after Crypto Voices launched — he launched Porkopolis Economics (porkopolis.io), a broader research and economics commentary platform. He is a recurring speaker at BTC Prague and has appeared on What Bitcoin Did, the Stephan Livera Podcast, and Bitcoin Fundamentals.
 
 **Sources:**
 - Crypto Voices podcast (cryptovoices.com)
-- Global Monetary Base reports — Matthew Mezinskis
-- Public interviews and podcast appearances
+- Porkopolis Economics (porkopolis.io)
+- Global Monetary Base reports — Matthew Mežinskis & Fernando Ulrich
+- BTC Prague speaker profile
 
 ---
 
 ## Giovanni Santostasi (dates unknown)
 **Tier:** 3
-**Role:** Physicist / Bitcoin Analyst
-**Active:** ~2019–present
+**Role:** Physicist / Bitcoin Power Law Theorist
+**Active:** 2012–present
 
-A physicist who developed and popularized the Bitcoin Power Law theory, a quantitative model proposing that Bitcoin's price follows a power law relationship with elapsed time since the genesis block. The model produces a logarithmic price corridor — an upper band and a lower band — within which Bitcoin's price has historically trended, with deviations representing periods of relative overextension or undervaluation. Santostasi extended the observation beyond price, noting that other Bitcoin network metrics including hashrate and the number of active addresses also exhibit power law growth, and argued this pattern reflects Bitcoin's adoption dynamics as a network technology rather than a commodity scarcity mechanism. The power law framework has been discussed as a complement or alternative to PlanB's Stock-to-Flow model, with proponents noting it remained statistically consistent across halving cycles during which S2F diverged from observed prices. Santostasi has presented the theory through conference appearances, podcast interviews, and analyses distributed via X.
+An American physicist and neuroscientist who developed the Bitcoin Power Law theory. Santostasi holds a B.S. in Physics from Maharishi University of Management (1995), an M.S. in Physics from Louisiana State University (1999), and a Ph.D. in Physics (astrophysics, with a dissertation on gravitational radiation detectability of Supernova 1987A's remnant using LIGO) from LSU (2001). After a faculty position at McNeese State University, he moved into neuroscience, becoming a Senior Researcher at Northwestern University's Feinberg School of Medicine where he studied sleep and memory consolidation — developing an algorithm delivering acoustic stimulation phase-locked to slow-wave sleep oscillations, published in *Frontiers in Human Neuroscience* (2017) and commercialized through DeepWave Technologies, a company he co-founded. He first identified power law relationships in Bitcoin price and address data around 2012 and publicly presented the price-time power law theory on Reddit's r/Bitcoin around 2018. The formal Medium article "The Bitcoin Power Law Theory" was published March 20, 2024. The model proposes that Bitcoin's price follows a power law with respect to elapsed time since the genesis block — producing a log-log linear relationship — and that the same scaling behavior extends to hashrate and active addresses through recursive network feedback, analogous to scaling laws observed in city growth and biological metabolism under complexity theory. Santostasi has positioned the framework as a complement or alternative to PlanB's Stock-to-Flow model, which diverged from observed prices across multiple halving cycles. He published *The Physics of Bitcoin: Not an Asset but a Force of Nature* in 2025–2026 and founded the Scientific Bitcoin Institute to bring peer-reviewed rigor to Bitcoin physics research. He runs Quantonomy, his quantitative Bitcoin research firm. He has appeared on the Stephan Livera Podcast (SLP732) and What in the World Is Money (WiM509).
 
 **Sources:**
-- Giovanni Santostasi — public X writings and charts
-- Bitcoin Power Law theory presentations and podcast appearances
-- Bitcoin Magazine and related media coverage
+- "The Bitcoin Power Law Theory" — Giovanni Santostasi, Medium (March 2024)
+- *The Physics of Bitcoin* — Giovanni Santostasi (2025–2026)
+- Frontiers in Human Neuroscience (2017) — acoustic sleep stimulation paper
+- Stephan Livera Podcast SLP732
 
 ---
 
