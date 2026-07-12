@@ -427,6 +427,7 @@ and extends through the present.
 - [Schnorr Signatures in Bitcoin](#schnorr-signatures-in-bitcoin--the-thirteen-year-wait-bip340-2021)
 - [SeedSigner](#seedsigner-pseudonymous-creator)
 - [SegWit](#segwit--the-upgrade-that-split-bitcoin-activated-august-2017)
+- [Start9 / StartOS](#start9--startos--matt-hill--team-founded-2020)
 - [Senator Cynthia Lummis](#senator-cynthia-lummis-r-wy-1954present)
 - [Senator Elizabeth Warren](#senator-elizabeth-warren-d-ma-1949present)
 - [Senator Ted Cruz](#senator-ted-cruz-r-tx-1970present)
@@ -2459,6 +2460,23 @@ A personal server operating system co-founded by Mayank Chhabra (CEO) and Luke C
 - Bitcoin Magazine — "Umbrel Announces New Umbrel Home Plug-And-Play Server"
 - GitHub: github.com/getumbrel/umbrel
 - Latka — "How Umbrel hit $3.7M revenue with a 5 person team in 2024"
+
+---
+
+## Start9 / StartOS — Matt Hill & team (founded 2020)
+**Tier:** 2
+**Role:** Personal Server OS / Sovereign Computing Platform
+**Active:** 2020–present
+
+Start9 Labs, Inc. was founded in Denver, Colorado, in 2020 by Matt Hill (CEO), Keagan McClelland (Director of Technology), Aaron Greenspan (Lead Front End Engineer), and Aiden McClelland (Lead Developer). Its flagship product — originally called Embassy, shipped on a Raspberry Pi running EmbassyOS — launched publicly around early 2020 and was reviewed by CoinDesk on July 8, 2020. The Embassy was a plug-and-play personal server with a browser-based interface; all services ran over Tor v3, giving each installed app its own `.onion` address and eliminating the need for port forwarding, DNS, or SSL certificates. The software was open source from the start under the MIT License. In March 2021, Start9 raised $1.2 million in seed funding from Collider Ventures, Ten31, and Erik Voorhees. The company subsequently expanded its hardware line to three products: Server Lite (Raspberry Pi–based, entry-level), Server One (x86; 2024 model: AMD Ryzen 7 5825U, up to 32 GB DDR4, up to 4 TB NVMe), and Server Pure (Intel i7-10710U with coreboot firmware and Intel Management Engine disabled, marketed as a security-hardened option). On May 21, 2023, with version 0.3.4.2, Start9 renamed EmbassyOS to StartOS. Version 0.4.0 — a complete rewrite in beta as of mid-2026 — introduced a new networking stack (WireGuard VPN, clearnet support, a StartTunnel reverse proxy that exposes services on a public domain without revealing the user's home IP), redesigned UI, multilingual support, a TypeScript SDK for third-party package development, and SMTP notifications. StartOS includes continuous per-service health checks and one-button encrypted backups as built-in features. Its app marketplace supports multiple registries — an official Start9 Registry, a community registry, and self-hosted third-party registries — and includes Bitcoin Core, Bitcoin Knots, Core Lightning, LND, BTCPay Server, Fulcrum, Alby Hub, Zeus, SimpleX Chat, Vaultwarden, Nextcloud, and others. Start9 frames its work under "sovereign computing" — the premise that Bitcoin self-sovereignty is incomplete without user control over computing, storage, and communications. Start9 and Umbrel launched within months of each other targeting the same use case; their technical approaches differ: StartOS is a full Linux distribution with MIT licensing, while umbrelOS is a custom OS under PolyForm Noncommercial licensing; StartOS offers granular per-service updates and health checks where Umbrel's original design required all-or-nothing updates.
+
+**Sources:**
+- CoinDesk — "Start9 Labs Pitches a Private At-Home Server. And It Works" (July 8, 2020)
+- CoinDesk — "$1.2M Funding Round" (March 11, 2021)
+- NoBSBitcoin — "EmbassyOS Renamed to StartOS, v0.3.4.2 Released" (May 2023)
+- Start9 Labs Medium — "Announcing EmbassyOS 0.3.0!" (March 7, 2022)
+- GitHub: github.com/Start9Labs/start-os (MIT License)
+- Start9 Docs — Umbrel comparison (docs.start9.com)
 
 ---
 
@@ -5999,7 +6017,7 @@ An American physicist and neuroscientist who developed the Bitcoin Power Law the
 ---
 
 *Last updated: 2026-07-12*
-*Status: 372 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
+*Status: 373 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
 
 ---
 
