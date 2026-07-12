@@ -107,6 +107,7 @@ and extends through the present.
 - [Based Trading Cards / Alladan Flinn](#based-trading-cards--alladan-flinn-2022present)
 - [Barry Silbert](#barry-silbert-1976present)
 - [Ben Arc](#ben-arc-pseudonym)
+- [Bitstamp](#bitstamp--nejc-kodri--damijan-merlak-founded-2011)
 - [Bitaxe / skot9000](#bitaxe--skot9000-dates-unknown)
 - [Ben Carman, Tony Giorgio & Paul Miller](#ben-carman-tony-giorgio--paul-miller--mutiny-wallet-dates-unknown)
 - [Benedictines of Mary, Queen of Apostles](#benedictines-of-mary-queen-of-apostles--bitcoin-funded-church-2017)
@@ -160,6 +161,7 @@ and extends through the present.
 
 **C**
 - [Caitlin Long](#caitlin-long-dates-unknown)
+- [Calle / Cashu](#calle--cashu-pseudonym-active-2022present)
 - [Cameron & Tyler Winklevoss](#cameron--tyler-winklevoss-1981present)
 - [Car Gonzalez](#car-gonzalez--carlos-gonzalez-dates-unknown)
 - [Carl Dong](#carl-dong-dates-unknown)
@@ -226,6 +228,7 @@ and extends through the present.
 
 **F**
 - [Farida Bemba Nabourema](#farida-bemba-nabourema-1990present)
+- [Fedimint / Eric Sirion](#fedimint--eric-sirion--team-prototype-2021-mainnet-2024)
 - [fiatjaf](#fiatjaf-pseudonym-identity-known)
 - [Foundation Devices](#foundation-devices--zach-herbert-dates-unknown)
 - [Foundry](#foundry--mike-colyer-dates-unknown)
@@ -314,7 +317,8 @@ and extends through the present.
 - [Lugano Plan B](#lugano-plan-b--switzerland-2022present)
 - [Luke Dashjr](#luke-dashjr-1985present)
 - [Luke Gromen](#luke-gromen-dates-unknown)
-- [Lyn Alden](#lyn-alden-1984present)
+- [Lightspark / David Marcus](#david-marcus--lightspark-founded-2022)
+- [Lyn Alden](#lyn-alden-1988present)
 
 **M**
 - [Madeira](#madeira--bitcoin-friendly-portuguese-island-2022present)
@@ -336,7 +340,7 @@ and extends through the present.
 - [Michael Ford / fanquake](#michael-ford--fanquake-dates-unknown)
 - [Michael J. Casey](#michael-j-casey-dates-unknown)
 - [Michael Lewis](#michael-lewis-dates-unknown)
-- [Michael Saylor](#michael-saylor-1969present)
+- [Michael Saylor](#michael-saylor-1965present)
 - [Michael Sonnenshein](#michael-sonnenshein-1984present)
 - [Mike Caldwell / Casascius](#mike-caldwell--casascius-dates-unknown)
 - [Mike Hearn](#mike-hearn-1980present)
@@ -470,6 +474,7 @@ and extends through the present.
 **U**
 - [Udi Wertheimer](#udi-wertheimer-dates-unknown)
 - [*Ulterior States*](#ulterior-states-2015--tomer-kantor--iamsatoshi)
+- [Umbrel / Mayank Chhabra & Luke Childs](#umbrel--mayank-chhabra--luke-childs-founded-2019)
 
 **V**
 - [Variety Jones / Thomas Clark](#variety-jones--thomas-clark-dates-unknown)
@@ -1920,6 +1925,58 @@ Pseudonymous self-taught developer who created LNbits, a free and open-source Li
 
 ---
 
+## Calle / Cashu (pseudonym, active 2022–present)
+**Tier:** 2
+**Role:** Protocol Developer / Chaumian Ecash
+**Active:** 2022–present
+
+Calle is a pseudonymous developer (GitHub: @callebtc) who holds a PhD in Physics and is the creator of Cashu, a free and open-source Chaumian ecash protocol for Bitcoin. Cashu enables the issuance of digital bearer tokens backed by Bitcoin and redeemable via the Lightning Network; tokens are stored on the user's device rather than in an account, and the mint cannot determine who holds tokens, what balances are, or who is transacting with whom. The protocol uses Blind Diffie-Hellman Key Exchange (BDHKE) on secp256k1 — a variant of Chaumian blinding derived from a 1996 David Wagner cypherpunk mailing list post — rather than the RSA-based blind signatures used in David Chaum's original DigiCash. Calle made the first Cashu commit in September 2022 and announced it publicly on Stacker News on September 23, 2022; the reference implementation, Nutshell, was written in Python. The protocol is defined through a specification set called NUTs (Notation, Usage, and Terminology) — 31 NUTs (NUT-00 through NUT-30) as of mid-2026, covering cryptography, token minting and melting, keysets, swapping, fees, spending conditions, DLEQ proofs, HTLCs, and Nostr integrations. Trust model: a Cashu mint is a single operator who holds Bitcoin reserves and signs tokens blindly. The operator cannot link a deposit to a redemption (the core privacy guarantee), but could issue unbacked tokens or refuse redemptions — users are advised to keep balances small and use trusted mint operators. This contrasts with Fedimint's federated threshold approach. Key wallets include Cashu.me (web PWA), Nutstash (browser extension, by Gandlaf), Minibits (Android, July 2023), eNuts (Android/iOS), and Macadamia (iOS). A Rust implementation, CDK (Cashu Development Kit), provides a `cdk-mintd` mint binary and library bindings for Kotlin, Dart, C#, and Swift. Two Nostr Integration Proposals — NIP-60 (portable Cashu wallets stored in Nostr relays) and NIP-61 (nutzaps, P2PK-locked token transfers enabling a new zap mechanism) — were merged into the Nostr specification in October 2024. Cashu tokens can transfer offline via QR code, NFC, Bluetooth, or paper; Calle demonstrated Cashu-over-Bitchat (Bluetooth mesh) at Bitcoin Amsterdam 2025. OpenSats selected Cashu in its inaugural Bitcoin grant round (July 2023) and granted Calle a Long-Term Support grant on June 21, 2024. Calle co-founded the OpenCash Association, a nonprofit launched at the Oslo Freedom Forum in 2024 to support sustainable open-source development of the Cashu ecosystem.
+
+**Sources:**
+- cashu.space — official site; cashubtc/nuts (NUTs specification, GitHub)
+- Stacker News — "Introducing Cashu" (September 23, 2022)
+- OpenSats — Long-Term Support for Calle (June 21, 2024)
+- Bitcoin Magazine — "Ecash Makes Bitcoin (and Fiat) Private with Calle's Cashu"
+- NIP-60 and NIP-61 — nips.nostr.com
+
+---
+
+## Fedimint — Eric Sirion & team (prototype 2021, mainnet 2024)
+**Tier:** 2
+**Role:** Federated Chaumian Ecash / Bitcoin Scaling & Privacy Protocol
+**Active:** 2021–present
+
+Fedimint is an open-source federated Chaumian ecash protocol built on Bitcoin, created by the pseudonymous developer Eric Sirion (@elsirion on X and GitHub), who describes himself as a "crypto-anarchist and aspiring cypherpunk." Sirion built a prototype — initially called MiniMint — in mid-2021; Blockstream announced its sponsorship of the project on October 27, 2021. A public testnet launched on Bitcoin signet in September 2022, and the first stable mainnet-viable release (v0.2.1) shipped on January 3, 2024. v0.6.0 ("On-Chain for Everyone") followed on February 27, 2025. Fedimint's core design difference from Cashu (a single-operator mint) is federated custody: a threshold group of guardians — community members operating a shared Bitcoin multisig wallet — hold deposited funds. Byzantine fault tolerance means more than one-third of the guardian set must collude to compromise funds. Guardians perform a distributed key generation ceremony and issue ecash using threshold blind signatures; individual guardians see only partial information about deposits and redemptions. Users receive Chaumian ecash tokens with the same unlinkability guarantees as single-operator mints, but with distributed counterparty risk. The protocol is modular in Rust, with default modules for on-chain Bitcoin custody, ecash issuance, and a Lightning gateway (a specialized client paired with a Lightning node that routes payments between Fedimint federations and the broader Lightning Network). Fedi, Inc. is a separate company building the consumer application layer on the Fedimint protocol; it was co-founded by Sirion, Obi Nwosu (founder of Coinfloor, the UK's first Bitcoin exchange), and Justin Moon (creator of the BUIDL Bootcamp Bitcoin programming course). Fedi raised a $17 million Series A on May 3, 2023, led by Ego Death Capital with participation from TBD (Block), Trammell Venture Partners, Kingsway, and Timechain; the Fedi app launched in alpha on May 22, 2023 and in production on August 6, 2024. Real-world Fedimint deployments include Bitcoin Ekasi (South Africa community banking), BitSacco (Kenyan savings cooperative), and farming cooperative payment pools in West Africa. Critics note that users trust guardians rather than holding their own keys, that guardians could theoretically issue unbacked tokens, and that guardian collusion above the threshold could drain funds — acknowledged trade-offs that Fedimint documentation addresses explicitly. Funding has come from Blockstream, the HRF Bitcoin Development Fund, OpenSats, and Spiral/Block.
+
+**Sources:**
+- fedimint.org — documentation and blog
+- Blockstream Blog — "Blockstream Sponsors Minimint" (October 27, 2021)
+- Stephan Livera Podcast SLP331 — Eric Sirion on MiniMint (December 2021)
+- Fedi, Inc. Series A announcement — fedi.xyz (May 3, 2023)
+- Fedi production launch — fedi.xyz (August 6, 2024)
+- GitHub: fedimint/fedimint
+- HRF Bitcoin Development Fund grant announcements
+
+---
+
+## David Marcus / Lightspark (founded 2022)
+**Tier:** 3
+**Role:** Payments Executive / Lightspark Founder / Former PayPal President & Facebook Libra Lead
+**Active:** 2022–present (Bitcoin-relevant)
+
+Born April 12, 1973, in Paris, to a Romanian father and Iranian mother; raised in Geneva. Marcus founded GTN Telecom in Geneva in 1996 and later founded Zong, a mobile carrier billing and payments company, which eBay acquired in July 2011 for approximately $232 million; he joined PayPal as a result and was named President of PayPal in April 2012. He left PayPal in June 2014 to run Facebook Messenger and from 2018 led Meta's financial technology division. In June 2019 Facebook announced Libra, a proposed basket-backed global stablecoin with Marcus heading the associated Calibra wallet subsidiary. Marcus testified before the Senate Banking Committee (July 16, 2019) and House Financial Services Committee (July 17, 2019) on Libra; the project drew immediate congressional opposition over dollar sovereignty, data privacy, and illicit finance concerns. By October 2019, PayPal, Visa, Mastercard, eBay, and Stripe had all withdrawn from the Libra Association under regulatory pressure. The project was rebranded Diem and the wallet renamed Novi; neither launched at scale. In January 2022, the Diem Association shut down and Silvergate Bank acquired the IP for approximately $182 million. Marcus announced his departure from Meta on November 30, 2021, and later described the shutdown as a "political kill," attributing it to a Federal Reserve general counsel call to participating banks instructing them the Fed was "not comfortable" with the project. In May 2022 Marcus co-founded Lightspark in Los Angeles with a team including former Diem colleagues Christian Catalini (MIT cryptoeconomics researcher), Jai Massari, and Kevin Hurley; the company raised $175 million with a16z and Paradigm co-leading. Lightspark launched enterprise Lightning node infrastructure (Lightspark Connect, April 2023) and published the Universal Money Address (UMA) standard — an open-source messaging protocol giving Lightning payments a human-readable email-style address with built-in compliance metadata for AML, KYC, and Travel Rule exchange. In October 2024, Lightspark announced Spark — a Bitcoin Layer 2 using statechain technology (2-of-2 multisig; user always holds one key; zero-fee transfers; unilateral exit available) that is interoperable with Lightning and designed to support stablecoins on Bitcoin at scale, a use case Lightning's pairwise channel architecture cannot support natively. Spark beta launched April 29, 2025. Wallet of Satoshi integrated Spark on July 1, 2025, re-entering the U.S. market in the process; Revolut announced a Lightning partnership via Lightspark on May 7, 2025; Breez SDK added Spark on May 22, 2025; and Tether integrated Spark into its open-source Wallet Development Kit in August 2025. The Lightspark Grid API — a cross-border payment rails product reaching 65+ countries and 14,000+ banks — launched in approximately October 2025. Grid Global Accounts, an enterprise banking product supporting Visa debit cards and AI agent spending controls, was announced April 28, 2026.
+
+**Sources:**
+- CoinDesk — "Libra Creator David Marcus Begins Lightspark" (May 12, 2022)
+- Lightspark.com — Spark announcement; UMA standard; Grid announcement
+- GlobeNewswire — "Spark Beta is Live" (April 29, 2025)
+- Lightspark.com — Wallet of Satoshi integration (July 2025); Revolut partnership (May 2025)
+- Forbes — "Ex-PayPal President Unveils Banking Product for Businesses and AI Agents" (April 28, 2026)
+- Tether.io — Spark WDK integration (August 2025)
+- Senate Banking Committee testimony transcript (July 16, 2019)
+
+---
+
 ### Cryptographic Protocols
 
 ## Rivest, Shamir & Adleman — RSA (1977)
@@ -2150,17 +2207,18 @@ Co-created DarkWallet with Amir Taaki and founded Defense Distributed, which pro
 
 ### Thinkers & Advocates
 
-## Lyn Alden (1984–present)
+## Lyn Alden (1988–present)
 **Tier:** 3
 **Role:** Macroeconomic Analyst / Author / Bitcoin Thinker
 **Active:** 2020–present
 
-Founded Lyn Alden Investment Strategy and authored *Broken Money* (2023), a history of monetary technology from commodity money through the modern financial system to Bitcoin. Her writing covers both macro investment analysis and monetary history, treating Bitcoin as a technological and monetary asset within a historical framework. Her background is electrical engineering, not finance, which she has discussed publicly as influencing her analytical approach to monetary and economic systems.
+An American macroeconomic analyst and author who holds a B.S. in Electrical Engineering from Penn State and an M.S. in Engineering Management from Rowan University. She worked as an electronics engineer and system integrator at the FAA's Cockpit Simulation Facility from 2009 to 2021 — progressing to head engineer — before leaving full-time to run her investment research firm. She founded Lyn Alden Investment Strategy in 2016 as a side project; it provides macroeconomic research read by over 100,000 investors per issue, covering approximately 30 countries and spanning equities, commodities, currencies, and digital assets. She first wrote about Bitcoin in autumn 2017 in a neutral-to-cautious piece and turned publicly bullish in April 2020, going long at approximately $6,900 in her premium service before publishing "3 Reasons I'm Investing in Bitcoin" on July 16, 2020 — an essay that circulated widely in Bitcoin circles and which Michael Saylor has cited as a resource he sent to his board before MicroStrategy's August 2020 Bitcoin purchase. Her subsequent essays — including "Analyzing Bitcoin's Network Effect," "Bitcoin: A Global Liquidity Barometer" (co-authored with Sam Callahan, documenting that Bitcoin tracks global M2 liquidity 83% of the time across any 12-month window), and "Full Steam Ahead: All Aboard Fiscal Dominance" (January 2025) — built out a framework grounded in fiscal dominance theory, monetary history, and network effects rather than the Austrian praxeological tradition common to other Bitcoin writers. Her macro thesis, popularized as "Nothing Stops This Train," holds that structural fiscal deficits in developed economies are driven by arithmetic and political incentives that make sustained reversal implausible, positioning Bitcoin as a hedge against that regime. She authored *Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better* (Timestamp Press, August 20, 2023, 538 pages) — a history of monetary technology from Sumerian grain accounting through the Bretton Woods system and into Bitcoin — which sold over 100,000 copies and reached No. 1 in three Amazon categories. She has appeared on the Stephan Livera Podcast (SLP232, SLP294, SLP518), What Bitcoin Did (WBD393, WBD496), MacroVoices (episode 260, February 2021), and the Oslo Freedom Forum alongside Jack Dorsey. She delivered a keynote at Bitcoin 2025 titled "The Debt Train Has No Brakes."
 
 **Sources:**
-- *Broken Money* (2023) — Lyn Alden
-- Lyn Alden Investment Strategy research (lynalden.com)
-- Alden's public writing and podcast appearances
+- *Broken Money: Why Our Financial System is Failing Us and How We Can Make It Better* (2023) — Lyn Alden (Timestamp Press)
+- Lyn Alden Investment Strategy (lynalden.com) — essays and research
+- Stephan Livera Podcast episodes SLP232, SLP518
+- MacroVoices episode 260 (February 25, 2021)
 
 ---
 
@@ -2388,6 +2446,22 @@ A pseudonymous developer who created SeedSigner, a stateless, open-source Bitcoi
 
 ---
 
+## Umbrel — Mayank Chhabra & Luke Childs (founded 2019)
+**Tier:** 2
+**Role:** Personal Server OS / Bitcoin & Lightning Node Software
+**Active:** 2019–present
+
+A personal server operating system co-founded by Mayank Chhabra (CEO) and Luke Childs (CTO), who met at a Bitcoin meetup in Chiang Mai, Thailand. Chhabra began the project in October 2019 after finding it unnecessarily difficult to run his own Bitcoin node on a Raspberry Pi. The software — umbrelOS, a Debian-based Linux distribution with a graphical browser-based desktop interface — launched publicly on August 16, 2020 and rapidly became the dominant platform for home Bitcoin and Lightning node operation. By October 2021, approximately 90% of Lightning Network nodes launched in the prior year ran on Umbrel, with over 13,000 Umbrel servers active and Umbrel nodes representing roughly half of all Lightning nodes on the network at that time. An integrated app store, shipping with the OS and later supporting third-party community stores (v0.5.2, October 2022), grew to over 300 apps across categories including Bitcoin, Lightning, file storage, media, home automation, and AI — making Umbrel a platform for general self-hosting beyond Bitcoin. In October 2021, Umbrel raised a $3 million seed round led by OSS Capital with participation from Naval Ravikant, Sahil Lavingia, Fulgur Ventures, Slow Ventures, Andreas Antonopoulos, and others. In 2023, Umbrel launched Umbrel Home, a plug-and-play home server appliance (Intel N5105 quad-core, 16 GB RAM, 2 TB NVMe SSD, ~$399) to address Raspberry Pi supply shortages and raise performance. umbrelOS 1.0, released March 18, 2024, was a complete rebuild with a new design system, multilingual support, real-time per-app monitoring, and a developer Widgets API. Umbrel reported $3.7 million in revenue for fiscal 2024 with a five-person team. The codebase is source-available under the PolyForm Noncommercial 1.0.0 license (permitting personal and nonprofit use but prohibiting commercial redistribution), changed from earlier open-source licensing in August 2021.
+
+**Sources:**
+- Bitcoin Magazine — "90% Of Lightning Nodes Launched In The Last Year Run On Umbrel" (October 15, 2021)
+- Umbrel Blog — seed round announcement, umbrelOS 1.0 introduction (blog.getumbrel.com)
+- Bitcoin Magazine — "Umbrel Announces New Umbrel Home Plug-And-Play Server"
+- GitHub: github.com/getumbrel/umbrel
+- Latka — "How Umbrel hit $3.7M revenue with a 5 person team in 2024"
+
+---
+
 ## Trezor / SatoshiLabs — Marek "Slush" Palatinus & Pavol "Stick" Rusnák (dates unknown)
 **Tier:** 2
 **Role:** Hardware Wallet Pioneers / First Mining Pool Creator
@@ -2477,15 +2551,17 @@ Unchained's head of education who became a prominent public voice on Bitcoin inh
 
 ## Parker Lewis (dates unknown)
 **Tier:** 3
-**Role:** Bitcoin Writer / Unchained Capital
-**Active:** 2019–present
+**Role:** Bitcoin Writer / Head of Business Development, Unchained & Zaprite
+**Active:** 2018–present
 
-Authored the "Gradually, Then Suddenly" essay series (2019–2020), a widely circulated explanation of Bitcoin's monetary properties later compiled into a book, written while working at Unchained, a Bitcoin-only financial services company. The series takes its title from Hemingway's description of how bankruptcy occurs and applies a similar framework to Bitcoin's adoption trajectory. The essays were widely distributed in Bitcoin circles as an onboarding resource for readers seeking a monetary economics argument rather than a technical or investment case.
+An American Bitcoin writer and business development professional who holds a B.A. from Duke University. Before entering the Bitcoin space, Lewis worked as an analyst at Deutsche Bank through the 2008 financial crisis (2006–2009), then in corporate restructuring at FTI Consulting (2009–2013), and on the investment team at Hayman Capital Management under global-macro fund founder Kyle Bass (2013–2017). He first encountered Bitcoin in 2016 while conducting due diligence on a gold-backed payments platform and concluded, through an introduction to Saifedean Ammous, that bitcoin would emerge as a global reserve asset. He left Hayman in 2017 and joined Unchained Capital (Austin, TX) in September 2018 as Head of Business Development. Beginning July 26, 2019, Lewis published the "Gradually, Then Suddenly" essay series on the Unchained blog — 16 essays through 2020 addressing common objections to Bitcoin from a monetary economics standpoint, taking the series title from Hemingway's description of how bankruptcy occurs. Individual essays included "Bitcoin Can't Be Copied," "Bitcoin Does Not Waste Energy," "Bitcoin Cannot Be Banned," and "Bitcoin Is the Great Definancialization." The series circulated widely as an onboarding resource for readers approaching Bitcoin through monetary economics rather than technical or investment arguments; Michael Saylor has cited the essays among materials that informed MicroStrategy's treasury decision. In November 2022 Lewis moved from his operating role at Unchained to its board of directors during a staff reduction. He launched an independent website, graduallythensuddenly.xyz, in December 2022 and in September 2023 joined Zaprite, a Bitcoin payments company, as Head of Business Development alongside colleague Will Cole. The book compilation — *Gradually, Then Suddenly: A Framework for Understanding Bitcoin as Money* (Parker A. Lewis, self-published through Gradually Then Suddenly LLC, ISBN 979-8-218-29287-4) — was published December 1, 2023.
 
 **Sources:**
-- "Gradually, Then Suddenly" essay series (2019–2020) — Parker Lewis (unchained.com)
-- *Gradually, Then Suddenly* (book compilation) — Parker Lewis
-- Unchained Capital / Unchained documentation
+- "Gradually, Then Suddenly" essay series (2019–2020) — unchained.com/blog-author/plewis
+- *Gradually, Then Suddenly* — Parker A. Lewis (December 2023)
+- graduallythensuddenly.xyz
+- Zaprite blog — "Zaprite Welcomes Parker Lewis and Will Cole" (September 2023)
+- Stephan Livera Podcast SLP131, SLP263, SLP570; What Bitcoin Did WBD358, WBD370, WBD1004
 
 ---
 
@@ -2589,17 +2665,21 @@ Authored *The Bitcoin Standard* (2018), a widely read book making the economic c
 
 ### Corporate Adoption & Public Markets
 
-## Michael Saylor (1969–present)
+## Michael Saylor (1965–present)
 **Tier:** 3
-**Role:** Corporate Bitcoin Advocate / Investor
-**Active:** 2020–present
+**Role:** Co-Founder, Executive Chairman / Strategy (MicroStrategy) / Corporate Bitcoin Advocate
+**Active:** 2020–present (Bitcoin-relevant)
 
-Converted MicroStrategy's corporate treasury to Bitcoin beginning in August 2020 with an initial purchase of $250 million, establishing and publicly documenting a corporate Bitcoin treasury strategy that other public companies subsequently adopted. Saylor became the most prominent institutional advocate for corporate Bitcoin adoption and has continued accumulating Bitcoin for MicroStrategy's balance sheet through subsequent market cycles. His public commentary and educational materials on Bitcoin have addressed corporate treasury managers and institutional investors rather than retail or cypherpunk audiences.
+Born February 4, 1965, in Lincoln, Nebraska, the son of a U.S. Air Force chief master sergeant. Saylor enrolled at MIT in 1983 on an Air Force ROTC scholarship, double-majored in aeronautical engineering and science, technology, and society, and was medically disqualified from pilot training after graduation in 1987. In 1989, using earnings from consulting work, he co-founded MicroStrategy with MIT fraternity brother Sanju Bansal — a business intelligence software company that completed its IPO in June 1998. During the dot-com bubble, Saylor's personal net worth briefly reached approximately $7 billion; in March 2000, the SEC launched a formal investigation into MicroStrategy's revenue recognition practices, leading to a financial restatement and a single-day stock collapse that erased roughly $6 billion in Saylor's personal wealth. He settled civil charges without admitting wrongdoing, paying a $350,000 SEC penalty and $8.3 million in disgorgement. In 1999, he founded what became Saylor Academy, a nonprofit offering more than 300 free college-level courses accessed by over 2 million students. During spring 2020, Saylor became convinced that fiat currency debasement made holding corporate cash equivalent to "standing on a melting ice cube." On August 11, 2020, MicroStrategy announced its first Bitcoin purchase — 21,454 BTC for $250 million ($11,653/BTC average), executed through Coinbase — establishing what Saylor framed as a corporate Bitcoin treasury strategy. The company continued purchasing through every subsequent market cycle: holdings grew from 38,250 BTC in September 2020 to approximately 124,391 BTC at year-end 2021, 471,107 BTC at year-end 2024, and approximately 843,775 BTC as of mid-2026 at a total cost basis of approximately $63.7 billion ($75,482/BTC average) — representing roughly 4% of Bitcoin's total capped supply. Financing vehicles included convertible notes, at-the-money equity offerings, and preferred stock; the company introduced a "BTC Yield" KPI measuring Bitcoin per diluted share accretion and reported a 74.3% BTC Yield for 2024. In August 2022 Saylor transitioned from CEO to Executive Chairman; Phong Le became CEO. On February 5, 2025, MicroStrategy announced a rebrand to "Strategy" (legally Strategy Inc. as of August 11, 2025), with a Bitcoin-orange logo and the ticker continuing as MSTR. In February 2021, MicroStrategy co-launched a free "Bitcoin for Corporations" educational initiative drawing more than 22,000 registrations and providing corporations with the frameworks and documents used in MicroStrategy's own treasury conversion. Saylor personally disclosed holding 17,732 BTC in October 2020 (cost: ~$175 million); as of August 2024 he described his personal holdings as worth approximately $1 billion. His public advocacy has framed Bitcoin as "digital energy," "digital property," and the base layer of a five-tier digital asset stack, targeting institutional and corporate audiences rather than retail or cypherpunk communities. He participated in a 17-episode podcast series ("The Saylor Series") with Robert Breedlove on the *What is Money?* show and appeared on Lex Fridman Podcast episode 276 (April 14, 2022). In February 2025 he met with the SEC's Crypto Task Force and proposed a national Bitcoin reserve strategy he argued could generate $16–81 trillion for the U.S. Treasury.
 
 **Sources:**
-- MicroStrategy Bitcoin treasury announcements (2020–present)
-- *What is Money?* podcast appearances (Robert Breedlove)
-- Saylor Academy / Bitcoin for Corporations materials
+- Strategy press releases and SEC 8-K filings (strategy.com)
+- MicroStrategy rebranding announcement (February 5, 2025; August 14, 2025 legal name change)
+- SEC Litigation Release LR-16829 (March 2000 settlement)
+- *What is Money?* — Robert Breedlove "Saylor Series" (2020–2021)
+- Lex Fridman Podcast #276 (April 14, 2022)
+- SEC Crypto Task Force meeting memo (February 21, 2025)
+- bitcointreasuries.net / bitbo.io (holdings tracking)
 
 ---
 
@@ -2881,6 +2961,24 @@ A Stanford-trained computer scientist who co-founded BTCC (Bitcoin China) in Jun
 - Wikipedia — BTCC
 - *The Promise of Bitcoin* — Bobby Lee (2021)
 - CNBC and CoinTelegraph coverage (2017–2018)
+
+---
+
+## Bitstamp — Nejc Kodrič & Damijan Merlak (founded 2011)
+**Tier:** 3
+**Role:** Bitcoin Exchange / World's Longest-Running Continuously Operating Crypto Exchange
+**Active:** 2011–present
+
+Nejc Kodrič (born 1989, Slovenia) and Damijan Merlak (born April 27, 1986, Celje, Slovenia) co-founded Bitstamp in August 2011 with 1,000 euros, two laptops, and one server, positioning it from the outset as a European alternative to the Mt. Gox exchange that then dominated global Bitcoin volume. Merlak, a software developer who had worked at Pop TV and Klikka, first encountered Bitcoin in 2011 when it traded at approximately $2. Kodrič, who had studied organization and management at the University of Ljubljana, served as CEO from founding. In July 2013, Pantera Capital invested $10 million — one of the largest Bitcoin startup investments at the time. On July 22, 2013, Bitstamp's daily trading volume exceeded Mt. Gox for the first time. After Mt. Gox suspended trading in February 2014 and filed for bankruptcy, Bitstamp emerged as the world's largest Bitcoin exchange. In January 2015, a weeks-long spear-phishing campaign beginning in December 2014 resulted in the theft of 18,866 BTC (approximately $5.26 million) from the exchange's hot wallet on January 4; the exchange suspended service, hired forensics firm Stroz Friedberg, and reopened January 9, absorbing the loss. On April 19, 2016, Luxembourg's CSSF authorized Bitstamp Europe SA as a payment institution — the first nationally licensed Bitcoin exchange in the world — granting it a European passport covering all EU member states. In October 2018, NXMH, a Belgian subsidiary of South Korean gaming conglomerate NXC Corp., acquired 80% of Bitstamp in a transaction estimated at approximately $400 million; Merlak sold his full stake and Kodrič retained 10% while remaining CEO. In February 2022, UK High Court Judge Eason Rajah ruled against Kodrič's challenge to NXMH's exercise of a call option over his remaining 9.8% stake, giving NXMH full ownership. Kodrič stepped down as CEO in October 2020 and was succeeded by Julian Sawyer (formerly of Gemini) and later Jean-Baptiste Graftieaux, who had led Bitstamp's compliance team during the 2016 licensing process and became Global CEO in May 2022. In Q1 2023, Ripple Labs acquired Pantera Capital's remaining minority stake. On June 6, 2024, Robinhood Markets announced an agreement to acquire Bitstamp for $200 million in cash, completing the acquisition on June 2, 2025 for approximately $224 million. In May 2025, Bitstamp became the first exchange in Luxembourg to receive a MiCA CASP license. As of 2025, Bitstamp had over 4 million registered users and is described as the world's longest-running continuously operating cryptocurrency exchange.
+
+**Sources:**
+- Forbes, Kashmir Hill — "The Bitcoin Economy's 'Backbone' Is Bitstamp" (June 26, 2014)
+- CoinDesk — "Details of $5 Million Bitstamp Hack Revealed" (July 1, 2015)
+- Wired, Cade Metz — "A Bitcoin Exchange Just Got Approval to Operate Across the EU" (April 25, 2016)
+- GlobeNewswire — "Bitstamp Announces Sale to NXMH" (October 29, 2018)
+- CoinDesk — "Bitstamp Founder Loses UK Court Bid to Prevent New Owner Buying His Shares" (February 15, 2022)
+- Reuters — "Robinhood bets big on crypto with $200 million deal for Bitstamp" (June 6, 2024)
+- CoinDesk — "Robinhood Completes $200M Acquisition of Crypto Exchange Bitstamp" (June 3, 2025)
 
 ---
 
@@ -4825,15 +4923,20 @@ As President of El Salvador, passed the Bitcoin Law (June 2021) making Bitcoin l
 
 ## Jack Mallers (1994–present)
 **Tier:** 3
-**Role:** Founder & CEO, Strike / Lightning Payments Pioneer
-**Active:** 2019–present
+**Role:** Founder & CEO, Strike / Co-Founder & CEO, Twenty One Capital
+**Active:** 2017–present
 
-Founded Strike, a Lightning-native payments application; announced El Salvador's Bitcoin Law adoption on the Bitcoin 2021 conference mainstage in Miami; and built Strike into an international Bitcoin payments platform. Strike provided documented infrastructure for Lightning payments deployed across El Salvador and has expanded into cross-border Bitcoin remittances with documented payment corridors between the U.S. and the Philippines, West Africa, and Latin America. Mallers has testified before Congress on Bitcoin payment infrastructure.
+Born April 9, 1994, in Chicago, into a three-generation Chicago finance family: his grandfather William J. Mallers Sr. was the youngest chairman of the Chicago Board of Trade, helped found the Chicago Board Options Exchange (CBOE) in 1973, and is in the Futures Industry Association Hall of Fame; his father William Mallers Jr. co-founded and ran major futures brokerages; and his mother organized Chicago Bitcoin meetups featuring Andreas Antonopoulos, who Mallers has cited as a formative influence. He attended St. John's University briefly, then dropped out to attend Starter School, a coding bootcamp in Chicago. His father purchased Bitcoin in August 2013; Mallers received his first BTC as a gift that year. Beginning in 2017, he built Zap, an open-source non-custodial Lightning desktop wallet (released January 26, 2018) and later Olympus, a fiat-to-Bitcoin Lightning on-ramp. In January 2020 he launched Strike (parent company: Zap Solutions, Inc.) — a Lightning-native payments app that settles in Bitcoin but presents users with their local fiat currency, requiring no Bitcoin custody on the user's side. Strike launched its public beta in July 2020. Mallers spent approximately three months advising the El Salvador government on Bitcoin infrastructure and, on June 5, 2021, announced El Salvador's Bitcoin Law from the stage of the Bitcoin 2021 conference in Miami; the law passed the Legislative Assembly June 9, 2021, and Bitcoin became legal tender on September 7, 2021. Strike provided payment infrastructure and advisory services for El Salvador; the government's own Chivo app was modeled on Strike's UX. At Bitcoin 2022 (April 2022), Strike announced simultaneous partnerships with Shopify (Lightning payments for merchants), NCR/Aloha (POS integration), and Blackhawk Network (gift card payments). Strike raised $80 million in a Series B in September 2022 led by Ten31, with participation from Washington University and University of Wyoming endowments and Susquehanna Investment Group. Send Globally, Strike's cross-border remittance product, launched in December 2022 with corridors to Nigeria, Kenya, and Ghana (via partner Bitnob) and expanded to the Philippines on January 31, 2023 (via partner Pouch.ph), using Lightning as the settlement layer with instant local-currency delivery. Strike received a BitLicense from the NYDFS in March 2026, opening the New York market. On April 23, 2025, Tether, SoftBank, and Cantor Fitzgerald announced Twenty One Capital, Inc. — a SPAC-based Bitcoin treasury company co-founded by Mallers, who serves as CEO; it launched with more than 42,000 BTC and began trading on the NYSE under ticker XXI on December 9, 2025, with over 43,500 BTC. In late April 2026, majority shareholder Tether proposed merging Twenty One Capital with Strike and Bitfinex mining operator Elektron Energy. JPMorgan Chase closed Mallers's personal and business accounts in 2024–2025 without specific explanation; Mallers publicly attributed it to competitive conflict with JPMorgan's own payment initiatives.
 
 **Sources:**
-- Jack Mallers / Strike Bitcoin 2021 Miami announcement (June 2021)
-- Strike documentation (strike.me)
-- El Salvador Bitcoin Law implementation coverage
+- Strike announcements: strike.me; jimmymow.medium.com (Zap, Olympus, Strike series)
+- BusinessWire, June 5, 2021 — El Salvador announcement
+- Fortune, September 27, 2022 — $80M Series B
+- BusinessWire, January 31, 2023 — Philippines Send Globally expansion
+- BusinessWire, April 23, 2025 — Twenty One Capital launch
+- BusinessWire, December 8, 2025 — XXI NYSE listing
+- CoinDesk, March 6, 2026 — Strike BitLicense
+- MarketsWiki / FIA Hall of Fame — William J. Mallers Sr.
 
 ---
 
@@ -5895,8 +5998,8 @@ An American physicist and neuroscientist who developed the Bitcoin Power Law the
 
 ---
 
-*Last updated: 2026-07-11*
-*Status: 359 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
+*Last updated: 2026-07-12*
+*Status: 372 entries. Tier 1 complete. Tier 2/3 stubs — expand as research progresses.*
 
 ---
 
