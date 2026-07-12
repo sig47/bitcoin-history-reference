@@ -155,7 +155,7 @@ and extends through the present.
 - [Bryan Bishop / kanzure](#bryan-bishop--kanzure-dates-unknown)
 - [BTC Isla](#btc-isla--isabella-santos-giha-founded-c-2022)
 - [BTC Prague](#btc-prague-2022present)
-- [Burak / @brqgoo](#burak--brqgoo--bitmatrix-dates-unknown)
+- [Burak Keceli / @brqgoo](#burak-keceli--brqgoo--bitmatrix-dates-unknown)
 - [Butterfly Labs](#butterfly-labs-founded-2012)
 
 **C**
@@ -1721,18 +1721,19 @@ Swiss Bitcoin and Lightning researcher at Blockstream who has been active since 
 
 ---
 
-## Burak / @brqgoo — Bitmatrix (dates unknown)
+## Burak Keceli / @brqgoo — Bitmatrix (dates unknown)
 **Tier:** 3
 **Role:** Developer / Lightning Network Exploit Actor / Ark Protocol Creator
 **Active:** 2022–present
 
-A developer associated with Bitmatrix who, on October 9, 2022, broadcast a valid but non-standard Bitcoin transaction — a 998-of-999 Tapscript multisig with 998 signatures in the witness field — that caused btcd nodes to reject valid blocks, crashing all Lightning Network Daemon (LND) nodes that depended on btcd. A second transaction followed containing 500,001 pushes exceeding btcd's hardcoded limit. The disruption prevented new Lightning channels from being opened across the network. Burak reportedly paid F2Pool approximately $700 to include the non-standard transaction in a block. The incident exposed a consensus divergence between btcd and Bitcoin Core and prompted urgent patching of LND. Christian Decker and others publicly condemned the action as a harmful stunt rather than responsible disclosure. In May 2023, Burak proposed the Ark protocol, a Bitcoin Layer 2 design using a service provider model to enable off-chain payments without requiring receivers to be online — a key limitation of the Lightning Network. See the Ark Protocol entry.
+A developer (widely identified as Turkish, though no primary source explicitly confirms nationality) associated with Bitmatrix, an open-source AMM and liquidity pool protocol built on the Liquid Network. On October 9, 2022, Keceli broadcast a valid but non-standard Bitcoin transaction — a 998-of-999 Tapscript multisig with 998 signatures in the witness field — that caused btcd nodes to reject valid blocks, crashing all Lightning Network Daemon (LND) nodes that depended on btcd for chain data. A second transaction followed containing 500,001 pushes exceeding btcd's hardcoded limit. The disruption prevented new Lightning channels from being opened across the network. Keceli paid F2Pool approximately $700 in fees to include the non-standard transaction in a block. Bitcoin Optech characterized the apparent motivation as demonstrating an edge case in taproot's design rather than an attack; the action was not a coordinated responsible disclosure — Keceli publicly posted "have fun" on X afterward — and both LND (v0.15.2-beta) and btcd (v0.23.2) were patched reactively. Christian Decker and others publicly condemned it. On May 22, 2023, Keceli posted the Ark protocol proposal to the bitcoin-dev mailing list, introducing a joinpool-style Layer 2 using an Ark Service Provider (ASP) as co-signer to issue virtual UTXOs (vTXOs), enabling off-chain payments without requiring receivers to be online. ARK Labs was formally launched June 4, 2024 under CEO Marco Argentieri; it raised a $2.5M pre-seed led by Tim Draper (August 2024) and a $5.2M seed led by Tether with participation from Ego Death Capital (March 2026). The Arkade platform entered public beta in October 2025. A separate independent Ark implementation called Bark, built by Steven Roose and Erik De Smedt at Second (second.tech) in Rust, launched on Bitcoin signet in March 2025 and went live on mainnet in June 2026. Keceli has also published proposals for Cube (a VM for trustless Bitcoin smart contracts) and Brollup (a Bitcoin rollup design). Cross-reference: Ark Protocol entry.
 
 **Sources:**
-- CoinDesk — "Rogue Actor Disrupts Lightning Network With a Single Transaction" (November 2022)
-- Bitcoin Magazine — LND bug analysis (2022)
-- Ark protocol proposal — Burak (May 2023)
-- Cross-reference: Christian Decker entry, Ark Protocol entry
+- Bitcoin Optech Newsletter #222 (October 19, 2022) — btcd/LND vulnerability
+- bitcoin-dev mailing list — Ark proposal, Burak Keceli (May 22, 2023)
+- ARK Labs blog (blog.arklabs.xyz) — funding rounds, Arkade milestones
+- Bitcoin Optech Topics: Ark — Bark signet and mainnet timeline
+- brqgoo.medium.com — Cube, Brollup publications
 
 ---
 
@@ -1893,14 +1894,15 @@ Developers who built Mutiny Wallet, the first browser-based non-custodial Lightn
 
 ## Shockwallet / Shocknet — Justin (dates unknown)
 **Tier:** 2
-**Role:** Developer / Lightning Wallet with Social Layer
-**Active:** Dates unknown–present
+**Role:** Developer / Lightning Wallet with Social Layer / Lightning.pub
+**Active:** 2019–present
 
-A Bitcoin Lightning wallet built by a developer known as Justin at Shocknet, notable for integrating peer-to-peer social and messaging features directly into a Lightning wallet. Shockwallet represented an early experiment in combining Bitcoin payments with decentralized social networking at the wallet layer, predating the rise of Nostr as the dominant protocol for decentralized social on Bitcoin. The project explored the question of whether a social layer could be built on top of Lightning without relying on centralized infrastructure, making it a documented predecessor to the social/payments convergence that later developed around Nostr and Lightning together.
+A Bitcoin developer known publicly only as Justin (@shocknet_justin) who built Shockwallet, a non-custodial Bitcoin Lightning wallet notable for integrating a decentralized peer-to-peer social layer directly at the wallet level. Shocknet was partnered with Fulgur Ventures as early as 2019. The original Shockwallet was built in React Native for Android using Gun.js — an open-source decentralized peer-to-peer graph database — as its social infrastructure, enabling end-to-end encrypted messaging, social personas and feeds, presence indication, and a companion web client (shock.pub) for interacting with user profiles via public key URLs. Additional features included torrent content streaming, LNURL support, keysend, multi-path payments, and LNURL-Auth. The original wallet repository was archived in April 2021 before a stable iOS release, and several companion projects (Lightning.Page, Wizard node installer) were archived in late 2022 coinciding with Nostr's rapid growth. Shocknet subsequently pivoted to Nostr as its social and communication layer: the current wallet (wallet2) uses Nostr for node connection and key management, and Lightning.pub — Shocknet's backend node management system — is explicitly Nostr-native. Justin also developed the CLINK protocol (Common Lightning Interface for Nostr Keys), an open standard for Nostr-based Lightning key management. The current Shockwallet (v0.0.30, July 2026) supports web, iOS, and Android and is backed by Fulgur Ventures, Wolf, and Ride Wave Ventures. The OLYMPUS LSP operated by Zeus Wallet is among the integrations supported by Lightning.pub. Cross-reference: Zeus Wallet / Evan Kaloudis entry.
 
 **Sources:**
-- Shocknet documentation and public writings
-- Public developer commentary and social media
+- github.com/shocknet — full repository history including archived wallet and wallet2
+- shockwallet.app — current investors, CLINK, Lightning.pub description
+- Fulgur Ventures portfolio listing (2019 partnership)
 
 ---
 
