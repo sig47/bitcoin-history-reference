@@ -4228,28 +4228,31 @@ Spoke at the Bitcoin Conference in Nashville (July 2024) pledging to make the U.
 
 ## Benjamin Lawsky (dates unknown)
 **Tier:** 3
-**Role:** Regulator / NYDFS Superintendent
+**Role:** Regulator / NYDFS Superintendent / BitLicense Architect
 **Active:** 2011–2015 (Bitcoin-relevant)
 
-Served as the first Superintendent of the New York Department of Financial Services (NYDFS) from 2011 to 2015 and is the architect of the BitLicense — New York's regulatory framework for businesses engaged in virtual currency activity, finalized in June 2015. The BitLicense was the first state-level comprehensive cryptocurrency regulatory regime in the United States and became one of the most contested regulatory actions in early Bitcoin history. Critics argued it imposed compliance costs that made operating in New York prohibitive for small Bitcoin businesses, leading several companies to exit the New York market rather than apply. Lawsky resigned from NYDFS shortly after the BitLicense's finalization to found a consulting firm advising financial institutions on regulatory compliance.
+An American lawyer and regulator who graduated from Columbia College and Columbia Law School, worked as a federal prosecutor, served as chief counsel to U.S. Senator Charles Schumer, and joined the New York Attorney General's office as deputy counselor under Andrew Cuomo. When Cuomo became governor he appointed Lawsky first Superintendent of the newly created New York Department of Financial Services (NYDFS) in 2011. Lawsky is the architect of the BitLicense — New York's regulatory framework for virtual currency businesses — published as a proposed rule in the New York State Register on July 23, 2014 and finalized in June 2015 after receiving more than 3,746 public comments across two comment periods. The BitLicense was the first state-level comprehensive cryptocurrency regulatory framework in the United States and became one of the most contested regulatory actions in early Bitcoin history. The requirement to identify both parties to every transaction at dollar zero — unprecedented for any financial product at the time — and a five-year data retention mandate drew the most criticism. Named companies that publicly exited the New York market rather than apply include ShapeShift, Kraken, Bitfinex, LocalBitcoins, Paxful, and several mining operators. Erik Voorhees called it a "moral issue" requiring "reckless" data collection; the Electronic Frontier Foundation filed comments in both rounds opposing its surveillance implications. As of March 2024, only 34 companies held a BitLicense or limited-purpose trust charter — a small fraction of pre-2015 New York Bitcoin businesses. Lawsky announced his departure from NYDFS in May 2015, shortly after the BitLicense's finalization, and founded the Lawsky Group, a strategic advisory firm; he later served as Global Head of Public Policy and Regulatory Affairs at NYDIG.
 
 **Sources:**
 - NYDFS BitLicense final rule (June 2015)
-- Lawsky's public statements and congressional testimony
-- Bitcoin industry responses to BitLicense proposal (2014–2015)
+- CoinDesk — "BitLicense Refugees: ShapeShift, Kraken Talk Escape from New York" (2018)
+- EFF — BitLicense comment filings (2014, 2015)
+- CoinDesk — "BitLicense at 5" (June 2020)
 
 ---
 
 ## Eric Trump (1984–present)
 **Tier:** 3
-**Role:** Entrepreneur / Bitcoin Mining Investor
+**Role:** Co-Founder & CSO, American Bitcoin Corp / Bitcoin Mining Executive
 **Active:** 2025–present (Bitcoin-relevant)
 
-Son of President Donald Trump and Executive Vice President of the Trump Organization. In 2025, Eric Trump became involved in American Bitcoin Corp., a majority-owned subsidiary of Hut 8 Corp focused on industrial-scale Bitcoin mining and strategic Bitcoin reserve development. His involvement represents a direct intersection of the Trump family brand with institutional Bitcoin mining.
+Son of President Donald Trump and Executive Vice President of the Trump Organization. On March 31, 2025, Eric Trump and Donald Trump Jr. co-founded American Bitcoin Corp alongside Hut 8, a Nasdaq-listed Bitcoin mining company (ticker: HUT); Hut 8 retained 80% equity with the Trump-affiliated investors holding 20%. Eric Trump serves as Chief Strategy Officer and Asher Genoot (Hut 8 CEO) as Executive Chairman. The company describes itself as a Bitcoin accumulation platform building industrial-scale mining infrastructure integrated with a strategic Bitcoin treasury. At launch it operated approximately 10 EH/s of hashrate, growing to approximately 24 EH/s by Q3 2025 and targeting 28+ EH/s in 2026. American Bitcoin's Bitcoin treasury grew from 3,865 BTC (October 2025) to approximately 6,889 BTC by March 2026 — at which point it surpassed Galaxy Digital in Bitcoin treasury rankings. In May 2025 American Bitcoin announced a merger with Gryphon Digital Mining; the company began trading on Nasdaq under ticker ABTC on September 3, 2025, with a debut valuation exceeding $5 billion. Eric and Donald Trump Jr.'s involvement in American Bitcoin Corp is distinct from World Liberty Financial — the DeFi project associated with Donald Trump Sr. — and from the $TRUMP and $MELANIA meme coins, representing one arm of the broader Trump family's Bitcoin-adjacent commercial activity. Cross-reference: Donald Trump entry.
 
 **Sources:**
-- American Bitcoin Corp. launch announcement (2025)
-- Hut 8 Corp public filings (NASDAQ: HUT)
+- Hut 8 / American Bitcoin Corp launch press release (GlobeNewswire, March 31, 2025)
+- American Bitcoin Nasdaq debut announcement (PR Newswire, September 3, 2025)
+- Fortune — "Trump-backed crypto firm American Bitcoin notches $5 billion valuation" (September 2025)
+- CoinDesk — American Bitcoin ABTC treasury coverage (March 2026)
 
 ---
 
