@@ -113,6 +113,7 @@ and extends through the present.
 - [Bitaxe / skot9000](#bitaxe--skot9000-dates-unknown)
 - [Ben Carman, Tony Giorgio & Paul Miller](#ben-carman-tony-giorgio--paul-miller--mutiny-wallet-dates-unknown)
 - [Benedictines of Mary, Queen of Apostles](#benedictines-of-mary-queen-of-apostles--bitcoin-funded-church-2017)
+- [Benjamin de Waal](#benjamin-de-waal-dates-unknown)
 - [Benjamin Lawsky](#benjamin-lawsky-dates-unknown)
 - [Biarritz Bitcoin / Surfin' Bitcoin](#biarritz-bitcoin--surfin-bitcoin--france-dates-unknown)
 - [Bill Tai](#bill-tai-dates-unknown)
@@ -149,6 +150,8 @@ and extends through the present.
 - [Blake Benthall / Defcon](#blake-benthall--defcon-dates-unknown)
 - [Blockstream](#blockstream--adam-back-greg-maxwell-pieter-wuille-mark-friedenbach-jorge-timón--team-founded-2014)
 - [Bobby Lee](#bobby-lee-dates-unknown)
+- [Bram Kanstein](#bram-kanstein-dates-unknown)
+- [Brandon Quittem](#brandon-quittem-dates-unknown)
 - [Breez](#breez--roy-sheinfeld-dates-unknown)
 - [Brian Armstrong](#brian-armstrong-1983present)
 - [Brian Dixon](#brian-dixon-dates-unknown)
@@ -158,6 +161,7 @@ and extends through the present.
 - [Bryan Bishop / kanzure](#bryan-bishop--kanzure-dates-unknown)
 - [BTC Isla](#btc-isla--isabella-santos-giha-founded-c-2022)
 - [BTC Prague](#btc-prague-2022present)
+- [btcd](#btcd--conformal-systems--lightning-labs-founded-2013)
 - [Burak Keceli / @brqgoo](#burak-keceli--brqgoo--bitmatrix-dates-unknown)
 - [Butterfly Labs](#butterfly-labs-founded-2012)
 
@@ -172,6 +176,7 @@ and extends through the present.
 - [Casey Rodarmor & Ordinals](#casey-rodarmor--ordinals-rodarmor-dates-unknown)
 - [Cash App Bitcoin](#cash-app-bitcoin--block-inc-launched-2018)
 - [Cathie Wood / ARK Invest](#cathie-wood--ark-invest-wood-1955present)
+- [Cedric Youngelman](#cedric-youngelman-dates-unknown)
 - [Central African Republic](#central-african-republic--bitcoin-adoption-2022)
 - [Chaincode Labs](#chaincode-labs-founded-2014)
 - [Changpeng Zhao / CZ](#changpeng-zhao--cz-1977present)
@@ -200,6 +205,7 @@ and extends through the present.
 - [Daniel Mross & Nicholas Mross](#daniel-mross--nicholas-mross--the-rise-and-rise-of-bitcoin-dates-unknown)
 - [Daniel Prince](#daniel-prince-dates-unknown)
 - [Danny Knowles](#danny-knowles-dates-unknown)
+- [DarthCoin](#darthcoin-pseudonym-active-2021present)
 - [David Bailey](#david-bailey-1990present)
 - [David Chaum](#david-chaum-1955present)
 - [*Deep Web*](#deep-web-2015--alex-winter)
@@ -275,6 +281,7 @@ and extends through the present.
 - [James O'Beirne](#james-obeirne-dates-unknown)
 - [Jameson Lopp](#jameson-lopp-1983present)
 - [Jason Lowery](#jason-lowery-dates-unknown)
+- [Jay Beddict](#jay-beddict-dates-unknown)
 - [Jed McCaleb](#jed-mccaleb-1975present)
 - [Jeff Berwick](#jeff-berwick-1970present)
 - [Jeff Booth](#jeff-booth-dates-unknown)
@@ -295,6 +302,7 @@ and extends through the present.
 - [John Newbery](#john-newbery-dates-unknown)
 - [John Perry Barlow](#john-perry-barlow-19472018)
 - [John Vallis](#john-vallis-dates-unknown)
+- [Jon Atack](#jon-atack-dates-unknown)
 - [Jonas Nick & A.J. Towns](#jonas-nick--aj-towns-dates-unknown)
 - [Jonathan Bier](#jonathan-bier-dates-unknown)
 - [Joseph Kelly](#joseph-kelly--unchained-dates-unknown)
@@ -314,6 +322,7 @@ and extends through the present.
 - [Lawrence Lepard](#lawrence-lepard-dates-unknown)
 - [Ledger](#ledger--éric-larchevêque--team-dates-unknown)
 - [Len Sassaman](#len-sassaman-19802011)
+- [Libbitcoin](#libbitcoin--amir-taaki--eric-voskuil-founded-2011)
 - [*Life on Bitcoin*](#life-on-bitcoin-2014--joseph-lebaron--travis-pitcher)
 - [Lightning Ventures](#lightning-ventures--mike-jarmuz-founded-2021)
 - [Lisa Neigut / niftynei & Bitcoin++](#lisa-neigut--niftynei--bitcoin-dates-unknown)
@@ -363,6 +372,7 @@ and extends through the present.
 - [Nathaniel Popper](#nathaniel-popper-dates-unknown)
 - [Nayib Bukele & El Salvador](#nayib-bukele--el-salvador-bukele-1981present)
 - [NewLibertyStandard](#newlibertystandard-identity-unknown)
+- [New York BitDevs](#new-york-bitdevs-founded-2013)
 - [Nic Carter](#nic-carter-dates-unknown)
 - [Nick Neuman](#nick-neuman--casa-dates-unknown)
 - [Nick Spanos](#nick-spanos-dates-unknown)
@@ -1238,6 +1248,23 @@ A grassroots Bitcoin developer education initiative founded in January 2023 by I
 
 ---
 
+## New York BitDevs (founded 2013)
+**Tier:** 2
+**Role:** Bitcoin Developer Meetup / Community Organization
+**Active:** 2013–present
+
+The original and founding chapter of the global BitDevs network, established in New York City with its first Socratic Seminar on August 7, 2013 — the first documented Bitcoin technical meetup of its kind. The Socratic Seminar format, applied to Bitcoin development, has become the standard structure for BitDevs chapters worldwide: a moderator curates 20–30 topics monthly from Bitcoin Core pull requests, Lightning Network repositories, research papers, technical blog posts, and network monitors, with discussion driven by attendees. Sessions are never recorded, a deliberate policy that encourages open technical debate. In addition to monthly Socratic Seminars, BitDevs NYC has run a Whitepaper Series (journal club) and a Debate Series. The format spread organically to other cities beginning around 2018 — Alex Leishman introduced it to SF Bitcoin Devs (first Socratic Seminar: July 2018), and Michael Folkson brought it to London Bitcoin Devs (first Socratic Seminar: May 2019). As of 2024–2026, the bitdevs.org/cities directory lists over 48 chapters across North America, South America, Europe, Australia, Asia, and Africa. BitDevs NYC holds no trademark or administrative control over other chapters; the name and format are open for any group to adopt. The group is identified online as @BitDevsNYC on X and maintains an archive at github.com/BitDevsNYC. Chaincode Labs has served as the long-running primary sponsor and venue host, providing space at 450 Lexington Avenue, Midtown Manhattan; earlier events were held at Galvanize (315 Hudson Street). Meetup group membership stood at approximately 5,673 members and Seminar 160 (July 2025) was the 160th documented event. Notable documented seminars include Seminar 71 (August 2017, SegWit Activation Party), Seminar 78 (March 2018, MimbleWimble/Grin and bulletproofs), and Seminar 120 (January 2023, OP_VAULT and watchtowers). John Newbery served as a co-organizer beginning approximately 2018; Bob McElrath co-organized the Whitepaper Wednesday series. The identity of the original 2013 founder, referred to in documented sources only as "J" or "Jay," has not been publicly confirmed.
+
+**Sources:**
+- bitdevs.org and bitdevs.org/cities — event archive and chapter directory
+- github.com/BitDevsNYC — public repository and event records
+- Stephan Livera Podcast SLP136 (December 2019) — Alex Leishman on BitDevs format and SF adoption
+- Michael Folkson (Bitcoin Magazine, 2019) — on founding London Bitcoin Devs
+- meetup.com/bitdevsnyc — event and membership records
+- Individual seminar pages (Seminars 71, 78, 120, 160)
+
+---
+
 ### Bitcoin Core — Contributors
 
 ## Matt Corallo (dates unknown)
@@ -1464,16 +1491,20 @@ German Bitcoin Core contributor who has specialized in p2p networking improvemen
 
 ## Murch / Mark Erhardt (dates unknown)
 **Tier:** 2
-**Role:** Bitcoin Core Developer / Researcher
-**Active:** 2015–present
+**Role:** Bitcoin Core Developer / Coin Selection Researcher / BIP Editor
+**Active:** 2013–present
 
-A Bitcoin Core developer specializing in wallet optimization, coin selection, and UTXO management. Erhardt wrote his Master's thesis on coin selection algorithms, work that was subsequently merged into Bitcoin Core. He has worked at BitGo and Chaincode Labs, and co-founded Localhost Research alongside Ava Chow and Jay Berg, an organization funding Bitcoin Core developers. In 2023, he and Gloria Zhao co-authored "Waiting for Confirmation," a widely read educational series on transaction relay, mempool policy, and mining transaction selection. He is a prolific contributor to Bitcoin Stack Exchange and a recognized voice on Bitcoin wallet architecture and protocol research.
+A German computer scientist based in the San Francisco Bay Area, known universally in the Bitcoin ecosystem by the handle Murch (GitHub: murchandamus). Erhardt first read the Bitcoin whitepaper around 2011–2012 and created his GitHub account on April 4, 2013. His master's thesis, "An Evaluation of Coin Selection Strategies" (2016), proposed the Branch and Bound (BnB) algorithm — a systematic search for exact-match input sets that eliminate the need for a change output, reducing transaction fees and UTXO set growth. The algorithm was implemented in Bitcoin Core by Andrew Chow as PR #10637, merged in March 2018, and remains the first-choice coin selection algorithm in Bitcoin Core's wallet. He subsequently developed the Waste Metric (published May 6, 2022), a scoring heuristic that compares input sets across multiple coin selection strategies based on current versus long-term feerate and change output cost, enabling the wallet to prefer consolidation at low feerates and minimize inputs at high feerates. He worked at BitGo for over three years applying coin selection research to enterprise wallets, then joined Chaincode Labs as a Research Engineer, where he co-hosted the Chaincode Podcast and NY BitDevs, and co-authored block building research with postdoc researcher Clara Shikhelman. He co-founded Localhost Research with Ava Chow and Jay Berg — announced at TABConf 6 in October 2024, incorporated as a Silicon Valley non-profit employing five to six Bitcoin Core developers — stepping into his full-time Lead Contributor role in January 2025; founding donors include Wences Casares and Mark Casey, with Matt Corallo on the board. In April 2024 he was appointed one of five new BIP editors alongside Bryan Bishop, Ruben Somsen, Olaoluwa Osuntokun, and Jon Atack, ending a years-long bottleneck caused by Luke Dashjr as sole editor; Murch subsequently accounted for 38 BIP merges in 2025 alone and spent over 210 hours drafting BIP 3, the first overhaul of the BIP process since BIP 2 was adopted in 2016. He co-authored the ten-part "Waiting for Confirmation" educational series with Gloria Zhao in Bitcoin Optech newsletters (May 17 – July 19, 2023), covering mempool policy, fee estimation, UTXO concerns, Layer 2 relay dependencies, and proposals including cluster mempool and package relay. He is a moderator and one of the most prolific contributors on Bitcoin Stack Exchange (approximately 1,900 posts and over 8,300 edits). He is a primary recurring co-host on the weekly Bitcoin Optech Recap Podcast and has appeared on the Stephan Livera Podcast (SLP177, May 2020) and German-language Blocktrainer Bitcoin Podcast. He presented coin selection research at Scaling Bitcoin Milan (October 9, 2016) and has spoken at TABConf, Mempool Summit (Nashville 2023), BTC Azores, and Bitcoin Research Day (Chaincode Labs, October 2023). He maintains transactionfee.info (Bitcoin protocol layer statistics), a Bitcoin Transaction Size Calculator, and coin selection simulation tooling. Cross-reference: Chaincode Labs, Localhost Research, BIPs, Gloria Zhao.
 
 **Sources:**
-- Chaincode Labs
-- Bitcoin Core GitHub contribution history
-- "Waiting for Confirmation" series (2023) — Mark Erhardt & Gloria Zhao
-- Bitcoin Stack Exchange
+- github.com/murchandamus — profile, repositories, contribution history
+- murch.one — personal blog including waste metric post (May 6, 2022) and thesis PDF
+- Bitcoin Core PR #10637 — Branch and Bound coin selection (merged March 2018)
+- Scaling Bitcoin Milan 2016 — coin selection presentation transcript
+- Bitcoin Optech — "Waiting for Confirmation" series (May–July 2023); Newsletter #296 (BIP editor appointment, April 2024)
+- lclhost.org — Localhost Research about page and transparency reports
+- Stephan Livera Podcast SLP177 (May 28, 2020)
+- Chaincode Podcast — block building episode with Clara (January 31, 2022)
 
 ---
 
@@ -1883,6 +1914,43 @@ A Swedish developer based in Stockholm who began building Blixt Wallet in April 
 
 ---
 
+## Bram Kanstein (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Podcaster / Educator / Entrepreneur
+**Active:** 2023–present (Bitcoin-relevant)
+
+A Dutch entrepreneur, product builder, and Bitcoin educator based in the Netherlands. Kanstein built a career in the startup ecosystem — including roles at The Next Web, Product Hunt, and as a startup strategy consultant — before Bitcoin became his primary focus. In 2015 he launched Startup Stash, a curated directory of startup tools that reached the number one most-upvoted product of all time on Product Hunt (21,000+ upvotes) and 1 million users; he sold it in 2017. He subsequently built and sold four additional products: StartupWatching (newsletter, sold May 2018), Road to Scale (sold circa 2019–2020 to a Silicon Valley VC), My Pitch Deck (sold 2022 via Acquire.com), and Start with Magic (sold 2022). In December 2019 he launched No-Code MVP, a course teaching non-technical founders to build products without code, which reached over 1,000 students and approximately €130,000 in revenue before he made it free in January 2024 as he pivoted fully to Bitcoin. Kanstein first purchased Bitcoin around 2014 (reportedly between 100 and 300 BTC) and sold the position at $4,000; he returned to Bitcoin study after a colleague explained fractional reserve banking while he was working at a major bank around 2017, subsequently spending an estimated 3,000 hours studying monetary history before launching *Bitcoin for Millennials*, a podcast and education platform focused on the failures of the fiat monetary system and the case for Bitcoin. The show launched approximately 2023, had published over 216 episodes by mid-2025, and reported over 2 million listens; Kanstein has been a guest on TFTC (Episode 622, May 2025), What is Money? (WiM526, October 2024), and The Bitcoin Matrix (EP274). He has also built startwithbitcoin.com, an open-source TypeScript/Next.js project enabling AI agents to use Bitcoin via the Lightning Network and Nostr Wallet Connect for identity, payments, and encrypted communication. He spoke on a Nostr and AI panel at BTC Prague 2026 alongside Jeff Booth. His newsletter has over 15,000 readers. X handle: @bramk.
+
+**Sources:**
+- kanstein.co — personal site and project history
+- Bitcoin for Millennials — bitcoinformillennials.com; Apple Podcasts ID 1705737112
+- TFTC Episode 622 (May 21, 2025)
+- What is Money? WiM526 — "Bitcoin and the Spiritual Crime of Fiat Money" (October 29, 2024)
+- Indie Hackers AMA — Startup Stash and exits history
+- Medium / Startup Grind — Product Hunt launch story
+- github.com/bramkanstein/startwithbitcoin
+- BTC Prague 2026 speaker page
+
+---
+
+## Brandon Quittem (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Writer / Essayist / Communications, Swan Bitcoin
+**Active:** 2018–present
+
+An American Bitcoin writer, speaker, and entrepreneur best known for "Bitcoin is The Mycelium of Money," a four-part essay series drawing an extended analogy between Bitcoin and the fungi kingdom. Quittem grew up near Minneapolis, Minnesota, earned a B.S. in Sales, Marketing, and Entrepreneurship from the University of Minnesota (2006–2010), and spent approximately two years at Oracle in enterprise software sales before leaving to travel the world as a digital nomad for approximately five years, building location-independent businesses including TheYogaNomads.com (sold 2021). He began writing online in 2013 and discovered Bitcoin around 2017–2018. He joined Swan Bitcoin as employee #4 around 2019, holding successive roles including Head of Marketing, Communications Director, VP of Revenue, and VP of Operations and Client Success. The mycelium essay series was published in four parts on Medium: Part 1 ("Bitcoin is a Decentralized Organism") on December 11, 2018; Part 2 ("Bitcoin is a Social Creature") on December 28, 2018; Part 3 ("Bitcoin is the Antivirus") on June 20, 2019; and Part 4 ("Bitcoin is a Catalyst for Human Evolution") on April 24, 2020. The combined essay has been translated into at least six languages (Czech, Russian, Norwegian, Spanish, Greek, and Thai) and reached over 2 million readers. Its central argument draws a structural parallel between Bitcoin and mycelium — the underground fungal network Paul Stamets described as "earth's natural internet" — both operating as leaderless distributed networks capable of routing information without a central brain. Quittem presented the essay at the Bitcoin 2019 Conference in San Francisco on June 26, 2019, and delivered a keynote at the Pacific Bitcoin Festival in November 2023. A second major essay, "Bitcoin and the Rhythms of History" (circa October 2020), applies Strauss-Howe generational theory to Bitcoin's emergence during what he frames as a Fourth Turning crisis period beginning in 2008; this work led to an appearance on Swan Signal Live in September 2023 alongside Neil Howe, co-author of *The Fourth Turning*. A third essay, "Bitcoin is a Pioneer Species" (published in Bitcoin Times Edition 4, 2021; web-published January 5, 2022), applies ecological succession theory to Bitcoin mining's role in monetizing stranded energy. He has appeared on What Bitcoin Did (WBD282, WBD433, WBD591, WBD953), What is Money? with Robert Breedlove (July 2024), We Study Billionaires with Preston Pysh (July 2023), and The Psychedelic Salon (July 2020), among over 40 podcast appearances. He also serves as an advisor to Sazmining. X handle: @Bquittem.
+
+**Sources:**
+- brandonquittem.com — personal site, essays, and media page
+- Medium (@BrandonQuittem) — original essay publication dates
+- Swan Bitcoin — swanbitcoin.com/canon/bitcoin-is-a-living-organism/
+- Bitcoin 2019 Conference talk — YouTube (June 26, 2019)
+- Pacific Bitcoin 2023 keynote — YouTube
+- What Bitcoin Did WBD282, WBD591, WBD953
+- We Study Billionaires / The Investor's Podcast (July 5, 2023)
+
+---
+
 ## Breez — Roy Sheinfeld (dates unknown)
 **Tier:** 2
 **Role:** Lightning Wallet Developer / LSP Pioneer / Bitcoin Infrastructure
@@ -2178,6 +2246,22 @@ French developer who acquired Mt. Gox from Jed McCaleb in 2011 and ran it until 
 - *Digital Gold* — Nathaniel Popper
 - Karpelès trial records (Japan, 2017–2019)
 - Mt. Gox creditor claim documentation
+
+---
+
+## Jay Beddict
+**Tier:** 3
+**Role:** Researcher / Mining Industry Analyst
+**Active:** 2021–present
+
+Head of Research at Foundry Digital (a DCG subsidiary based in Rochester, New York), where he has served since August 2021, becoming VP of Research in August 2022. A consistent advocate for Stratum V2 (Sv2) adoption and a critic of FPPS payout models in Bitcoin mining. In August 2022, Foundry donated 1 BTC to developer "4ss0" for work on the Sv2 Job Negotiation Protocol; Foundry had previously granted 1 BTC to mempool.space in August 2021. Founded the Bitcoin Mining Development Mailing List on August 26, 2024, to facilitate technical coordination among mining protocol developers. Appeared at Bitcoin 2021 and 2022 in Miami, MIT Bitcoin Expo 2022, the Nashville Energy & Mining Summit (January 2023), and the OP_NEXT conference (November 2024), where he participated in a fireside chat on CTV (CheckTemplateVerify). Listed as a reviewer on the Bitcoin Custody Assurance Protocol (BCAP) paper alongside Jameson Lopp, David Harding, Matt Odell, Murch, AJ Towns, and Pierre Rochard. Contributed to the Cambridge Digital Mining Industry Report (2025).
+
+**Sources:**
+- Foundry Digital staff records and announcements
+- Bitcoin Mining Development Mailing List founding post (August 26, 2024)
+- Cambridge Digital Mining Industry Report (2025)
+- OP_NEXT conference proceedings (November 2024)
+- BCAP reviewer credits
 
 ---
 
@@ -3052,6 +3136,23 @@ Bitcoin-only financial services company founded in 2019 by Alex Leishman, who ho
 
 ---
 
+## DarthCoin (pseudonym, active 2021–present)
+**Tier:** 2
+**Role:** Bitcoin / Lightning Network Educator / Guide Author
+**Active:** 2021–present (public; Bitcoin since 2012)
+
+A pseudonymous Bitcoin educator and maximalist who has produced one of the largest freely available bodies of practical Lightning Network educational content in the ecosystem. No legal name is publicly known. By self-disclosure, DarthCoin was born in 1971, spent approximately 20 years under a communist regime in Eastern Europe, emigrated westward around age 30, and built a career in financial services and freelance IT consulting before relocating from an urban to a rural setting to pursue homesteading and Bitcoin education full-time. He encountered Bitcoin in 2012 through a friend, describes reading Satoshi's whitepaper and the Cypherpunk Manifesto as an epiphany, claims to have never sold satoshis for fiat, and reports living entirely on Bitcoin and having personally onboarded over 400 users. His primary publication platform is darth-coin.github.io (migrated from Substack in January 2025; the Substack accumulated over 4,000 subscribers). He maintains an active presence on Stacker News (@DarthCoin; one of its earliest members, with over 36,000 items posted and daily participation offering technical support to newcomers), a Telegram channel (@btcguides, 1,400+ members), and Nostr; he explicitly avoids Twitter/X and Facebook. His guide library — spanning over 60 active guides translated into nine languages (English, Spanish, Portuguese, German, French, Italian, Dutch, Croatian, and Hindi) — covers Lightning wallet comparisons (using an A/B/C/D tiered expertise model across wallets including Zeus, Blixt, Phoenix, Breez, Alby, and others), node operation and liquidity management, merchant onboarding with LNbits, submarine swaps, privacy on Lightning, and emergency node recovery. Recurring frameworks include a three-tier stash model (HODL / CACHE / SPEND) and the "Lightning Cleaning Machine" — a guide using Lightning's onion routing to break on-chain traceability for privacy. He has contributed to official documentation for Blixt Wallet and Zeus, and maintains printable Bitcoin onboarding flyers (the BTC-flyers repository) in multiple languages. He has appeared on the Moneydelics Podcast, the Portuguese-language A Seita Bitcoin (#37), and Spanish-language Lunaticoin (episodes D98, L154, L248). His philosophical stance positions Bitcoin as the technological realization of Natural Law principles — non-harm, non-coercion — and frames mass education as a prerequisite for hyperbitcoinization.
+
+**Sources:**
+- darth-coin.github.io — primary guide site and About page
+- darthcoin.substack.com — archive (4,000+ subscribers)
+- stacker.news/DarthCoin — profile and post history
+- github.com/Darth-Coin — repositories including BTC-flyers and documentation forks
+- t.me/btcguides — Telegram channel
+- Simply Bitcoin newsletter — biographical piece ("How Bitcoin Will Change Your Life")
+
+---
+
 ## David Bailey (1990–present)
 **Tier:** 3
 **Role:** CEO, BTC Inc / Bitcoin Magazine
@@ -3569,6 +3670,26 @@ Canadian host of the *Bitcoin Rapid-Fire* podcast, known for long-form, philosop
 
 ---
 
+## Jon Atack (dates unknown)
+**Tier:** 2
+**Role:** Bitcoin Core Developer / BIPs Editor / P2P Privacy Contributor
+**Active:** 2019–present
+
+An American Bitcoin Core developer who grew up programming in BASIC from age 9 and wrote professional games for Atari and Commodore computers in 6502 assembly language from approximately ages 12–17. He studied computer science and physics at Harvey Mudd College and earned an international MBA from INSEAD; he subsequently spent most of his adult life abroad in France, Germany, Russia, and Southeast Asia, working as a freelance software developer and CTO consultant for multinationals. He became lead maintainer of Ransack, a major Ruby database search engine, and was a top-100 contributor to Ruby on Rails out of approximately 6,000–7,000 total contributors; he also co-edited the "This Week in Rails" newsletter and spent two years as a marketing brand manager at L'Oréal's Paris headquarters. He began following Bitcoin in 2016 and applied to the Chaincode Labs residency in late February 2019, beginning contributions to Bitcoin Core within two weeks in March 2019 and joining the developer team by November 2019. He received a Spiral (then Square Crypto) grant in March 2020 and an $80,000 one-year sponsorship from Compass Mining through the Human Rights Foundation's Bitcoin Development Fund in August 2021. His primary technical focus is the P2P networking layer with an emphasis on privacy: key contributions include PR #20197 (protecting onion peers in eviction logic), PR #21261 (ratio-based inbound eviction protection extended to I2P with full test coverage), and PR #29200 (I2P session creation updated to support ECIES-X25519 in addition to ElGamal, preferring the faster modern scheme). He has hosted Bitcoin Core PR Review Club sessions and authored widely-referenced guides including "How to Review Pull Requests in Bitcoin Core." In November 2022 he attended the Adopting Bitcoin conference in San Salvador, extended a planned six-week stay to six months, and became a permanent resident of El Salvador. In 2024 he was appointed a BIPs (Bitcoin Improvement Proposals) editor and maintainer; that year he also received a Long-Term Support grant from OpenSats (announced September 26, 2024) and a $100,000 grant from Maelstrom, the family office of Arthur Hayes, as the second recipient of the Maelstrom Bitcoin Grant Program. He has been building a Bitcoin Developers House in the Tamanique mountains of El Salvador, described as an R&D center in support of the Bitcoin Office's Cubo+ developer training program. On March 23, 2026, he appeared on The Bitcoin Infinity Show (Episode 195, "Bitcoin Core From the Inside"), discussing developer selection processes at Chaincode Labs, social dynamics within the Bitcoin Core contributor community, and the OP_RETURN controversy. On June 29, 2026, he posted a public advisory on X recommending that users pause transactions during the second week of August 2026 due to reorg risk around BIP-110's activation window. In early July 2025 he was briefly detained in El Salvador following a neighbor's accusation under the 2012 LEIV law stemming from a property dispute; he was held for approximately one hour, released without charge, and described the officers as professional. Cross-reference: Chaincode Labs, Spiral, Human Rights Foundation, OpenSats.
+
+**Sources:**
+- jonatack.github.io — personal site, articles, and PR guides
+- Stephan Livera Podcast SLP124 — Jon Atack (November 13, 2019)
+- OpenSats — Jon Atack LTS Grant announcement (September 26, 2024)
+- Bitcoin Magazine — Maelstrom Bitcoin Grant Program (2024)
+- CoinDesk — Compass Mining / HRF $80,000 sponsorship (August 2021)
+- The Bitcoin Infinity Show Episode 195 — "Bitcoin Core From the Inside" (March 23, 2026)
+- CoinDesk — Jon Atack briefly detained in El Salvador (July 7, 2025)
+- Bitcoin Core PRs #20197, #21261, #29200 — github.com/bitcoin/bitcoin
+- Build in El Salvador Substack — Jon Atack profile
+
+---
+
 ## Aleksandar Svetski (dates unknown)
 **Tier:** 3
 **Role:** Bitcoin Author / Podcaster / Publisher
@@ -3891,6 +4012,23 @@ Travels the world producing video documentation of Bitcoin circular economies �
 
 ---
 
+## Cedric Youngelman (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Podcaster / Educator / Consultant
+**Active:** 2020–present
+
+A Bitcoin podcaster, educator, and consultant based in Sarasota, Florida, with a professional background spanning corporate finance, accounting, and the entertainment industry. Youngelman spent over 20 years in financial services and corporate finance consulting — with work in finance transformation and financial reporting — and was an approved CPA candidate; he also attended film school and worked in production accounting for television before returning to finance work and eventually pivoting to Bitcoin full-time. He launched *The Bitcoin Matrix* podcast on October 5, 2020, with a philosophically oriented format covering Bitcoin's social, cultural, economic, and philosophical dimensions rather than price or trading. The show is weekly, averaging approximately 91 minutes per episode; by mid-2026 it had published approximately 284 episodes and placed in the top 1.5% of all podcasts globally by listen score, with an audience that is approximately 88% US-based. Notable guests include Michael Saylor, Lyn Alden, Saifedean Ammous, Jeff Booth, Preston Pysh, Samson Mow, Matt Odell, Lawrence Lepard, and Tomer Strolight, who has appeared nine or more times. Youngelman is also CEO of Wild Horses Mining, a solo Bitcoin mining operation, and describes himself as an advisor to early-stage and high-growth companies. He has spoken at the Canadian Bitcoin Conference (2024) and BitcoinDay, and appeared as a guest on the High Hash Rate Podcast (HHR088, March 2024). His X handle is @CedYoungelman.
+
+**Sources:**
+- thebitcoinmatrix.com
+- Listen Notes — The Bitcoin Matrix podcast profile
+- Apple Podcasts ID 1534519469
+- Canadian Bitcoin Conference 2024 speaker page
+- BitcoinDay speaker profile (bitcoinday.io/cedric-youngelman)
+- High Hash Rate Podcast HHR088 (March 26, 2024)
+
+---
+
 ## Central African Republic — Bitcoin Adoption (2022)
 **Tier:** 3
 **Role:** Second Nation to Adopt Bitcoin as Legal Tender
@@ -3976,6 +4114,25 @@ An annual Bitcoin-only conference held in Prague, Czech Republic, established as
 **Sources:**
 - btcprague.com
 - Conference speaker archives and coverage (2022–present)
+
+---
+
+## btcd — Conformal Systems / Lightning Labs (founded 2013)
+**Tier:** 2
+**Role:** Bitcoin Full Node / Go Protocol Reimplementation / LND Chain Backend
+**Active:** 2013–present
+
+A full-node Bitcoin implementation written in Go — a clean-room reimplementation of Bitcoin's consensus rules and peer-to-peer protocol, not a port of Bitcoin Core's C++ codebase. Development began at Conformal Systems, LLC in January 2013 when engineer David Hill attempted to port bitcoind to the Bitrig operating system and found the C++ codebase unsuitable; the team chose Go for its integrated testing, memory safety, standard formatting, and parallelism support. Dave Collins (davecgh) was the principal author; first commits were made in January 2013 and the project was publicly announced by Conformal CEO Jake Yocom-Piatt on May 1, 2013. Component packages were released in sequence through mid-2013 (btcwire, btcjson, btcdb, btcchain), btcd entered production on mainnet at Conformal's Coinvoice servers by October 2013, and the official beta (v0.8.0) was released May 24, 2014. A core design decision separated btcd from Bitcoin Core: it includes no wallet functionality, treating chain validation and key management as distinct concerns. Conformal Systems subsequently rebranded as Company 0 (C0), and the team — Yocom-Piatt, Collins, Josh Rickmar (jrick), and David Hill — pivoted primary focus to Decred, a proof-of-work/proof-of-stake hybrid blockchain forked from the btcd codebase, which launched on mainnet in February 2016. Stewardship of btcd passed to the btcsuite GitHub organization and in practice to Lightning Labs, whose CTO Olaoluwa Osuntokun (roasbeef) became the dominant maintainer; all major releases since have been authored by Lightning Labs engineers including Elle Mouton (ellemouton) and Oliver Gugger (guggero). LND uses btcd as one of three pluggable chain backends (alongside bitcoind and Neutrino); btcd's modular packages — btcec (ECDSA/Schnorr cryptography), btcscript, btcwire — are used across the Go Bitcoin ecosystem regardless of whether a full btcd node is deployed. Andreas Antonopoulos featured btcd's Bitcoin Explorer (bx) command-line tool prominently in *Mastering Bitcoin* (O'Reilly, 2014 and 2017). The project experienced two significant security incidents in late 2022, both exploited by developer Burak Keceli (@brqgoo): on October 9, 2022 Keceli broadcast a 998-of-999 tapscript multisig transaction that btcd's wire layer incorrectly rejected — due to a SegWit v0-era witness size check that should not have applied under Taproot — crashing all LND nodes using btcd as their chain backend and preventing new channel opens for several hours (CVE-2022-44797; patched in btcd v0.23.2 and LND v0.15.2-beta within approximately three hours); on November 1, 2022 Keceli exploited a separate hardcoded witness item limit (maxWitnessItemsPerInput = 500,000) using a P2TR OP_SUCCESSx transaction with 500,001 empty pushes, paying F2Pool approximately $700 in fees to include the non-standard transaction, with the message "You'll run CLN and you'll be happy" embedded in the transaction (patched in v0.23.3 the same day by Gugger). Two additional consensus-critical bugs were subsequently disclosed: CVE-2024-34478 (discovered via differential fuzzing by dergoegge; btcd treated transaction version as signed rather than unsigned in BIP 68/112 evaluation, enabling chain splits; fixed in v0.24.0, December 31, 2023) and CVE-2024-38365 (discovered by Niklas Gögge and Antoine Poinsot; btcd's FindAndDelete equivalent removed any push containing a signature as a substring rather than exact matches, enabling forged P2SH validation; introduced in 2014, fixed in v0.24.2, June 25, 2024; CVSS 8.3). Version 0.24.0 also reduced initial block download time from approximately 45 hours to approximately 6 hours. Version 0.25.0 (November 2024) added BIP 324 v2 encrypted transport and Testnet4 support. Version 0.26.0 (June 18, 2026) added headers-first IBD. The project describes itself as Beta status. Cross-reference: Burak Keceli / @brqgoo, LND / Lightning Labs, Decred.
+
+**Sources:**
+- github.com/btcsuite/btcd — repository, releases, contributor data
+- blog.conformal.com — "btcd: a bitcoind alternative written in Go" (May 1, 2013); "btcd: Not your mom's Bitcoin daemon" (October 3, 2013)
+- conformal.com — btcd beta announcement (May 24, 2014)
+- docs.decred.org — project history (Conformal / Company 0 / btcsuite lineage)
+- Bitcoin Optech Newsletter #222 (October 19, 2022) — CVE-2022-44797 incident
+- Delving Bitcoin — CVE-2024-34478 disclosure (January 22, 2024)
+- Delving Bitcoin — CVE-2024-38365 disclosure (September 20, 2024)
+- NVD: CVE-2022-44797, CVE-2024-34478, CVE-2024-38365
 
 ---
 
@@ -4467,6 +4624,26 @@ Spoke at the Bitcoin Conference in Nashville (July 2024) pledging to make the U.
 - Executive Order on Digital Assets / Strategic Bitcoin Reserve (January 2025)
 - Trump pardon of Ross Ulbricht (January 2025)
 - Trump campaign crypto policy platform (2024)
+
+---
+
+## Benjamin de Waal (dates unknown)
+**Tier:** 3
+**Role:** Bitcoin Educator / Consultant / CTO, Musqet
+**Active:** 2018–present (Bitcoin-relevant full-time)
+
+A British-Dutch Bitcoin educator, consultant, and engineer who has described himself as an anarchist since the 1990s and a Bitcoiner since 2010 — the year he first mined Bitcoin. He began programming in BASIC as a child and wrote professional games for Atari and Commodore computers in 6502 assembly language from approximately ages 12 to 17. He holds approximately 25 years of software development and engineering management experience across multiple industries, including a period as Technology Development Manager at Konica Minolta, and spent two years studying Bitcoin's economics and technology from 2013 before leaving traditional employment in 2018 to work full-time in Bitcoin. His first Bitcoin-industry roles were as Head of Technology Development at CoinBau, a Germany-based Bitcoin mining hardware manufacturer that later went bankrupt, and as Head of Software Development at Northern Bitcoin AG (subsequently rebranded as Northern Data AG), a European mining and HPC company. He subsequently served as Senior Engineering Manager at Lightning Labs and as Vice President of Engineering at Swan Bitcoin. In mid-2020 he founded Bitcoiner Consulting as a sole trader in Germany, offering technical and business development consulting to individuals and enterprises; in 2025 he relocated to the United Kingdom and incorporated Bitcoiner Consulting Ltd in England and Wales. He has been living on a Bitcoin standard — using Bitcoin as his primary medium of exchange — since 2017 and attempted to sue the German tax office to force recognition of Bitcoin as a foreign currency while based there. He is currently CTO of Musqet Limited, a London-based merchant payments infrastructure company integrating Bitcoin (via BTCPay Server) alongside traditional card payments; Musqet closed a £750,000 seed round in September 2024 led by Axiom Ventures, with Allen Farrington on the board. His daughter Samantha de Waal, born at block height 117,523 (2011), gave a keynote at BTC Prague 2023 titled "Born with Bitcoin" at age 12, and has spoken at multiple Adopting Bitcoin conferences. De Waal has appeared on What Bitcoin Did (WBD547, August 2022), the Bitcoin Magazine Podcast ("The Rules of Anarchy," September 2022), and the Bitcoin Takeover Podcast (S12E6, November 2022); he spoke at Adopting Bitcoin El Salvador 2022 and 2023, Adopting Bitcoin Arnhem 2024, BTC Prague 2023 and 2026, and Adopting Bitcoin Cape Town 2026. In April 2026 he published a detailed technical writeup on X/Medium after being targeted by social-engineering malware disguised as a podcast invitation, reverse-engineering the macOS stealer and documenting its behavior for the Bitcoin community. Cross-reference: Lightning Labs, Swan Bitcoin, Northern Data.
+
+**Sources:**
+- bitcoinerconsulting.com — About page
+- musqet.com — About page; Axiom Ventures portfolio listing
+- What Bitcoin Did WBD547 — "Bitcoin for Libertarian Socialists with Ben de Waal" (August 2022)
+- Bitcoin Magazine Podcast — "The Rules of Anarchy w/ Ben de Waal" (September 27, 2022)
+- Bitcoin Takeover Podcast S12E6 (November 3, 2022)
+- BTC Prague speaker profile (btcprague.com/speakers/benjamin-de-waal/)
+- Adopting Bitcoin Arnhem 2024 — pretalx.com talk page
+- Forbes — "How Bitcoin Payment Solutions with BTCPay Server and Musqet Boost Sales" (July 18, 2024)
+- Medium (@yttriumox) — malware reverse-engineering writeup (April 1, 2026)
 
 ---
 
@@ -5768,6 +5945,26 @@ An American business executive and philanthropist best known outside Bitcoin cir
 - *Our Biggest Fight* — Frank H. McCourt Jr. & Michael J. Casey (2024)
 - Project Liberty documentation (projectliberty.io)
 - McCourt Global (mccourt.com)
+
+---
+
+## Libbitcoin — Amir Taaki & Eric Voskuil (founded 2011)
+**Tier:** 2
+**Role:** Bitcoin Protocol Reimplementation / C++ Developer Toolkit
+**Active:** 2011–present
+
+A cross-platform open-source C++ toolkit for building Bitcoin applications, organized around the principles of privacy, scalability, and integrity. Libbitcoin was the first complete reimplementation of the Bitcoin protocol in a codebase independent of Satoshi Nakamoto's original client. First commits were made by Patrick Strateman (phantomcircuit) on May 18, 2011; the project was publicly announced July 21, 2011 and led from the outset by Amir Taaki (genjix). Taaki's stated motivation was ideological as well as technical: existing Bitcoin tooling was entirely centralized around Satoshi's reference implementation, and libbitcoin was designed from the start to embody cypherpunk values including privacy and decentralization. The SubvertX (sx) command-line tool was announced November 2, 2011 and became the primary user-facing interface in the project's early years. Other notable early contributors include Denis Roio (jaromil) of Dyne.org, Luke Dashjr, and Robert Williamson. Eric Voskuil (evoskuil) — a former U.S. Navy fighter pilot, ex-Microsoft software architect, and serial entrepreneur who discovered Bitcoin in 2011 — joined libbitcoin within a week of discovering Bitcoin after meeting Taaki through a mutual contact; he visited Taaki at Calafou, an anarchist colony in Catalonia, before committing to the project. As Taaki progressively disengaged and departed for Rojava in 2015, Voskuil became the de facto lead maintainer, a role he has held since, accumulating over 7,100 commits. He redesigned sx into Bitcoin Explorer (bx 2.0), released December 14, 2014, and released Bitcoin Server (bs 2.0) in May 2015. Version 3.0 shipped across all components in March 2017. The project is structured as a set of independent C++ libraries — including libbitcoin-system, libbitcoin-network, libbitcoin-blockchain, libbitcoin-database, and libbitcoin-protocol — composable into applications rather than a monolithic client. Andreas Antonopoulos featured Bitcoin Explorer prominently in *Mastering Bitcoin* (O'Reilly, 2014 and 2017). Notable downstream projects include Dark Wallet (Taaki and Cody Wilson, 2014), Airbitz, and the original DarkMarket prototype that became OpenBazaar. In 2019 Voskuil co-founded the Libbitcoin Institute, a U.S. 501(c)3 non-profit, with Thomas Pacchia and Lucas Betschart to fund development and Bitcoin education. In February 2020 he organized CryptoEcon in Hanoi, Vietnam — described as the first conference dedicated to cryptoeconomic theory — and published *Cryptoeconomics: Fundamental Principles of Bitcoin* with co-author James Chiang and a foreword by Taaki. In August 2023 the "Milk Sad" vulnerability (CVE-2023-39910) was publicly disclosed: the `bx seed` command in Bitcoin Explorer 3.x used the Mersenne Twister PRNG seeded with only 32 bits of system clock time, reducing the keyspace for generated wallet seeds to approximately 2^32 values — small enough to brute-force. Exploitation was first detected May 3, 2023; a coordinated theft of approximately 29.65 BTC (~$850,000) occurred July 12, 2023; the vulnerability was identified July 21 during incident response and publicly disclosed August 8 by a team at Distrust LLC. Total losses across Bitcoin and other networks exceeded $900,000 across more than 2,600 wallets. Voskuil disputed the CVE classification, noting that `bx seed` carried documented warnings against production use, and characterized the incident as user error rather than a library defect; the `bx seed` command was nonetheless removed in the version 3.8.0 release on August 18, 2023. Version 4 is in active development as of 2026. Cross-reference: Amir Taaki, Dark Wallet.
+
+**Sources:**
+- en.bitcoin.it/wiki/Libbitcoin
+- github.com/libbitcoin — contributor data and release history
+- libbitcoininstitute.org
+- milksad.info/disclosure.html — CVE-2023-39910 technical disclosure
+- NVD: nvd.nist.gov/vuln/detail/CVE-2023-39910
+- github.com/libbitcoin/libbitcoin-explorer/wiki/cve-2023-39910 — official libbitcoin response
+- Bitcoin Magazine — "'Bitcoin Always Needed More Than One Body of Developers': An Interview with Libbitcoin's Eric Voskuil" (February 2016)
+- Bitcoin Saigon — Eric Voskuil / CryptoEcon 2020 interview
+- CoinDesk — "7 Questions for Bitcoin Anarchist Eric Voskuil" (May 2021)
 
 ---
 
